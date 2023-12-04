@@ -1,5 +1,5 @@
 ---
 FullName: Alexandre Schaefer
 HeadShotFilename: aschaefer.png
-StudyId: AmodioJost2007 
+StudyId: AmodioJost2007
 ---
