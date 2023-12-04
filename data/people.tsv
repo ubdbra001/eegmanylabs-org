@@ -1,28 +1,28 @@
-FullName	HeadShotFilename	StudyId
-Alexandre Schaefer	aschaefer.png	AmodioJost2007 
-Kilian Gloy	kgloy.jpg	AmodioMaster2008
-Jakob Kaiser	jkaiser.jpg	Boksem2006
-Narayanan Srinivasan	nsrinivasan.jpg	BuschVanRullen2010
-Nicolas Burra	nburra.jpg	Carretie2004
-Andreas Keil	akeil.png	ClarkHillyard1996
-Kobe Desender 	kdesender.jpg	DelCul2007
-Welber Marinovic	wmarinovic.jpg	DonkersvanBoxtel2004
-Giorgio Ganis	gganis.jpg	Eimer1993
-Heinrich Liesefeld	hliesefeld.png	Eimer1996
-Xun He	xhe.png	Eimer2003
-Armand Chatard	achatard.png	Frank2005
-Edelyn Verona	everona.png	Hajcak2003
-Melle van der Molen 	mvandermolen.jpg	Hajcak2006
-Daniel Bradford	dbradford.jpg	HajcakFoti2008
-Gilles Pourtois	gpourtois.png	HajcakHolroyd2005
-Magdalena Senderecka	msenderecka.png	HajcakMoser2005
-Annmarie MacNamara	amacnamara.jpg	Inzlicht2009
-Guiomar Niso	gniso.png	Luck1996
-Manuela Ruzzoli	mruzzoli.jpg	Mathewson2009
-Matthias Gamer	mgamer.jpg	Miltner1999
-Richard Naar	rnaar.jpg	Muller2003
-Samantha Gregory	sgregory.jpg	Onton2005
-Damian Cruse	dcruse.jpg	Sergent2005
-Cameron Hassall	chassall.jpg	Vidal2000
-Nicolas Langer	nlanger.jpg	VogelMachizawa2004
-Faisal Mushtaq	fmushtaq.png	YeungSanfey2004
+PersonId	FullName	HeadShotFilename	StudyId
+aschaefer	Alexandre Schaefer	aschaefer.png	AmodioJost2007 
+kgloy	Kilian Gloy	kgloy.jpg	AmodioMaster2008
+jkaiser	Jakob Kaiser	jkaiser.jpg	Boksem2006
+nsrinivasan	Narayanan Srinivasan	nsrinivasan.jpg	BuschVanRullen2010
+nburra	Nicolas Burra	nburra.jpg	Carretie2004
+akeil	Andreas Keil	akeil.png	ClarkHillyard1996
+kdesender	Kobe Desender 	kdesender.jpg	DelCul2007
+wmarinovic	Welber Marinovic	wmarinovic.jpg	DonkersvanBoxtel2004
+gganis	Giorgio Ganis	gganis.jpg	Eimer1993
+hliesefeld	Heinrich Liesefeld	hliesefeld.png	Eimer1996
+xhe	Xun He	xhe.png	Eimer2003
+achatard	Armand Chatard	achatard.png	Frank2005
+everona	Edelyn Verona	everona.png	Hajcak2003
+mvandermolen	Melle van der Molen 	mvandermolen.jpg	Hajcak2006
+dbradford	Daniel Bradford	dbradford.jpg	HajcakFoti2008
+gpourtois	Gilles Pourtois	gpourtois.png	HajcakHolroyd2005
+msenderecka	Magdalena Senderecka	msenderecka.png	HajcakMoser2005
+amacnamara	Annmarie MacNamara	amacnamara.jpg	Inzlicht2009
+gniso	Guiomar Niso	gniso.png	Luck1996
+mruzzoli	Manuela Ruzzoli	mruzzoli.jpg	Mathewson2009
+mgamer	Matthias Gamer	mgamer.jpg	Miltner1999
+rnaar	Richard Naar	rnaar.jpg	Muller2003
+sgregory	Samantha Gregory	sgregory.jpg	Onton2005
+dcruse	Damian Cruse	dcruse.jpg	Sergent2005
+chassall	Cameron Hassall	chassall.jpg	Vidal2000
+nlanger	Nicolas Langer	nlanger.jpg	VogelMachizawa2004
+fmushtaq	Faisal Mushtaq	fmushtaq.png	YeungSanfey2004
