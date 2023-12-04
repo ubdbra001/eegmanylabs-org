@@ -1,5 +1,5 @@
 ---
-FullName: Jane Doe
-HeadShotFilename: jdoe.png
-StudyId: James1100
+FullName: {{ FullName }}
+HeadShotFilename: {{ HeadShotFilename }}
+StudyId: {{ StudyId }}
 ---
