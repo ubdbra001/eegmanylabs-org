@@ -6,4 +6,4 @@ PsychConstruct: {{ PsychConstruct }}
 SignupUrl: {{ SignupUrl }}
 ---
 
-{{ Abstract }}
+> {{ Abstract }}
