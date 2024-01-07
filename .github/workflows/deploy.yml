@@ -19,7 +19,7 @@ jobs:
             - name: Build site
               run: syrinx .
             - name: Inspect files
-              run: ls -R dist
+              run: ls -l
             - name: Set up QEMU
               uses: docker/setup-qemu-action@v3
             - name: Set up Docker Buildx
@@ -34,7 +34,7 @@ jobs:
               with:
                 context: .
                 push: true
-                tags: meadowsresearch/eegmanylabsorg:v0.1
+                tags: meadowsresearch/eegmanylabsorg:v0.2
             - name: Install DigitalOcean CLI
               uses: digitalocean/action-doctl@v2
               with:
