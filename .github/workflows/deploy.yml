@@ -40,4 +40,4 @@ jobs:
               with:
                   token: ${{ secrets.DIGITALOCEAN_ACCESS_TOKEN }}
             - name: Deploy App
-              run: doctl apps update seashell-app
+              run: doctl apps update seashell-app --spec .do/seashell-app.yml
