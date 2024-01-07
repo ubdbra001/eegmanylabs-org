@@ -1,6 +1,6 @@
 ---
 ---
 
-# EEGManyLabs
+# Replications
 
-Lorem Ipsum
+this is the replications index page

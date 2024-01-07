@@ -1,6 +1,6 @@
 ---
 ---
 
-# EEGManyLabs
+# People
 
-Lorem Ipsum
+this is the people index page

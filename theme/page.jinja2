@@ -2,6 +2,13 @@
 
 {% block main %}
 
-{{ content|safe }}
+<h3>local menu</h3>
+
+{% for child in node.children %}
+    <a href="{{ child.name }}/">{{ child.name }}</a>
+{% endfor %}
+
+
+{{ node.content_html|safe }}
 
 {% endblock %}
