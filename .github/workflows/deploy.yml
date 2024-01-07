@@ -17,7 +17,9 @@ jobs:
             - name: Install dependencies
               run: pip install -r requirements.txt
             - name: Build site
-              run: sitegen build .
+              run: syrinx .
+            - name: Inspect files
+              run: ls -l
             - name: Set up QEMU
               uses: docker/setup-qemu-action@v3
             - name: Set up Docker Buildx
@@ -25,16 +27,17 @@ jobs:
             - name: Login to Docker Hub
               uses: docker/login-action@v3
               with:
-                username: ${{ secrets.DOCKERHUB_USERNAME }}
+                username: meadowsresearch
                 password: ${{ secrets.DOCKERHUB_TOKEN }}
             - name: Build and push
               uses: docker/build-push-action@v5
               with:
+                context: .
                 push: true
-                tags: meadowsresearch/eegmanylabs:latest
+                tags: meadowsresearch/eegmanylabsorg:v0.3
             - name: Install DigitalOcean CLI
               uses: digitalocean/action-doctl@v2
               with:
                   token: ${{ secrets.DIGITALOCEAN_ACCESS_TOKEN }}
             - name: Deploy App
-              run: doctl apps update seashell-app
+              run: doctl apps update acd1f9b7-f0a2-4e21-a320-6bba1c5cfd16 --spec .do/seashell-app.yml

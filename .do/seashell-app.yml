@@ -13,12 +13,12 @@ ingress:
 name: seashell-app
 region: lon
 services:
-- http_port: 8080
+- http_port: 80
   image:
     registry: meadowsresearch
     registry_type: DOCKER_HUB
     repository: eegmanylabsorg
-    tag: latest
+    tag: v0.3
   instance_count: 1
   instance_size_slug: basic-xxs
   name: meadowsresearch-eegmanylabsorg
