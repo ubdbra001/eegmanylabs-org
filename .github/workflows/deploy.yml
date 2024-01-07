@@ -18,6 +18,8 @@ jobs:
               run: pip install -r requirements.txt
             - name: Build site
               run: syrinx .
+            - name: Inspect files
+              run: ls -R dist
             - name: Set up QEMU
               uses: docker/setup-qemu-action@v3
             - name: Set up Docker Buildx
