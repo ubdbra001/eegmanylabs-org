@@ -13,7 +13,7 @@ ingress:
 name: seashell-app
 region: lon
 services:
-- http_port: 8080
+- http_port: 80
   image:
     registry: meadowsresearch
     registry_type: DOCKER_HUB
