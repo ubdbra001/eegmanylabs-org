@@ -1,5 +1,5 @@
 ---
-StudyId: 
+StudyId: Hajcak2006
 LeadFullName: Melle van der Molen 
 Study: Hajcak, G., Moser, J. S., Holroyd, C. B., & Simons, R. F. (2006). The feedback-related negativity reflects the binary evaluation of good versus bad outcomes. Biological Psychology, 71(2), 148–154. https://doi.org/10.1016/j.biopsycho.2005.04.001
 PsychConstruct: reward processing, feedback, outcome monitoring, emotions

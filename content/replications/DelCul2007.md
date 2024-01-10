@@ -1,5 +1,5 @@
 ---
-StudyId: 
+StudyId: DelCul2007
 LeadFullName: Kobe Desender 
 Study: Del Cul, A., Baillet, S., & Dehaene, S. (2007). Brain Dynamics Underlying the Nonlinear Threshold for Access to Consciousness. PLoS Biology, 5(10), e260. https://doi.org/10.1371/journal.pbio.0050260
 PsychConstruct: consciousness

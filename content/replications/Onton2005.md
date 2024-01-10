@@ -1,5 +1,5 @@
 ---
-StudyId: 
+StudyId: Onton2005
 LeadFullName: Samantha Gregory
 Study: Onton, J., Delorme, A., & Makeig, S. (2005). Frontal midline EEG dynamics during working memory. NeuroImage, 27(2), 341–356. https://doi.org/10.1016/j.neuroimage.2005.04.014
 PsychConstruct: working memory

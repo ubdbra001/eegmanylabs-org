@@ -1,5 +1,5 @@
 ---
-StudyId: 
+StudyId: HajcakFoti2008
 LeadFullName: Daniel Bradford
 Study: Hajcak, G., & Foti, D. (2008). Errors Are Aversive: Defensive Motivation and the Error-Related Negativity. Psychological Science, 19(2), 103–108. https://doi.org/10.1111/j.1467-9280.2008.02053.x
 PsychConstruct: emotions

@@ -1,5 +1,5 @@
 ---
-PublicationId: 
+PublicationId: Constant2023
 Authors: Constant M,Mandal A,Asanowicz D,Yamaguchi M,et al.
 Title: A multilab investigation into the N2pc as an indicator of attentional selectivity: Direct replication of Eimer (1996)
 Journal: psyarxiv.com
@@ -9,4 +9,4 @@ DOI: nan
 Abstract: The N2pc is widely employed as an electrophysiological marker of an attention allocation. This interpretation was in no small part driven by the observation of an N2pc elicited by an …
 ---
 
-Constant M,Mandal A,Asanowicz D,Yamaguchi M,et al.  A multilab investigation into the N2pc as an indicator of attentional selectivity: Direct replication of Eimer (1996)
+Constant M,Mandal A,Asanowicz D,Yamaguchi M,et al. 2023 A multilab investigation into the N2pc as an indicator of attentional selectivity: Direct replication of Eimer (1996)

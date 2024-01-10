@@ -1,5 +1,5 @@
 ---
-StudyId: 
+StudyId: Inzlicht2009
 LeadFullName: Annmarie MacNamara
 Study: Inzlicht, M., McGregor, I., Hirsh, J. B., & Nash, K. (2009). Neural Markers of Religious Conviction. Psychological Science, 20(3), 385–392. https://doi.org/10.1111/j.1467-9280.2009.02305.x
 PsychConstruct: personality

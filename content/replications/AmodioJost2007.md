@@ -1,5 +1,5 @@
 ---
-StudyId: 
+StudyId: AmodioJost2007
 LeadFullName: Alexandre Schaefer
 Study: Amodio, D. M., Jost, J. T., Master, S. L., & Yee, C. M. (2007). Neurocognitive correlates of liberalism and conservatism. Nature Neuroscience, 10(10), 1246–1247. https://doi.org/10.1038/nn1979
 PsychConstruct: conflict monitoring

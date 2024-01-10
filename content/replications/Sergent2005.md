@@ -1,5 +1,5 @@
 ---
-StudyId: 
+StudyId: Sergent2005
 LeadFullName: Damian Cruse
 Study: Sergent, C., Baillet, S., & Dehaene, S. (2005). Timing of the brain events underlying access to consciousness during the attentional blink. Nature Neuroscience, 8(10), 1391–1400. https://doi.org/10.1038/nn1549
 PsychConstruct: consciousness

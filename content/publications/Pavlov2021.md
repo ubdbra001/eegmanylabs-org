@@ -1,5 +1,5 @@
 ---
-PublicationId: 
+PublicationId: Pavlov2021
 Authors: Pavlov YG,Adamian N,Appelhoff S,Arvaneh M,et al.
 Title: # EEGManyLabs: Investigating the replicability of influential EEG experiments
 Journal: Cortex
@@ -9,4 +9,4 @@ DOI: nan
 Abstract: There is growing awareness across the neuroscience community that the replicability of findings about the relationship between brain activity and cognitive phenomena can be …
 ---
 
-Pavlov YG,Adamian N,Appelhoff S,Arvaneh M,et al.  # EEGManyLabs: Investigating the replicability of influential EEG experiments
+Pavlov YG,Adamian N,Appelhoff S,Arvaneh M,et al. 2021 # EEGManyLabs: Investigating the replicability of influential EEG experiments

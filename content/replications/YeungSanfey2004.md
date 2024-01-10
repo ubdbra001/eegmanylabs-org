@@ -1,5 +1,5 @@
 ---
-StudyId: 
+StudyId: YeungSanfey2004
 LeadFullName: Faisal Mushtaq
 Study: Yeung, N. Sanfey, AG (2004). Independent Coding of Reward Magnitude and Valence in the Human Brain. Journal of Neuroscience, 24(28), 6258–6264. https://doi.org/10.1523/JNEUROSCI.4537-03.2004
 PsychConstruct: reward processing

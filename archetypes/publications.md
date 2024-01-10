@@ -1,5 +1,5 @@
 ---
-PublicationId: {{ ID }}
+PublicationId: {{ PublicationId }}
 Authors: {{ Authors }}
 Title: {{ Title }}
 Journal: {{ Journal }}

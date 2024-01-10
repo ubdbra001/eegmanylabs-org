@@ -1,5 +1,5 @@
 ---
-StudyId: 
+StudyId: Eimer1996
 LeadFullName: Heinrich Liesefeld
 Study: Eimer, M. (1996). The N2pc component as an indicator of attentional selectivity. Electroencephalography and Clinical Neurophysiology, 99(3), 225–234. https://doi.org/10.1016/0013-4694(96)95711-9
 PsychConstruct: visual perception, attention

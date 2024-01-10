@@ -1,5 +1,5 @@
 ---
-StudyId: 
+StudyId: VogelMachizawa2004
 LeadFullName: Nicolas Langer
 Study: Vogel, E. K., & Machizawa, M. G. (2004). Neural activity predicts individual differences in visual working memory capacity. Nature, 428(6984), 748–751. https://doi.org/10.1038/nature02447
 PsychConstruct: working memory

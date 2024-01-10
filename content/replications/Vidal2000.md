@@ -1,5 +1,5 @@
 ---
-StudyId: 
+StudyId: Vidal2000
 LeadFullName: Cameron Hassall
 Study: Vidal, F., Hasbroucq, T., Grapperon, J., & Bonnet, M. (2000). Is the ‘error negativity’ specific to errors? Biological Psychology, 51(2–3), 109–128. https://doi.org/10.1016/S0301-0511(99)00032-0
 PsychConstruct: action monitoring

@@ -1,5 +1,5 @@
 ---
-StudyId: 
+StudyId: Eimer1993
 LeadFullName: Giorgio Ganis
 Study: Eimer, M. (1993). Effects of attention and stimulus probability on ERPs in a Go/Nogo task. Biological Psychology, 35(2), 123–138. https://doi.org/10.1016/0301-0511(93)90009-W
 PsychConstruct: attention
