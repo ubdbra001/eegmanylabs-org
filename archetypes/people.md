@@ -9,4 +9,4 @@ StudyId: {{ StudyId }}
 
 ## {{ FullName }}
 
-Involved in [{{ StudyId }}](/replications/{{ StudyId }})
+Leads [{{ StudyId }}](/replications/{{ StudyId }})

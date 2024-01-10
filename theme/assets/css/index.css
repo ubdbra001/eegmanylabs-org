@@ -1,30 +1,55 @@
 body {
-    font-family: 'JetBrains Mono', serif;
-    font-size: 13px;
-    margin: 20px;
+    margin: 0;
     background-color: #f9f4e3;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    /*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; *//* bootstrap default for backwards compat */
+    font-size: 14px; /* bootstrap default for backwards compat */
 }
-
 
 img {
     width: 200px;
 }
 
-/* BIO */
-
-.bio-section {
-    font-size: 16px;
-    width: 500px;
-    margin: auto;
-    color: #585858;
-}
-
-.bio-section img {
-    width: 200px;
-    float: right;
-}
-
 #logo {
-    width: 100px;
+    width: 40px;
     background-color: navy;
+}
+
+/* temp style */
+
+#body-container {
+    margin-top: 40px;
+    min-height: calc(100vh - 80px); /* push footer down. 80px = header+footer */
+    overflow: hidden; /* prevents child elements' margins from pushing this around  */
+}
+div#content {
+    max-width: 600px;
+    margin: auto;
+}
+nav#menu {
+    height: 40px;
+    width:100%;
+    overflow: auto; /* if the floating menu wraps around, extend this nav */
+    z-index: 1;     /* always on top */
+    background-color: white; /* to cover content below */
+    position: fixed;  /* attached to the top */
+    top: 0;
+    font-size: 16px;
+}
+nav#menu a {
+    color: #666666;
+    text-decoration: none;
+}
+nav#menu a:hover {
+    color: black;
+}
+nav#menu ul {
+	float: right;
+	margin: 0;
+	padding: 8px 0 0 0;
+	list-style-type: none;
+}
+nav#menu li {
+	display: inline;
+	margin: 0 1em 0 0;
 }
