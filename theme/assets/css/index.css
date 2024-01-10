@@ -18,3 +18,7 @@ body {
     width: 200px;
     float: right;
 }
+
+#logo {
+    width: 100px;
+}
