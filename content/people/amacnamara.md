@@ -9,4 +9,4 @@ StudyId: Inzlicht2009
 
 ## Annmarie MacNamara
 
-Involved in [Inzlicht2009](/replications/Inzlicht2009)
+Leads [Inzlicht2009](/replications/Inzlicht2009)

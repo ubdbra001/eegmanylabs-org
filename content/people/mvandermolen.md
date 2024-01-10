@@ -9,4 +9,4 @@ StudyId: Hajcak2006
 
 ## Melle van der Molen 
 
-Involved in [Hajcak2006](/replications/Hajcak2006)
+Leads [Hajcak2006](/replications/Hajcak2006)

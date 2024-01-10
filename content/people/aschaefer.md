@@ -9,4 +9,4 @@ StudyId: AmodioJost2007
 
 ## Alexandre Schaefer
 
-Involved in [AmodioJost2007](/replications/AmodioJost2007)
+Leads [AmodioJost2007](/replications/AmodioJost2007)

@@ -9,4 +9,4 @@ StudyId: Carretie2004
 
 ## Nicolas Burra
 
-Involved in [Carretie2004](/replications/Carretie2004)
+Leads [Carretie2004](/replications/Carretie2004)

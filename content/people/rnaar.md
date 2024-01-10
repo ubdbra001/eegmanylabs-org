@@ -9,4 +9,4 @@ StudyId: Muller2003
 
 ## Richard Naar
 
-Involved in [Muller2003](/replications/Muller2003)
+Leads [Muller2003](/replications/Muller2003)

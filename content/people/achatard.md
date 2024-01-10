@@ -9,4 +9,4 @@ StudyId: Frank2005
 
 ## Armand Chatard
 
-Involved in [Frank2005](/replications/Frank2005)
+Leads [Frank2005](/replications/Frank2005)

@@ -9,4 +9,4 @@ StudyId: Eimer1993
 
 ## Giorgio Ganis
 
-Involved in [Eimer1993](/replications/Eimer1993)
+Leads [Eimer1993](/replications/Eimer1993)

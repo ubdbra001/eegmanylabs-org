@@ -9,4 +9,4 @@ StudyId: HajcakHolroyd2005
 
 ## Gilles Pourtois
 
-Involved in [HajcakHolroyd2005](/replications/HajcakHolroyd2005)
+Leads [HajcakHolroyd2005](/replications/HajcakHolroyd2005)

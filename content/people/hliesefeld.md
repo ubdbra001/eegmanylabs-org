@@ -9,4 +9,4 @@ StudyId: Eimer1996
 
 ## Heinrich Liesefeld
 
-Involved in [Eimer1996](/replications/Eimer1996)
+Leads [Eimer1996](/replications/Eimer1996)

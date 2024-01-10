@@ -9,4 +9,4 @@ StudyId: YeungSanfey2004
 
 ## Faisal Mushtaq
 
-Involved in [YeungSanfey2004](/replications/YeungSanfey2004)
+Leads [YeungSanfey2004](/replications/YeungSanfey2004)

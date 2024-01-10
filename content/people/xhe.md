@@ -9,4 +9,4 @@ StudyId: Eimer2003
 
 ## Xun He
 
-Involved in [Eimer2003](/replications/Eimer2003)
+Leads [Eimer2003](/replications/Eimer2003)

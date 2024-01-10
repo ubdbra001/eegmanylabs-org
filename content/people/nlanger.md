@@ -9,4 +9,4 @@ StudyId: VogelMachizawa2004
 
 ## Nicolas Langer
 
-Involved in [VogelMachizawa2004](/replications/VogelMachizawa2004)
+Leads [VogelMachizawa2004](/replications/VogelMachizawa2004)

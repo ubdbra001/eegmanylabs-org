@@ -9,4 +9,4 @@ StudyId: DelCul2007
 
 ## Kobe Desender 
 
-Involved in [DelCul2007](/replications/DelCul2007)
+Leads [DelCul2007](/replications/DelCul2007)

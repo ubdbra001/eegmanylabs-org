@@ -9,4 +9,4 @@ StudyId: Hajcak2003
 
 ## Edelyn Verona
 
-Involved in [Hajcak2003](/replications/Hajcak2003)
+Leads [Hajcak2003](/replications/Hajcak2003)

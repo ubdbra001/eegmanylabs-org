@@ -9,4 +9,4 @@ StudyId: Sergent2005
 
 ## Damian Cruse
 
-Involved in [Sergent2005](/replications/Sergent2005)
+Leads [Sergent2005](/replications/Sergent2005)

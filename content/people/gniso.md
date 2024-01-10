@@ -9,4 +9,4 @@ StudyId: Luck1996
 
 ## Guiomar Niso
 
-Involved in [Luck1996](/replications/Luck1996)
+Leads [Luck1996](/replications/Luck1996)

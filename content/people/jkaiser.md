@@ -9,4 +9,4 @@ StudyId: Boksem2006
 
 ## Jakob Kaiser
 
-Involved in [Boksem2006](/replications/Boksem2006)
+Leads [Boksem2006](/replications/Boksem2006)

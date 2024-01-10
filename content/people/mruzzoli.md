@@ -9,4 +9,4 @@ StudyId: Mathewson2009
 
 ## Manuela Ruzzoli
 
-Involved in [Mathewson2009](/replications/Mathewson2009)
+Leads [Mathewson2009](/replications/Mathewson2009)

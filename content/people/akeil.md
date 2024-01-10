@@ -9,4 +9,4 @@ StudyId: ClarkHillyard1996
 
 ## Andreas Keil
 
-Involved in [ClarkHillyard1996](/replications/ClarkHillyard1996)
+Leads [ClarkHillyard1996](/replications/ClarkHillyard1996)

@@ -9,4 +9,4 @@ StudyId: Miltner1999
 
 ## Matthias Gamer
 
-Involved in [Miltner1999](/replications/Miltner1999)
+Leads [Miltner1999](/replications/Miltner1999)

@@ -9,4 +9,4 @@ StudyId: HajcakFoti2008
 
 ## Daniel Bradford
 
-Involved in [HajcakFoti2008](/replications/HajcakFoti2008)
+Leads [HajcakFoti2008](/replications/HajcakFoti2008)

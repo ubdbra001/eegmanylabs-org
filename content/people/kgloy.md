@@ -9,4 +9,4 @@ StudyId: AmodioMaster2008
 
 ## Kilian Gloy
 
-Involved in [AmodioMaster2008](/replications/AmodioMaster2008)
+Leads [AmodioMaster2008](/replications/AmodioMaster2008)

@@ -9,4 +9,4 @@ StudyId: HajcakMoser2005
 
 ## Magdalena Senderecka
 
-Involved in [HajcakMoser2005](/replications/HajcakMoser2005)
+Leads [HajcakMoser2005](/replications/HajcakMoser2005)

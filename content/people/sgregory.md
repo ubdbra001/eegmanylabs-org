@@ -9,4 +9,4 @@ StudyId: Onton2005
 
 ## Samantha Gregory
 
-Involved in [Onton2005](/replications/Onton2005)
+Leads [Onton2005](/replications/Onton2005)

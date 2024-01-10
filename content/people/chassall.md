@@ -9,4 +9,4 @@ StudyId: Vidal2000
 
 ## Cameron Hassall
 
-Involved in [Vidal2000](/replications/Vidal2000)
+Leads [Vidal2000](/replications/Vidal2000)

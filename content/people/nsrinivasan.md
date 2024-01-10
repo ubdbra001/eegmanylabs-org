@@ -9,4 +9,4 @@ StudyId: BuschVanRullen2010
 
 ## Narayanan Srinivasan
 
-Involved in [BuschVanRullen2010](/replications/BuschVanRullen2010)
+Leads [BuschVanRullen2010](/replications/BuschVanRullen2010)
