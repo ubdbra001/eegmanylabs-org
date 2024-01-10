@@ -34,7 +34,7 @@ jobs:
               with:
                 context: .
                 push: true
-                tags: meadowsresearch/eegmanylabsorg:v0.3
+                tags: meadowsresearch/eegmanylabsorg:v0.4
             - name: Install DigitalOcean CLI
               uses: digitalocean/action-doctl@v2
               with:
