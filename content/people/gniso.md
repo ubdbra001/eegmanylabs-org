@@ -4,3 +4,9 @@ FullName: Guiomar Niso
 HeadShotFilename: gniso.png
 StudyId: Luck1996
 ---
+
+![headshot of researcher](/assets/images/headshots/gniso.png "Guiomar Niso")
+
+## Guiomar Niso
+
+Involved in [Luck1996](/replications/Luck1996)

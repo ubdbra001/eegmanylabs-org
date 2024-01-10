@@ -5,6 +5,11 @@ body {
     background-color: #f9f4e3;
 }
 
+
+img {
+    width: 200px;
+}
+
 /* BIO */
 
 .bio-section {
