@@ -1,7 +1,12 @@
 ---
-StudyId: {{ StudyId }}
-LeadFullName: {{ LeadFullName }}
-Study: {{ Study }}
+PublicationId: {{ ID }}
+Authors: {{ Authors }}
+Title: {{ Title }}
+Journal: {{ Journal }}
+Year: {{ Publication_year }}
+URL: {{ URLs }}
+DOI: {{ DOI }}
+Abstract: {{ Abstract }}
 ---
 
-> {{ Abstract }}
+{{ Authors }} {{ Publication_year }} {{ Title }}
