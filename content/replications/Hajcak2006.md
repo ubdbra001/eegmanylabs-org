@@ -6,7 +6,7 @@ PsychConstruct: reward processing, feedback, outcome monitoring, emotions
 SignupUrl: https://forms.gle/Qx87BSa5f5AFcJaD7
 ---
 
- Hajcak2006
+# Hajcak2006
 
 Lead by Melle van der Molen 
 

@@ -6,7 +6,7 @@ PsychConstruct: {{ PsychConstruct }}
 SignupUrl: {{ SignupUrl }}
 ---
 
- {{ StudyId }}
+# {{ StudyId }}
 
 Lead by {{ LeadFullName }}
 

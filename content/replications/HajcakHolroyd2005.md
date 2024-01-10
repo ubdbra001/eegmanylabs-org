@@ -6,7 +6,7 @@ PsychConstruct: feedback and reward processing
 SignupUrl: https://forms.gle/DbRc2LqtyUJ8auFS7
 ---
 
- HajcakHolroyd2005
+# HajcakHolroyd2005
 
 Lead by Gilles Pourtois
 

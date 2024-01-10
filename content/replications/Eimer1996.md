@@ -6,7 +6,7 @@ PsychConstruct: visual perception, attention
 SignupUrl: https://forms.gle/vpLfDVE4mxoENdQT6
 ---
 
- Eimer1996
+# Eimer1996
 
 Lead by Heinrich Liesefeld
 

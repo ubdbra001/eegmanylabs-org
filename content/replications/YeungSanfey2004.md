@@ -6,7 +6,7 @@ PsychConstruct: reward processing
 SignupUrl: https://forms.gle/Cs24L1D7tw8FULe79
 ---
 
- YeungSanfey2004
+# YeungSanfey2004
 
 Lead by Faisal Mushtaq
 

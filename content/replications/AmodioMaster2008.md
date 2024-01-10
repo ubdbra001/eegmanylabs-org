@@ -6,7 +6,7 @@ PsychConstruct: conflict monitoring
 SignupUrl: https://forms.gle/jmY4vkLoVRdyde9P6
 ---
 
- AmodioMaster2008
+# AmodioMaster2008
 
 Lead by Kilian Gloy
 

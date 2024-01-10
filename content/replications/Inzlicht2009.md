@@ -6,7 +6,7 @@ PsychConstruct: personality
 SignupUrl: https://docs.google.com/forms/d/e/1FAIpQLSf-1WI2kgXsOOYN8POhNKVcpeSGmTqJQqXF--e8QCLxTRGUiA/viewform?usp=sf_link
 ---
 
- Inzlicht2009
+# Inzlicht2009
 
 Lead by Annmarie MacNamara
 

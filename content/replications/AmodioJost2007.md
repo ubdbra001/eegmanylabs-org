@@ -6,7 +6,7 @@ PsychConstruct: conflict monitoring
 SignupUrl: https://forms.gle/rdEG2i9K2u7173bp6
 ---
 
- AmodioJost2007
+# AmodioJost2007
 
 Lead by Alexandre Schaefer
 
