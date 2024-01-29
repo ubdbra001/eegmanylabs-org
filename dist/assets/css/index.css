@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    background-color: #fef9e8ee;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    /*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; *//* bootstrap default for backwards compat */
+    font-size: 14px; /* bootstrap default for backwards compat */
+}
+
+img {
+    width: 200px;
+}
+
+#logo {
+    width: 200px;
+}
+
+/* these sometimes appear in html from markdown */
+hr {
+    display: none;
+}
+
+/* temp style */
+
+#body-container {
+    margin-top: 40px;
+    min-height: calc(100vh - 80px); /* push footer down. 80px = header+footer */
+    overflow: hidden; /* prevents child elements' margins from pushing this around  */
+}
+div#content {
+    max-width: 600px;
+    margin: auto;
+}
+nav#menu {
+    height: 40px;
+    width:100%;
+    overflow: visible; /* if the floating menu wraps around, extend this nav */
+    z-index: 1;     /* always on top */
+    position: fixed;  /* attached to the top */
+    top: 0;
+    font-size: 16px;
+}
+nav#menu a {
+    color: #666666;
+    text-decoration: none;
+}
+nav#menu a:hover {
+    color: black;
+}
+nav#menu ul {
+	float: right;
+	margin: 0;
+	padding: 8px 0 0 0;
+	list-style-type: none;
+}
+nav#menu li {
+	display: inline;
+	margin: 0 1em 0 0;
+}
+
+
+/* footer */
+footer {
+    height: 30px;
+    overflow: hidden;
+    background-color: rgb(46, 46, 46);
+    color: rgb(131, 140, 149);
+    font-size: 12px;
+    font-weight: normal;
+    padding: 5px 4em;
+    text-align: left;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
