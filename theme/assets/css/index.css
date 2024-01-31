@@ -1,9 +1,9 @@
 body {
     margin: 0;
-    background-color: #fef9e8ee;
-    font-family: Tahoma, Geneva, Verdana, sans-serif;
-    /*font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; *//* bootstrap default for backwards compat */
-    font-size: 14px; /* bootstrap default for backwards compat */
+    background-color: #F7F7F7;
+    font-family: "Public Sans", sans-serif;
+    font-weight: 300;
+    font-size: 14px;
 }
 
 img {
