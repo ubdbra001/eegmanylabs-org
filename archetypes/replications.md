@@ -1,17 +1,16 @@
 ---
 StudyId: {{ StudyId }}
 LeadFullName: {{ LeadFullName }}
-Study: {{ Study }}
+PersonId: {{ PersonId }}
+Title: {{ Title }}
+Reference: {{ Reference }}
 PsychConstruct: {{ PsychConstruct }}
 SignupUrl: {{ SignupUrl }}
 ---
 
-## {{ StudyId }}
+## {{ Title }}
 
-Lead by {{ LeadFullName }}
+Lead by [{{ LeadFullName }}](/people/{{ PersonId }})
+[Sign-up form]({{ SignupUrl }})
 
 > {{ Abstract }}
-
-<i>{{ Study }}</i>
-
-[Sign-up form]({{ SignupUrl }})

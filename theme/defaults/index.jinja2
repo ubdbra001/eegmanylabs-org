@@ -2,12 +2,16 @@
 
 {% block main %}
 
+<article>
 {{ index.content_html|safe }}
+</article>
 
+<div class="section-container" id="{{ index.name }}"> {# ideally move this one container up#}
 {% for section in index.sections %}
     {% include 'defaults/section.jinja2' %}
     {#{{ theme.formatSection(folder) }}#}
 {% endfor %}
+</div>
 
 {#
 {% for folder in index.folders %}
