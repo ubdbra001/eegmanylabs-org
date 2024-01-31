@@ -33,11 +33,13 @@ div#content {
 nav#menu {
     height: 40px;
     width:100%;
+    padding: 8px;
     overflow: visible; /* if the floating menu wraps around, extend this nav */
     z-index: 1;     /* always on top */
     position: fixed;  /* attached to the top */
     top: 0;
     font-size: 16px;
+    font-weight: normal;
 }
 nav#menu a {
     color: #666666;
@@ -49,7 +51,7 @@ nav#menu a:hover {
 nav#menu ul {
 	float: right;
 	margin: 0;
-	padding: 8px 0 0 0;
+	padding: 8px 8px 0 0;
 	list-style-type: none;
 }
 nav#menu li {
