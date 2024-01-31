@@ -7,11 +7,11 @@ body {
 }
 
 img {
-    width: 200px;
+    height: 100px;
 }
 
 #logo {
-    width: 200px;
+    height: 60px;
 }
 
 /* these sometimes appear in html from markdown */
@@ -71,4 +71,37 @@ footer {
     -webkit-box-sizing: content-box;
     -moz-box-sizing: content-box;
     box-sizing: content-box;
+}
+
+
+/*  
+    SECTION
+*/
+
+#contact ul {
+    list-style-type: none;
+    text-align: justify;
+}
+
+#contact li {
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    font-size: 12px;
+    color: rgb(49, 49, 49);
+}
+
+#contact a {
+    color: black;
+    text-decoration: none;
+}
+
+#contact a:hover {
+    text-decoration: underline;
+}
+
+#contact img {
+    height: 40px;
+    display: block;
+    margin: auto;
 }
