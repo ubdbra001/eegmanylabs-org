@@ -22,12 +22,12 @@ hr {
 /* temp style */
 
 #body-container {
-    margin-top: 40px;
+    margin-top: 60px;
     min-height: calc(100vh - 80px); /* push footer down. 80px = header+footer */
     overflow: hidden; /* prevents child elements' margins from pushing this around  */
 }
 div#content {
-    max-width: 600px;
+    width: 75%;
     margin: auto;
 }
 nav#menu {
@@ -75,14 +75,42 @@ footer {
     box-sizing: content-box;
 }
 
+/* 
+    INDEX
+*/
+
+article {
+    max-width: 600px;
+    margin: auto;
+}
+
+.section-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+}
 
 /*  
     SECTION
 */
 
+section {
+    max-width: 400px;
+    padding: 10px;
+}
+
 /*  
     CONTACT SECTION
 */
+section#contact {
+    max-width: none;
+}
+
+#contact ul {
+    list-style-type: none;
+    text-align: justify;
+}
 
 #contact ul {
     list-style-type: none;
@@ -110,4 +138,18 @@ footer {
     height: 40px;
     display: block;
     margin: auto;
+}
+
+/*  
+    REPLICATION SECTION
+*/
+
+#replications blockquote {
+    max-height: 200px;
+    overflow: hidden;
+}
+
+#replications blockquote {
+    max-height: 200px;
+    overflow: hidden;
 }
