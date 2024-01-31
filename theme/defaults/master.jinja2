@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset=utf-8>
+    <meta http-equiv=x-ua-compatible content="ie=edge">
+    <meta name=viewport content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono">
+    <link rel="stylesheet" href="/assets/css/index.css">
+    <title>eegmanylabs</title>
+</head>
+<body><nav id="menu">
+    <a id="logo" href="/"><img id="logo" src="/assets/images/logo.png"></a>
+    <ul class="collapsed">
+    {% for folder in root.folders %}
+       <li><a href="/{{ folder.name }}/">{{ folder.name }}</a></li>
+    {% endfor %}
+    </ul>
+    <a id="main-hamburger">
+        <i class="fa fa-bars"></i>
+    </a>
+</nav><div id="body-container">{# pushes down the footer when there is little content #}
+<div id="content">
+{% block main %}{% endblock %}
+</div>
+</div><footer>
+    <span id="copyright-reference">&copy; 2024 eegmanylabs</span>
+</footer>
+</body>
+</html>

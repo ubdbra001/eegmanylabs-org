@@ -1,0 +1,18 @@
+{% extends 'defaults/master.jinja2' %}
+
+{% block main %}
+
+{{ index.content_html|safe }}
+
+{% for section in index.sections %}
+    {% include 'defaults/section.jinja2' %}
+    {#{{ theme.formatSection(folder) }}#}
+{% endfor %}
+
+{#
+{% for folder in index.folders %}
+    {{ theme.formatFolder(folder) }}
+{% endfor %}
+#}
+
+{% endblock %}
