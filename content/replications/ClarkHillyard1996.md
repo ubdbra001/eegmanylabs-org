@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 5
 StudyId: ClarkHillyard1996
 LeadFullName: Andreas Keil
 PersonId: akeil

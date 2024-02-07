@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 11
 PersonId: sgregory
 FullName: Samantha Gregory
 HeadShotFilename: sgregory.jpg
@@ -9,4 +10,9 @@ StudyId: Onton2005
 
 ## Samantha Gregory
 
+
 Leads [Onton2005](/replications/Onton2005)
+
+
+
+[replicator]("replicator")

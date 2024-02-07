@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 17
 StudyId: Inzlicht2009
 LeadFullName: Annmarie MacNamara
 PersonId: amacnamara

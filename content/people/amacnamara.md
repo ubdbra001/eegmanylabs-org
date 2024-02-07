@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 19
 PersonId: amacnamara
 FullName: Annmarie MacNamara
 HeadShotFilename: amacnamara.jpg
@@ -9,4 +10,9 @@ StudyId: Inzlicht2009
 
 ## Annmarie MacNamara
 
+
 Leads [Inzlicht2009](/replications/Inzlicht2009)
+
+
+
+[replicator]("replicator")

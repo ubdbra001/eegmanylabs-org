@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 4
 PersonId: nburra
 FullName: Nicolas Burra
 HeadShotFilename: nburra.jpg
@@ -9,4 +10,9 @@ StudyId: Carretie2004
 
 ## Nicolas Burra
 
+
 Leads [Carretie2004](/replications/Carretie2004)
+
+
+
+[replicator]("replicator")

@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 1
 StudyId: AmodioMaster2008
 LeadFullName: Kilian Gloy
 PersonId: kgloy

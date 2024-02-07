@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 9
 StudyId: Eimer1996
 LeadFullName: Heinrich Liesefeld
 PersonId: hliesefeld

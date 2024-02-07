@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 20
 StudyId: Miltner1999
 LeadFullName: Matthias Gamer
 PersonId: mgamer

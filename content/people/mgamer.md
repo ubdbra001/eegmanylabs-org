@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 9
 PersonId: mgamer
 FullName: Matthias Gamer
 HeadShotFilename: mgamer.jpg
@@ -9,4 +10,9 @@ StudyId: Miltner1999
 
 ## Matthias Gamer
 
+
 Leads [Miltner1999](/replications/Miltner1999)
+
+
+
+[replicator]("replicator")
