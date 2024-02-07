@@ -3,7 +3,7 @@ body {
     background-color: #F7F7F7;
     font-family: "Public Sans", sans-serif;
     font-weight: 300;
-    font-size: 14px;
+    font-size: 16px;
 }
 
 img {
@@ -39,7 +39,7 @@ nav#menu {
     z-index: 1;     /* always on top */
     position: fixed;  /* attached to the top */
     top: 0;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: normal;
     background-color: #F7F7F7;;
 }
@@ -120,6 +120,7 @@ section {
 */
 section#contact {
     max-width: none;
+    background-color: transparent;
 }
 
 #contact ul {
