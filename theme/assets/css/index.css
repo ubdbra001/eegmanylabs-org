@@ -10,8 +10,9 @@ img {
     height: 100px;
 }
 
-#logo {
-    height: 60px;
+img#logo {
+    height: 6vw;
+    max-height: 60px;
 }
 
 /* these sometimes appear in html from markdown */
