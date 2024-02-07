@@ -10,8 +10,9 @@ img {
     height: 100px;
 }
 
-#logo {
-    height: 60px;
+img#logo {
+    height: 6vw;
+    max-height: 60px;
 }
 
 /* these sometimes appear in html from markdown */
@@ -40,6 +41,7 @@ nav#menu {
     top: 0;
     font-size: 16px;
     font-weight: normal;
+    background-color: #F7F7F7;;
 }
 nav#menu a {
     color: #666666;
@@ -152,4 +154,47 @@ section#contact {
 #replications blockquote {
     max-height: 200px;
     overflow: hidden;
+}
+
+/*  
+    PEOPLE SECTION
+*/
+
+#people {
+    justify-content: left;
+}
+
+#people section {
+    width: 350px;
+}
+
+#people h2 {
+    width: 350px;
+}
+
+#people a[href^="http"] {
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid teal;
+    margin: 2px;
+    text-decoration: none;
+    color: teal;
+}
+
+#people a[title="replicator"] {
+    padding: 5px;
+    border-radius: 3px;
+    color:white;
+    background-color:deepskyblue;
+    margin: 2px;
+    text-decoration: none;
+}
+
+#people a[title="organizer"] {
+    padding: 5px;
+    border-radius: 3px;
+    color:white;
+    background-color: teal;
+    margin: 2px;
+    text-decoration: none;
 }

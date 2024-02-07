@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 24
 StudyId: Vidal2000
 LeadFullName: Cameron Hassall
 PersonId: chassall

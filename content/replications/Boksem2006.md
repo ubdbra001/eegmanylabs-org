@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 2
 StudyId: Boksem2006
 LeadFullName: Jakob Kaiser
 PersonId: jkaiser

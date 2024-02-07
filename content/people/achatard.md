@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 6
 PersonId: achatard
 FullName: Armand Chatard
 HeadShotFilename: achatard.png
@@ -9,4 +10,9 @@ StudyId: Frank2005
 
 ## Armand Chatard
 
+
 Leads [Frank2005](/replications/Frank2005)
+
+
+
+[replicator]("replicator")

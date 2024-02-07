@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 27
 PersonId: nsrinivasan
 FullName: Narayanan Srinivasan
 HeadShotFilename: nsrinivasan.jpg
@@ -9,4 +10,9 @@ StudyId: BuschVanRullen2010
 
 ## Narayanan Srinivasan
 
+
 Leads [BuschVanRullen2010](/replications/BuschVanRullen2010)
+
+
+
+[replicator]("replicator")

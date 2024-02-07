@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 14
 PersonId: kgloy
 FullName: Kilian Gloy
 HeadShotFilename: kgloy.jpg
@@ -9,4 +10,9 @@ StudyId: AmodioMaster2008
 
 ## Kilian Gloy
 
+
 Leads [AmodioMaster2008](/replications/AmodioMaster2008)
+
+
+
+[University](https://www.uni-bremen.de/en/pppd/team/dr-kilian-gloy)[replicator]("replicator")

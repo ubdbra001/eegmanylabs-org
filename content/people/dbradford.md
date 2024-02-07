@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 5
 PersonId: dbradford
 FullName: Daniel Bradford
 HeadShotFilename: dbradford.jpg
@@ -9,4 +10,9 @@ StudyId: HajcakFoti2008
 
 ## Daniel Bradford
 
+
 Leads [HajcakFoti2008](/replications/HajcakFoti2008)
+
+
+
+[replicator]("replicator")

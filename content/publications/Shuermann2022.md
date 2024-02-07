@@ -1,8 +1,9 @@
 ---
+SequenceNumber: 0
 PublicationId: Shuermann2022
 Authors: Schürmann N
 Title: Enabling #EEGManyLabs: Quality in Automatically Preprocessed EEG Data and Psychopathological Associations of Frontal Alpha Asymmetry
-Journal: nan
+Journal: None
 Year: 2022
 URL: http://dx.doi.org/10.31219/osf.io/g8udv;https://osf.io/preprints/osf/g8udv
 DOI: 10.31219/osf.io/g8udv

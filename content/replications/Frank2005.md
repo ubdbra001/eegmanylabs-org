@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 11
 StudyId: Frank2005
 LeadFullName: Armand Chatard
 PersonId: achatard

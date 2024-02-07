@@ -1,4 +1,5 @@
 ---
+SequenceNumber: {{ SequenceNumber }}
 PublicationId: {{ PublicationId }}
 Authors: {{ Authors }}
 Title: {{ Title }}

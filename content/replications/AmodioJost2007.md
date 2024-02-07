@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 0
 StudyId: AmodioJost2007
 LeadFullName: Alexandre Schaefer
 PersonId: aschaefer

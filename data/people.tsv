@@ -1,28 +1,31 @@
-PersonId	FullName	HeadShotFilename	StudyId
-aschaefer	Alexandre Schaefer	aschaefer.png	AmodioJost2007 
-kgloy	Kilian Gloy	kgloy.jpg	AmodioMaster2008
-jkaiser	Jakob Kaiser	jkaiser.jpg	Boksem2006
-nsrinivasan	Narayanan Srinivasan	nsrinivasan.jpg	BuschVanRullen2010
-nburra	Nicolas Burra	nburra.jpg	Carretie2004
-akeil	Andreas Keil	akeil.png	ClarkHillyard1996
-kdesender	Kobe Desender 	kdesender.jpg	DelCul2007
-wmarinovic	Welber Marinovic	wmarinovic.jpg	DonkersvanBoxtel2004
-gganis	Giorgio Ganis	gganis.jpg	Eimer1993
-hliesefeld	Heinrich Liesefeld	hliesefeld.png	Eimer1996
-xhe	Xun He	xhe.png	Eimer2003
-achatard	Armand Chatard	achatard.png	Frank2005
-everona	Edelyn Verona	everona.png	Hajcak2003
-mvandermolen	Melle van der Molen 	mvandermolen.jpg	Hajcak2006
-dbradford	Daniel Bradford	dbradford.jpg	HajcakFoti2008
-gpourtois	Gilles Pourtois	gpourtois.png	HajcakHolroyd2005
-msenderecka	Magdalena Senderecka	msenderecka.png	HajcakMoser2005
-amacnamara	Annmarie MacNamara	amacnamara.jpg	Inzlicht2009
-gniso	Guiomar Niso	gniso.png	Luck1996
-mruzzoli	Manuela Ruzzoli	mruzzoli.jpg	Mathewson2009
-mgamer	Matthias Gamer	mgamer.jpg	Miltner1999
-rnaar	Richard Naar	rnaar.jpg	Muller2003
-sgregory	Samantha Gregory	sgregory.jpg	Onton2005
-dcruse	Damian Cruse	dcruse.jpg	Sergent2005
-chassall	Cameron Hassall	chassall.jpg	Vidal2000
-nlanger	Nicolas Langer	nlanger.jpg	VogelMachizawa2004
-fmushtaq	Faisal Mushtaq	fmushtaq.png	YeungSanfey2004
+PersonId	FullName	HeadShotFilename	StudyId	ReplicatorRole	OrganizerRole	ScholarUrl	UniUrl	LabUrl
+fmushtaq	Faisal Mushtaq	fmushtaq.png	YeungSanfey2004	1	1	https://scholar.google.com/citations?user=bcjpWSwAAAAJ&hl=en&oi=ao	https://medicinehealth.leeds.ac.uk/psychology/staff/632/dr-faisal-mushtaq	https://immersivecognition.com/people/faisal-mushtaq/
+ypavlov	Yuri Pavlov	ypavlov.jpg		0	1	https://scholar.google.com/citations?hl=en&user=nSM_MxUAAAAJ	https://www.medizin.uni-tuebingen.de/de/das-klinikum/mitarbeiter/profil/2191	https://yurigpavlov.com/
+dwelke	Dominik Welke	dwelke.jpg		0	1	https://scholar.google.de/citations?user=B5xCyM0AAAAJ&hl=de	https://immersivecognition.com/people/	
+jvandenbosch	Jasper van den Bosch	jvandenbosch.jpg		0	1	https://scholar.google.com/citations?user=XQ3-JHgAAAAJ&hl=en	https://www.birmingham.ac.uk/staff/profiles/psychology/bosch-jasper-van-den.aspx	
+nburra	Nicolas Burra	nburra.jpg	Carretie2004	1	0			
+dbradford	Daniel Bradford	dbradford.jpg	HajcakFoti2008	1	0			
+achatard	Armand Chatard	achatard.png	Frank2005	1	0			
+dcruse	Damian Cruse	dcruse.jpg	Sergent2005	1	0			
+kdesender	Kobe Desender 	kdesender.jpg	DelCul2007	1	0			
+mgamer	Matthias Gamer	mgamer.jpg	Miltner1999	1	0			
+gganis	Giorgio Ganis	gganis.jpg	Eimer1993	1	0			
+sgregory	Samantha Gregory	sgregory.jpg	Onton2005	1	0			
+chassall	Cameron Hassall	chassall.jpg	Vidal2000	1	0			
+xhe	Xun He	xhe.png	Eimer2003	1	0			
+kgloy	Kilian Gloy	kgloy.jpg	AmodioMaster2008	1	0		https://www.uni-bremen.de/en/pppd/team/dr-kilian-gloy	
+jkaiser	Jakob Kaiser	jkaiser.jpg	Boksem2006	1	0	https://scholar.google.com/citations?user=lSBrwo4AAAAJ&hl=en&oi=sra	https://www.psy.uni-muenchen.de/expneurocog/people/lab-members/jakob_kaiser/index.html	
+akeil	Andreas Keil	akeil.png	ClarkHillyard1996	1	0			
+nlanger	Nicolas Langer	nlanger.jpg	VogelMachizawa2004	1	0			
+hliesefeld	Heinrich Liesefeld	hliesefeld.png	Eimer1996	1	0			
+amacnamara	Annmarie MacNamara	amacnamara.jpg	Inzlicht2009	1	0			
+wmarinovic	Welber Marinovic	wmarinovic.jpg	DonkersvanBoxtel2004	1	0			
+rnaar	Richard Naar	rnaar.jpg	Muller2003	1	0			
+gniso	Guiomar Niso	gniso.png	Luck1996	1	0			
+gpourtois	Gilles Pourtois	gpourtois.png	HajcakHolroyd2005	1	0			
+msenderecka	Magdalena Senderecka	msenderecka.png	HajcakMoser2005	1	0			
+mruzzoli	Manuela Ruzzoli	mruzzoli.jpg	Mathewson2009	1	0			
+aschaefer	Alexandre Schaefer	aschaefer.png	AmodioJost2007 	1	0	https://scholar.google.com/citations?user=UUYnx4YAAAAJ&hl=en	https://sunwayuniversity.edu.my/school-of-medical-life-sciences/staff-profiles/professor-alexandre-schaefer	
+nsrinivasan	Narayanan Srinivasan	nsrinivasan.jpg	BuschVanRullen2010	1	0			
+mvandermolen	Melle van der Molen 	mvandermolen.jpg	Hajcak2006	1	0			
+everona	Edelyn Verona	everona.png	Hajcak2003	1	0			

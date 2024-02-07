@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 25
 StudyId: VogelMachizawa2004
 LeadFullName: Nicolas Langer
 PersonId: nlanger

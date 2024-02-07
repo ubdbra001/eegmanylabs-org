@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 25
 PersonId: mruzzoli
 FullName: Manuela Ruzzoli
 HeadShotFilename: mruzzoli.jpg
@@ -9,4 +10,9 @@ StudyId: Mathewson2009
 
 ## Manuela Ruzzoli
 
+
 Leads [Mathewson2009](/replications/Mathewson2009)
+
+
+
+[replicator]("replicator")

@@ -1,8 +1,9 @@
 ---
+SequenceNumber: 2
 PublicationId: Strzelczyk2023
 Authors: Strzelczyk D,Clayson PE,Sigurdardottir HM,Mushtaq F,Pavlov YG,Devillez H,Lukashevich A,Rocha HA,Chung YH,Ortego KM,al. E
 Title: Contralateral delay activity as a marker of visual working memory capacity: a multi-site registered replication
-Journal: nan
+Journal: None
 Year: 2023
 URL: http://dx.doi.org/10.31234/osf.io/shdea;https://osf.io/preprints/psyarxiv/shdea
 DOI: 10.31234/osf.io/shdea
