@@ -4,4 +4,4 @@ SequenceNumber: 2
 
 # Spin-offs
 
-this is the spin-offs index page
+EEGManyLabs has inspired a number of spin-off projects

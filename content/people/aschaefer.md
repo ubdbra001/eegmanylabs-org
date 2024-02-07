@@ -5,13 +5,14 @@ FullName: Alexandre Schaefer
 HeadShotFilename: aschaefer.png
 StudyId: AmodioJost2007 
 ---
-
+<a name="aschaefer">
 ![headshot of researcher](/assets/images/headshots/aschaefer.png "Alexandre Schaefer")
 
 ## Alexandre Schaefer
 
 
-Leads [AmodioJost2007 ](/replications/AmodioJost2007 )
+
+Leads [AmodioJost2007 ](/replications/#AmodioJost2007 )
 
 
 

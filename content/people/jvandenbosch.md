@@ -5,10 +5,11 @@ FullName: Jasper van den Bosch
 HeadShotFilename: jvandenbosch.jpg
 StudyId: None
 ---
-
+<a name="jvandenbosch">
 ![headshot of researcher](/assets/images/headshots/jvandenbosch.jpg "Jasper van den Bosch")
 
 ## Jasper van den Bosch
+
 
 
 

@@ -5,10 +5,11 @@ FullName: Yuri Pavlov
 HeadShotFilename: ypavlov.jpg
 StudyId: None
 ---
-
+<a name="ypavlov">
 ![headshot of researcher](/assets/images/headshots/ypavlov.jpg "Yuri Pavlov")
 
 ## Yuri Pavlov
+
 
 
 
