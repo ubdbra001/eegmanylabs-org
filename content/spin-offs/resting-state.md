@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 3
 --- 
 # Resting State (#EEGML:RS)
 

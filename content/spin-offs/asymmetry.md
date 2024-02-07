@@ -1,4 +1,5 @@
 ---
+SequenceNumber: 4
 ---
 # Frontal alpha asymmetry and personality traits 
 
