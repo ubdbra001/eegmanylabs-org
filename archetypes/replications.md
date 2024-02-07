@@ -1,4 +1,5 @@
 ---
+SequenceNumber: {{ SequenceNumber }}
 StudyId: {{ StudyId }}
 LeadFullName: {{ LeadFullName }}
 PersonId: {{ PersonId }}
