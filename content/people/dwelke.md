@@ -5,10 +5,11 @@ FullName: Dominik Welke
 HeadShotFilename: dwelke.jpg
 StudyId: None
 ---
-
+<a name="dwelke">
 ![headshot of researcher](/assets/images/headshots/dwelke.jpg "Dominik Welke")
 
 ## Dominik Welke
+
 
 
 

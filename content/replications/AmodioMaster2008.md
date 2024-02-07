@@ -9,9 +9,11 @@ PsychConstruct: conflict monitoring
 SignupUrl: https://forms.gle/jmY4vkLoVRdyde9P6
 ---
 
-## Neurocognitive components of the behavioral inhibition and activation systems: Implications for theories of self-regulation
 
-Lead by [Kilian Gloy](/people/kgloy)
+## <a name="AmodioMaster2008"> Neurocognitive components of the behavioral inhibition and activation systems: Implications for theories of self-regulation
+
+
+Lead by [Kilian Gloy](/people/#kgloy)
 [Sign-up form](https://forms.gle/jmY4vkLoVRdyde9P6)
 
 > We examined the neurocognitive correlates of the Behavioral Inhibition and Behavioral Activation Systems (BIS/BAS) in an effort to clarify ambiguities concerning interpretations of BIS as reflecting inhibition versus avoidance. We hypothesized that self-reported BIS should relate to neural mechanisms associated with conflict monitoring, whereas self-reported BAS should be associated with neural correlates of approach motivation. Consistent with these predictions, higher self-reported BIS was uniquely related to the N2 event-related potential on No-Go trials of a Go/No-Go task, linking BIS with conflict monitoring and sensitivity to No-Go cues. Higher BAS was uniquely related to greater left-sided baseline frontal cortical asymmetry associated with approach orientation. Implications for theories of self-regulation involving conflict monitoring, cognitive control, and approach/avoidance motivation are discussed.

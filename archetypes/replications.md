@@ -9,9 +9,11 @@ PsychConstruct: {{ PsychConstruct }}
 SignupUrl: {{ SignupUrl }}
 ---
 
-## {{ Title }}
 
-Lead by [{{ LeadFullName }}](/people/{{ PersonId }})
+## <a name="{{ StudyId }}"> {{ Title }}
+
+
+Lead by [{{ LeadFullName }}](/people/#{{ PersonId }})
 [Sign-up form]({{ SignupUrl }})
 
 > {{ Abstract }}
