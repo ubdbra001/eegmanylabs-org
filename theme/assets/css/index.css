@@ -61,6 +61,16 @@ nav#menu li {
 	margin: 0 1em 0 0;
 }
 
+h1 {
+    font-family: "Garamond", Georgia, serif;
+    font-weight: normal;
+}
+
+h2 {
+    font-family: "Garamond", Georgia, serif;
+    font-weight: normal;
+}
+
 
 /* footer */
 footer {
@@ -100,6 +110,9 @@ article {
 section {
     max-width: 400px;
     padding: 10px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px;
 }
 
 /*  
