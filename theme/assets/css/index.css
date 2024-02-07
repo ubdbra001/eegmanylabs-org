@@ -23,7 +23,7 @@ hr {
 /* temp style */
 
 #body-container {
-    margin-top: 60px;
+    margin-top: 100px;
     min-height: calc(100vh - 80px); /* push footer down. 80px = header+footer */
     overflow: hidden; /* prevents child elements' margins from pushing this around  */
 }
@@ -168,6 +168,16 @@ section#contact {
 #replications blockquote {
     max-height: 200px;
     overflow: hidden;
+}
+
+#replications a[href^="https://forms"],
+#replications a[href^="https://docs"] {
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid teal;
+    margin: 2px;
+    text-decoration: none;
+    color: teal;
 }
 
 /*  

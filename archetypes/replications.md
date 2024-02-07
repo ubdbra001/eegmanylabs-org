@@ -14,6 +14,8 @@ SignupUrl: {{ SignupUrl }}
 
 
 Lead by [{{ LeadFullName }}](/people/#{{ PersonId }})
+{% if NeedsMoreLabs %}
 [Sign-up form]({{ SignupUrl }})
+{% endif %}
 
 > {{ Abstract }}
