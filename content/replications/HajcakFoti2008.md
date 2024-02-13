@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 14
+SequenceNumber: 3
 StudyId: HajcakFoti2008
 LeadFullName: Amy Bland
 PersonId: abland
