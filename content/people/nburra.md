@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 4
+SequenceNumber: 8
 PersonId: nburra
 FullName: Nicolas Burra
 HeadShotFilename: nburra.jpg
@@ -16,4 +16,4 @@ Leads [Carretie2004](/replications/#Carretie2004)
 
 
 
-[replicator]("replicator")
+[Replicator]("replicator")

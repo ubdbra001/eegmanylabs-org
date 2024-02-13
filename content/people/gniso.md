@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 22
+SequenceNumber: 25
 PersonId: gniso
 FullName: Guiomar Niso
 HeadShotFilename: gniso.png
@@ -16,4 +16,4 @@ Leads [Luck1996](/replications/#Luck1996)
 
 
 
-[replicator]("replicator")
+[Replicator]("replicator")

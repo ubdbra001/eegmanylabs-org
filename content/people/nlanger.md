@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 17
+SequenceNumber: 20
 PersonId: nlanger
 FullName: Nicolas Langer
 HeadShotFilename: nlanger.jpg
@@ -16,4 +16,4 @@ Leads [VogelMachizawa2004](/replications/#VogelMachizawa2004)
 
 
 
-[replicator]("replicator")
+[Replicator]("replicator")

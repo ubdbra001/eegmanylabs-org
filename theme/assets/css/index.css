@@ -214,11 +214,29 @@ section#contact {
     text-decoration: none;
 }
 
-#people a[title="organizer"] {
+#people a[title="coordinator"] {
     padding: 5px;
     border-radius: 3px;
     color:white;
     background-color: teal;
+    margin: 2px;
+    text-decoration: none;
+}
+
+#people a[title="steering"] {
+    padding: 5px;
+    border-radius: 3px;
+    color:white;
+    background-color: rgb(163, 106, 0);
+    margin: 2px;
+    text-decoration: none;
+}
+
+#people a[title="advisor"] {
+    padding: 5px;
+    border-radius: 3px;
+    color:white;
+    background-color: rgb(128, 0, 122);
     margin: 2px;
     text-decoration: none;
 }

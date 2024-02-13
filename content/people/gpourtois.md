@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 23
+SequenceNumber: 26
 PersonId: gpourtois
 FullName: Gilles Pourtois
 HeadShotFilename: gpourtois.png
@@ -16,4 +16,4 @@ Leads [HajcakHolroyd2005](/replications/#HajcakHolroyd2005)
 
 
 
-[replicator]("replicator")
+[Replicator]("replicator")

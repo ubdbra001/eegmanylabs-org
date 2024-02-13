@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 29
+SequenceNumber: 32
 PersonId: everona
 FullName: Edelyn Verona
 HeadShotFilename: everona.png
@@ -16,4 +16,4 @@ Leads [Hajcak2003](/replications/#Hajcak2003)
 
 
 
-[replicator]("replicator")
+[Replicator]("replicator")

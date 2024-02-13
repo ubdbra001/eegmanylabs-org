@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 24
+SequenceNumber: 27
 PersonId: msenderecka
 FullName: Magdalena Senderecka
 HeadShotFilename: msenderecka.png
@@ -16,4 +16,4 @@ Leads [HajcakMoser2005](/replications/#HajcakMoser2005)
 
 
 
-[replicator]("replicator")
+[Replicator]("replicator")

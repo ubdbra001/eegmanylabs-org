@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 18
+SequenceNumber: 21
 PersonId: hliesefeld
 FullName: Heinrich Liesefeld
 HeadShotFilename: hliesefeld.png
@@ -16,4 +16,4 @@ Leads [Eimer1996](/replications/#Eimer1996)
 
 
 
-[replicator]("replicator")
+[Replicator]("replicator")

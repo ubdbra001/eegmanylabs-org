@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 27
+SequenceNumber: 30
 PersonId: nsrinivasan
 FullName: Narayanan Srinivasan
 HeadShotFilename: nsrinivasan.jpg
@@ -16,4 +16,4 @@ Leads [BuschVanRullen2010](/replications/#BuschVanRullen2010)
 
 
 
-[replicator]("replicator")
+[Replicator]("replicator")

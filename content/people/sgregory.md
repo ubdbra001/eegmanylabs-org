@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 11
+SequenceNumber: 15
 PersonId: sgregory
 FullName: Samantha Gregory
 HeadShotFilename: sgregory.jpg
@@ -16,4 +16,4 @@ Leads [Onton2005](/replications/#Onton2005)
 
 
 
-[replicator]("replicator")
+[Replicator]("replicator")

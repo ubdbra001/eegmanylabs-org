@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 13
+SequenceNumber: 6
 PersonId: xhe
 FullName: Xun He
 HeadShotFilename: xhe.png
@@ -16,4 +16,4 @@ Leads [Eimer2003](/replications/#Eimer2003)
 
 
 
-[replicator]("replicator")
+[Scholar](https://scholar.google.com/citations?user=08oketoAAAAJ&hl=en&oi=ao)[University](https://staffprofiles.bournemouth.ac.uk/display/xhe)[Steering Group]("steering")[Replicator]("replicator")
