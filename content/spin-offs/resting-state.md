@@ -1,7 +1,10 @@
 ---
 SequenceNumber: 3
 --- 
-# Resting State (#EEGML:RS)
+## Resting State (#EEGML:RS)
+
+![sleep_eeg](/assets/images/figures/sleep_eeg.png 'Child sleeping with EEG electrodes')
+
 
 **What is the #EEGML:RS?**
 

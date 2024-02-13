@@ -157,6 +157,20 @@ section#contact {
 }
 
 /*  
+    FUNDERS SECTION
+*/
+
+section#funders {
+    max-width: none;
+    background-color: transparent;
+}
+
+#funders img {
+    height: 40px;
+    display: inline-block;
+}
+
+/*  
     REPLICATION SECTION
 */
 
