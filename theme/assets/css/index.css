@@ -102,6 +102,67 @@ article {
     margin: auto;
 }
 
+/*
+    FRONT PAGE
+*/
+
+section#about {
+    max-width: 800px;
+    width: 80%;
+}
+
+section#contact {
+    max-width: 800px;
+    width: 80%;
+}
+
+section#funders {
+    max-width: 800px;
+    width: 80%;
+}
+
+#funders img {
+    height: 40px;
+    display: inline-block;
+}
+
+/*  
+    CONTACT SECTION
+*/
+
+#contact ul {
+    list-style-type: none;
+    text-align: justify;
+}
+
+#contact ul {
+    list-style-type: none;
+    text-align: justify;
+}
+
+#contact li {
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    font-size: 12px;
+    color: rgb(49, 49, 49);
+}
+
+#contact a {
+    color: black;
+    text-decoration: none;
+}
+
+#contact a:hover {
+    text-decoration: underline;
+}
+
+#contact img {
+    height: 40px;
+    display: block;
+    margin: auto;
+}
+
 /*  
     SECTION
 */
@@ -146,62 +207,7 @@ section a[href^="https://eeg100"] {
 }
 
 /*  
-    CONTACT SECTION
-*/
-section#contact {
-    max-width: none;
-    background-color: transparent;
-}
-
-#contact ul {
-    list-style-type: none;
-    text-align: justify;
-}
-
-#contact ul {
-    list-style-type: none;
-    text-align: justify;
-}
-
-#contact li {
-    display: inline-block;
-    text-align: center;
-    padding: 10px;
-    font-size: 12px;
-    color: rgb(49, 49, 49);
-}
-
-#contact a {
-    color: black;
-    text-decoration: none;
-}
-
-#contact a:hover {
-    text-decoration: underline;
-}
-
-#contact img {
-    height: 40px;
-    display: block;
-    margin: auto;
-}
-
-/*  
-    FUNDERS SECTION
-*/
-
-section#funders {
-    max-width: none;
-    background-color: transparent;
-}
-
-#funders img {
-    height: 40px;
-    display: inline-block;
-}
-
-/*  
-    REPLICATION SECTION
+    REPLICATION PAGE
 */
 
 #replications blockquote {
@@ -228,8 +234,12 @@ section#funders {
     PEOPLE SECTION
 */
 
-#people {
-    justify-content: left;
+#people img {
+    height: 100px;
+}
+
+#people p {
+    line-height: 2em;
 }
 
 #people section {
