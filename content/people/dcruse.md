@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 7
+SequenceNumber: 11
 PersonId: dcruse
 FullName: Damian Cruse
 HeadShotFilename: dcruse.jpg
@@ -16,4 +16,4 @@ Leads [Sergent2005](/replications/#Sergent2005)
 
 
 
-[replicator]("replicator")
+[Replicator]("replicator")

@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 12
+SequenceNumber: 16
 PersonId: chassall
 FullName: Cameron Hassall
 HeadShotFilename: chassall.jpg
@@ -16,4 +16,4 @@ Leads [Vidal2000](/replications/#Vidal2000)
 
 
 
-[replicator]("replicator")
+[Replicator]("replicator")

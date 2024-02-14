@@ -14,4 +14,4 @@ StudyId: None
 
 
 
-[Scholar](https://scholar.google.com/citations?user=XQ3-JHgAAAAJ&hl=en)[University](https://www.birmingham.ac.uk/staff/profiles/psychology/bosch-jasper-van-den.aspx)[organizer]("organizer")
+[Scholar](https://scholar.google.com/citations?user=XQ3-JHgAAAAJ&hl=en)[University](https://www.birmingham.ac.uk/staff/profiles/psychology/bosch-jasper-van-den.aspx)[Coordinator]("coordinator")

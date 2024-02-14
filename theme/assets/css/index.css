@@ -93,35 +93,42 @@ footer {
 
 article {
     max-width: 600px;
-    margin: auto;
 }
 
 .section-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: left;
     margin: auto;
 }
 
-/*  
-    SECTION
+/*
+    FRONT PAGE
 */
 
-section {
-    max-width: 400px;
-    padding: 10px;
-    background-color: white;
-    margin: 10px;
-    border-radius: 5px;
+section#about {
+    max-width: 800px;
+    width: 80%;
+}
+
+section#contact {
+    max-width: 800px;
+    width: 80%;
+}
+
+section#funders {
+    max-width: 800px;
+    width: 80%;
+}
+
+#funders img {
+    height: 40px;
+    display: inline-block;
 }
 
 /*  
     CONTACT SECTION
 */
-section#contact {
-    max-width: none;
-    background-color: transparent;
-}
 
 #contact ul {
     list-style-type: none;
@@ -157,7 +164,50 @@ section#contact {
 }
 
 /*  
-    REPLICATION SECTION
+    SECTION
+*/
+
+section {
+    max-width: 500px;
+    padding: 20px;
+    background-color: white;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+section img {
+    height: 150px;
+    float: left;
+    margin: 10px;
+}
+
+/* local links */
+section a[href^="/"] {
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid teal;
+    margin: 2px;
+    text-decoration: none;
+    color: teal;
+}
+
+
+/*
+    SPIN-OFFS PAGE
+*/
+
+/* eeg100 link same as local links */
+section a[href^="https://eeg100"] {
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid teal;
+    margin: 2px;
+    text-decoration: none;
+    color: teal;
+}
+
+/*  
+    REPLICATION PAGE
 */
 
 #replications blockquote {
@@ -184,8 +234,12 @@ section#contact {
     PEOPLE SECTION
 */
 
-#people {
-    justify-content: left;
+#people img {
+    height: 100px;
+}
+
+#people p {
+    line-height: 2em;
 }
 
 #people section {
@@ -214,11 +268,89 @@ section#contact {
     text-decoration: none;
 }
 
-#people a[title="organizer"] {
+#people a[title="coordinator"] {
     padding: 5px;
     border-radius: 3px;
     color:white;
     background-color: teal;
+    margin: 2px;
+    text-decoration: none;
+}
+
+#people a[title="steering"] {
+    padding: 5px;
+    border-radius: 3px;
+    color:white;
+    background-color: rgb(163, 106, 0);
+    margin: 2px;
+    text-decoration: none;
+}
+
+#people a[title="advisor"] {
+    padding: 5px;
+    border-radius: 3px;
+    color:white;
+    background-color: rgb(128, 0, 122);
+    margin: 2px;
+    text-decoration: none;
+}
+
+/*
+    PUBLICATIONS PAGE
+*/
+
+#publications h2 {
+    min-height: 4em;
+}
+
+a[href^="https://scholar.google.com/citations?user=ueMcfOcAAAAJ"] {
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid teal;
+    margin: 2px;
+    text-decoration: none;
+    color: teal;
+}
+
+
+#publications a[href^="https://dx.doi.org"] {
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid teal;
+    margin: 2px;
+    text-decoration: none;
+    color: teal;
+}
+
+#publications blockquote {
+    font-size: 12px;
+    max-height: 5em;
+    overflow-y: scroll;
+}
+
+#publications a[title="preprint"] {
+    padding: 5px;
+    border-radius: 3px;
+    color:white;
+    background-color: rgb(69, 183, 209);
+    margin: 2px;
+    text-decoration: none;
+}
+
+#publications a[title="preregistration"] {
+    padding: 5px;
+    border-radius: 3px;
+    color:white;
+    background-color: rgb(210, 199, 72);
+    margin: 2px;
+    text-decoration: none;
+}
+
+#publications a[title="published"] {
+    padding: 5px;
+    border-radius: 3px;
+    color:white;
+    background-color: rgb(81, 187, 160);
     margin: 2px;
     text-decoration: none;
 }

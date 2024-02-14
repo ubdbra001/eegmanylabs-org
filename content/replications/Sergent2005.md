@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 23
+SequenceNumber: 5
 StudyId: Sergent2005
 LeadFullName: Damian Cruse
 PersonId: dcruse

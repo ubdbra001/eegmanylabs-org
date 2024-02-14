@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 9
+SequenceNumber: 13
 PersonId: mgamer
 FullName: Matthias Gamer
 HeadShotFilename: mgamer.jpg
@@ -16,4 +16,4 @@ Leads [Miltner1999](/replications/#Miltner1999)
 
 
 
-[replicator]("replicator")
+[Replicator]("replicator")

@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 21
+SequenceNumber: 24
 PersonId: rnaar
 FullName: Richard Naar
 HeadShotFilename: rnaar.jpg
@@ -16,4 +16,4 @@ Leads [Muller2003](/replications/#Muller2003)
 
 
 
-[replicator]("replicator")
+[Replicator]("replicator")

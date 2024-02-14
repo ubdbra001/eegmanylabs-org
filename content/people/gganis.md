@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 10
+SequenceNumber: 14
 PersonId: gganis
 FullName: Giorgio Ganis
 HeadShotFilename: gganis.jpg
@@ -16,4 +16,4 @@ Leads [Eimer1993](/replications/#Eimer1993)
 
 
 
-[replicator]("replicator")
+[Replicator]("replicator")

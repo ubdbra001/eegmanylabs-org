@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 16
+SequenceNumber: 19
 PersonId: akeil
 FullName: Andreas Keil
 HeadShotFilename: akeil.png
@@ -16,4 +16,4 @@ Leads [ClarkHillyard1996](/replications/#ClarkHillyard1996)
 
 
 
-[replicator]("replicator")
+[Replicator]("replicator")

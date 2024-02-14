@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 26
+SequenceNumber: 29
 PersonId: aschaefer
 FullName: Alexandre Schaefer
 HeadShotFilename: aschaefer.png
@@ -16,4 +16,4 @@ Leads [AmodioJost2007 ](/replications/#AmodioJost2007 )
 
 
 
-[Scholar](https://scholar.google.com/citations?user=UUYnx4YAAAAJ&hl=en)[University](https://sunwayuniversity.edu.my/school-of-medical-life-sciences/staff-profiles/professor-alexandre-schaefer)[replicator]("replicator")
+[Scholar](https://scholar.google.com/citations?user=UUYnx4YAAAAJ&hl=en)[University](https://sunwayuniversity.edu.my/school-of-medical-life-sciences/staff-profiles/professor-alexandre-schaefer)[Replicator]("replicator")

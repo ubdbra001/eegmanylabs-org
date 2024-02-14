@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 8
+SequenceNumber: 12
 PersonId: kdesender
 FullName: Kobe Desender 
 HeadShotFilename: kdesender.jpg
@@ -16,4 +16,4 @@ Leads [DelCul2007](/replications/#DelCul2007)
 
 
 
-[replicator]("replicator")
+[Replicator]("replicator")

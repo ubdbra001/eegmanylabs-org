@@ -1,5 +1,5 @@
 ---
-SequenceNumber: 7
+SequenceNumber: 2
 StudyId: DonkersvanBoxtel2004
 LeadFullName: Welber Marinovic
 PersonId: wmarinovic

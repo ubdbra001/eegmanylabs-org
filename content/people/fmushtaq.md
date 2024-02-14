@@ -16,4 +16,4 @@ Leads [YeungSanfey2004](/replications/#YeungSanfey2004)
 
 
 
-[Scholar](https://scholar.google.com/citations?user=bcjpWSwAAAAJ&hl=en&oi=ao)[University](https://medicinehealth.leeds.ac.uk/psychology/staff/632/dr-faisal-mushtaq)[Lab](https://immersivecognition.com/people/faisal-mushtaq/)[organizer]("organizer")[replicator]("replicator")
+[Scholar](https://scholar.google.com/citations?user=bcjpWSwAAAAJ&hl=en&oi=ao)[University](https://medicinehealth.leeds.ac.uk/psychology/staff/632/dr-faisal-mushtaq)[Lab](https://immersivecognition.com/people/faisal-mushtaq/)[Coordinator]("coordinator")[Replicator]("replicator")
