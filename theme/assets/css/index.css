@@ -289,9 +289,32 @@ section#funders {
     PUBLICATIONS PAGE
 */
 
+#publications h2 {
+    min-height: 4em;
+}
+
+a[href^="https://scholar.google.com/citations?user=ueMcfOcAAAAJ"] {
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid teal;
+    margin: 2px;
+    text-decoration: none;
+    color: teal;
+}
+
+
+#publications a[href^="https://dx.doi.org"] {
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid teal;
+    margin: 2px;
+    text-decoration: none;
+    color: teal;
+}
+
 #publications blockquote {
     font-size: 12px;
-    max-height: 3em;
+    max-height: 5em;
     overflow-y: scroll;
 }
 
