@@ -284,3 +284,40 @@ section#funders {
     margin: 2px;
     text-decoration: none;
 }
+
+/*
+    PUBLICATIONS PAGE
+*/
+
+#publications blockquote {
+    font-size: 12px;
+    max-height: 3em;
+    overflow-y: scroll;
+}
+
+#publications a[title="preprint"] {
+    padding: 5px;
+    border-radius: 3px;
+    color:white;
+    background-color: rgb(69, 183, 209);
+    margin: 2px;
+    text-decoration: none;
+}
+
+#publications a[title="preregistration"] {
+    padding: 5px;
+    border-radius: 3px;
+    color:white;
+    background-color: rgb(210, 199, 72);
+    margin: 2px;
+    text-decoration: none;
+}
+
+#publications a[title="published"] {
+    padding: 5px;
+    border-radius: 3px;
+    color:white;
+    background-color: rgb(81, 187, 160);
+    margin: 2px;
+    text-decoration: none;
+}
