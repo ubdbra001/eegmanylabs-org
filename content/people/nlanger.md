@@ -16,4 +16,4 @@ Leads [VogelMachizawa2004](/replications/#VogelMachizawa2004)
 
 
 
-[Replicator]("replicator")
+[Replicator]("replicator") 

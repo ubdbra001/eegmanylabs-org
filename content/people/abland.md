@@ -16,4 +16,4 @@ Leads [HajcakFoti2008](/replications/#HajcakFoti2008)
 
 
 
-[Scholar](https://scholar.google.com/citations?user=nQl3r9kAAAAJ&hl=en&oi=ao)[University](https://www.mmu.ac.uk/staff/profile/dr-amy-bland)[Steering Group]("steering")[Replicator]("replicator")
+[Scholar](https://scholar.google.com/citations?user=nQl3r9kAAAAJ&hl=en&oi=ao) [University](https://www.mmu.ac.uk/staff/profile/dr-amy-bland) [Steering Group]("steering") [Replicator]("replicator") 

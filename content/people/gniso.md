@@ -16,4 +16,4 @@ Leads [Luck1996](/replications/#Luck1996)
 
 
 
-[Replicator]("replicator")
+[Replicator]("replicator") 

@@ -28,7 +28,7 @@ hr {
     overflow: hidden; /* prevents child elements' margins from pushing this around  */
 }
 div#content {
-    width: 75%;
+    width: 85%;
     margin: auto;
 }
 nav#menu {
@@ -260,6 +260,7 @@ section a[href^="https://eeg100"] {
 }
 
 #people a[title="replicator"] {
+    white-space: nowrap;
     padding: 5px;
     border-radius: 3px;
     color:white;
@@ -269,6 +270,7 @@ section a[href^="https://eeg100"] {
 }
 
 #people a[title="coordinator"] {
+    white-space: nowrap;
     padding: 5px;
     border-radius: 3px;
     color:white;
@@ -278,6 +280,7 @@ section a[href^="https://eeg100"] {
 }
 
 #people a[title="steering"] {
+    white-space: nowrap;
     padding: 5px;
     border-radius: 3px;
     color:white;
@@ -287,6 +290,7 @@ section a[href^="https://eeg100"] {
 }
 
 #people a[title="advisor"] {
+    white-space: nowrap;
     padding: 5px;
     border-radius: 3px;
     color:white;

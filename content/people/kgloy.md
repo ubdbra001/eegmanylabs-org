@@ -16,4 +16,4 @@ Leads [AmodioMaster2008](/replications/#AmodioMaster2008)
 
 
 
-[University](https://www.uni-bremen.de/en/pppd/team/dr-kilian-gloy)[Replicator]("replicator")
+[University](https://www.uni-bremen.de/en/pppd/team/dr-kilian-gloy) [Replicator]("replicator") 

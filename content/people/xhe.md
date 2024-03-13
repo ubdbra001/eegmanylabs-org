@@ -16,4 +16,4 @@ Leads [Eimer2003](/replications/#Eimer2003)
 
 
 
-[Scholar](https://scholar.google.com/citations?user=08oketoAAAAJ&hl=en&oi=ao)[University](https://staffprofiles.bournemouth.ac.uk/display/xhe)[Steering Group]("steering")[Replicator]("replicator")
+[Scholar](https://scholar.google.com/citations?user=08oketoAAAAJ&hl=en&oi=ao) [University](https://staffprofiles.bournemouth.ac.uk/display/xhe) [Steering Group]("steering") [Replicator]("replicator") 

@@ -16,4 +16,4 @@ Leads [ClarkHillyard1996](/replications/#ClarkHillyard1996)
 
 
 
-[Replicator]("replicator")
+[Replicator]("replicator") 

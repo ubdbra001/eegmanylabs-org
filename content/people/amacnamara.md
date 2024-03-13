@@ -16,4 +16,4 @@ Leads [Inzlicht2009](/replications/#Inzlicht2009)
 
 
 
-[Replicator]("replicator")
+[Replicator]("replicator") 

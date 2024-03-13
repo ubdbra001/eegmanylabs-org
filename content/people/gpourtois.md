@@ -16,4 +16,4 @@ Leads [HajcakHolroyd2005](/replications/#HajcakHolroyd2005)
 
 
 
-[Replicator]("replicator")
+[Replicator]("replicator") 

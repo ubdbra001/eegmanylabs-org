@@ -16,4 +16,4 @@ Leads [DelCul2007](/replications/#DelCul2007)
 
 
 
-[Replicator]("replicator")
+[Replicator]("replicator") 

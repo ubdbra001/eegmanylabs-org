@@ -16,4 +16,4 @@ Leads [HajcakFoti2008](/replications/#HajcakFoti2008)
 
 
 
-[Replicator]("replicator")
+[Replicator]("replicator") 

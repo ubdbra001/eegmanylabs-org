@@ -16,4 +16,4 @@ Leads [BuschVanRullen2010](/replications/#BuschVanRullen2010)
 
 
 
-[Replicator]("replicator")
+[Replicator]("replicator") 

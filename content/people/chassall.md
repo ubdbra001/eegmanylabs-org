@@ -16,4 +16,4 @@ Leads [Vidal2000](/replications/#Vidal2000)
 
 
 
-[Replicator]("replicator")
+[Replicator]("replicator") 

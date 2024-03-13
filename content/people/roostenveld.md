@@ -14,4 +14,4 @@ StudyId: None
 
 
 
-[Scholar](https://scholar.google.co.uk/citations?user=eEbaa0UAAAAJ&hl=en)[University](https://www.ru.nl/en/people/oostenveld-r)[Advisory Board]("advisor")
+[Scholar](https://scholar.google.co.uk/citations?user=eEbaa0UAAAAJ&hl=en) [University](https://www.ru.nl/en/people/oostenveld-r) [Advisory Board]("advisor") 

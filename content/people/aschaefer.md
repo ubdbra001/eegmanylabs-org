@@ -16,4 +16,4 @@ Leads [AmodioJost2007 ](/replications/#AmodioJost2007 )
 
 
 
-[Scholar](https://scholar.google.com/citations?user=UUYnx4YAAAAJ&hl=en)[University](https://sunwayuniversity.edu.my/school-of-medical-life-sciences/staff-profiles/professor-alexandre-schaefer)[Replicator]("replicator")
+[Scholar](https://scholar.google.com/citations?user=UUYnx4YAAAAJ&hl=en) [University](https://sunwayuniversity.edu.my/school-of-medical-life-sciences/staff-profiles/professor-alexandre-schaefer) [Replicator]("replicator") 

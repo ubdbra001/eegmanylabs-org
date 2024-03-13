@@ -16,4 +16,4 @@ Leads [Sergent2005](/replications/#Sergent2005)
 
 
 
-[Replicator]("replicator")
+[Replicator]("replicator") 

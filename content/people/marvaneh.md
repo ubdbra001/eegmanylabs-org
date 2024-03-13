@@ -14,4 +14,4 @@ StudyId: None
 
 
 
-[Scholar](https://scholar.google.com.sg/citations?user=HBxF7nAAAAAJ&hl=en)[University](https://www.sheffield.ac.uk/acse/department/people/academic/mahnaz-arvaneh)[Steering Group]("steering")
+[Scholar](https://scholar.google.com.sg/citations?user=HBxF7nAAAAAJ&hl=en) [University](https://www.sheffield.ac.uk/acse/department/people/academic/mahnaz-arvaneh) [Steering Group]("steering") 

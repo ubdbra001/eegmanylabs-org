@@ -14,4 +14,4 @@ StudyId: None
 
 
 
-[Scholar](https://scholar.google.de/citations?user=B5xCyM0AAAAJ&hl=de)[University](https://immersivecognition.com/people/)[Coordinator]("coordinator")
+[Scholar](https://scholar.google.de/citations?user=B5xCyM0AAAAJ&hl=de) [University](https://immersivecognition.com/people/) [Coordinator]("coordinator") 

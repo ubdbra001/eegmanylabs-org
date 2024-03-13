@@ -16,10 +16,10 @@ Leads [{{ StudyId }}](/replications/#{{ StudyId }})
 {% endif %}
 
 
-{% if ScholarUrl %}[Scholar]({{ ScholarUrl }}){% endif %}
-{%- if UniUrl %}[University]({{ UniUrl }}){% endif %}
-{%- if LabUrl %}[Lab]({{ LabUrl }}){% endif %}
-{%- if CoordinatorRole %}[Coordinator]("coordinator"){% endif %}
-{%- if AdvisorRole %}[Advisory Board]("advisor"){% endif %}
-{%- if SteeringRole %}[Steering Group]("steering"){% endif %}
-{%- if ReplicatorRole %}[Replicator]("replicator"){% endif %}
+{% if ScholarUrl %}[Scholar]({{ ScholarUrl }}) {% endif %}
+{%- if UniUrl %}[University]({{ UniUrl }}) {% endif %}
+{%- if LabUrl %}[Lab]({{ LabUrl }}) {% endif %}
+{%- if CoordinatorRole %}[Coordinator]("coordinator") {% endif %}
+{%- if AdvisorRole %}[Advisory Board]("advisor") {% endif %}
+{%- if SteeringRole %}[Steering Group]("steering") {% endif %}
+{%- if ReplicatorRole %}[Replicator]("replicator") {% endif %}
