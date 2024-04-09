@@ -106,6 +106,11 @@ article {
 /*
     FRONT PAGE
 */
+sl-card {
+    max-width: 300px;
+}
+/*
+
 
 section#about {
     max-width: 800px;
@@ -121,6 +126,7 @@ section#funders {
     max-width: 800px;
     width: 80%;
 }
+*/
 
 #funders img {
     height: 40px;
@@ -168,6 +174,7 @@ section#funders {
     SECTION
 */
 
+/*
 section {
     max-width: 500px;
     padding: 20px;
@@ -175,15 +182,16 @@ section {
     margin: 0 10px 10px 0;
     border-radius: 5px;
 }
+*/
 
-section img {
+sl-card img {
     height: 150px;
     float: left;
     margin: 10px;
 }
 
 /* local links */
-section a[href^="/"] {
+sl-card a[href^="/"] {
     padding: 5px;
     border-radius: 3px;
     border: 1px solid teal;
@@ -198,7 +206,7 @@ section a[href^="/"] {
 */
 
 /* eeg100 link same as local links */
-section a[href^="https://eeg100"] {
+sl-card a[href^="https://eeg100"] {
     padding: 5px;
     border-radius: 3px;
     border: 1px solid teal;
@@ -243,9 +251,11 @@ section a[href^="https://eeg100"] {
     line-height: 2em;
 }
 
+/*
 #people section {
     width: 350px;
 }
+*/
 
 #people h2 {
     width: 350px;
