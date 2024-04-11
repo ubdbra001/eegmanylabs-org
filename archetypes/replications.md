@@ -1,9 +1,11 @@
 ---
 SequenceNumber: {{ SequenceNumber }}
+Anchor: {{ PublicationId }}
+Title: {{ Title }}
+Image: 
 StudyId: {{ StudyId }}
 LeadFullName: {{ LeadFullName }}
 PersonId: {{ PersonId }}
-Title: {{ Title }}
 Reference: {{ Reference }}
 PsychConstruct: {{ PsychConstruct }}
 SignupUrl: {{ SignupUrl }}

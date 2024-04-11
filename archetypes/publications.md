@@ -1,8 +1,10 @@
 ---
 SequenceNumber: {{ DatePublishedNumber }}
+Anchor: {{ PublicationId }}
+Title: {{ Title }}
+Image: 
 PublicationId: {{ PublicationId }}
 Authors: {{ Authors }}
-Title: {{ Title }}
 Journal: {{ Journal }}
 Year: {{ PublicationYear }}
 DOI: {{ DOI }}
