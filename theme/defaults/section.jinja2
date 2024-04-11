@@ -1,6 +1,5 @@
 <sl-card id="{{ section.name }}">
-
-
+  
   <div slot="header">
     {{ section.front['Title'] }}
   </div>
@@ -16,5 +15,14 @@
     <sl-tag size="medium" pill>{{ tag }}</sl-tag>
   {% endfor %}
 
-  {# footer slot here #}
+  {# should move this to people-specific template  #}
+  {% if section.front['ScholarUrl']|length > 5 %}
+    <a href="{{ ScholarUrl }}">scholar</a>
+  {% endif %}
+  {% if section.front['UniUrl']|length > 5 %}
+    <a href="{{ UniUrl }}">university</a>
+  {% endif %}
+  {% if section.front['LabUrl']|length > 5 %}
+    <a href="{{ LabUrl }}">lab</a>
+  {% endif %}
 </sl-card>
