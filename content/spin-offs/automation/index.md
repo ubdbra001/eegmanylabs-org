@@ -1,6 +1,6 @@
----
-SequenceNumber: 2
----
++++
+SequenceNumber = 2
++++
 ## Automation
 
 ![processor](/assets/images/figures/processor.jpg 'Processor Chip')

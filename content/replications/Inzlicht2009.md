@@ -1,13 +1,15 @@
----
-SequenceNumber: 19
++++
+SequenceNumber =  19
+Anchor: 
+Title: Neural Markers of Religious Conviction
+Image: 
 StudyId: Inzlicht2009
 LeadFullName: Annmarie MacNamara
 PersonId: amacnamara
-Title: Neural Markers of Religious Conviction
 Reference: Inzlicht, M., McGregor, I., Hirsh, J. B., & Nash, K. (2009). Neural Markers of Religious Conviction. Psychological Science, 20(3), 385–392. https://doi.org/10.1111/j.1467-9280.2009.02305.x
 PsychConstruct: personality
 SignupUrl: https://docs.google.com/forms/d/e/1FAIpQLSf-1WI2kgXsOOYN8POhNKVcpeSGmTqJQqXF--e8QCLxTRGUiA/viewform?usp=sf_link
----
++++
 
 
 ## <a name="Inzlicht2009"> Neural Markers of Religious Conviction

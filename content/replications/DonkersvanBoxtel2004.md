@@ -1,13 +1,15 @@
----
-SequenceNumber: 2
++++
+SequenceNumber =  2
+Anchor: 
+Title: The N2 in go/no-go tasks reflects conflict monitoring not response inhibition
+Image: 
 StudyId: DonkersvanBoxtel2004
 LeadFullName: Welber Marinovic
 PersonId: wmarinovic
-Title: The N2 in go/no-go tasks reflects conflict monitoring not response inhibition
 Reference: Donkers, F. C. L., & van Boxtel, G. J. M. (2004). The N2 in go/no-go tasks reflects conflict monitoring not response inhibition. Brain and Cognition, 56(2), 165–176. https://doi.org/10.1016/j.bandc.2004.04.005
 PsychConstruct: conflict monitoring
 SignupUrl: not opened for signing-up yet (stay tuned!)
----
++++
 
 
 ## <a name="DonkersvanBoxtel2004"> The N2 in go/no-go tasks reflects conflict monitoring not response inhibition

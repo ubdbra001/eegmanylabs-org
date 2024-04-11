@@ -1,6 +1,6 @@
----
-SequenceNumber: 4
----
++++
+SequenceNumber =  4
++++
 ## Asymmetry and personality traits 
 
 ![matrix](/assets/images/figures/personality_matrix.png 'Personality Matrix')

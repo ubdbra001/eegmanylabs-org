@@ -1,6 +1,6 @@
----
-SequenceNumber: 1
----
++++
+SequenceNumber = 1
++++
 
 ## What is EEGManyLabs?
 

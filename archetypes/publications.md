@@ -1,15 +1,15 @@
----
-SequenceNumber: {{ DatePublishedNumber }}
-Anchor: {{ PublicationId }}
-Title: {{ Title }}
-Image: 
-PublicationId: {{ PublicationId }}
-Authors: {{ Authors }}
-Journal: {{ Journal }}
-Year: {{ PublicationYear }}
-DOI: {{ DOI }}
-Abstract: {{ Abstract }}
----
++++
+SequenceNumber = "{{ DatePublishedNumber }}"
+Anchor = "{{ PublicationId }}"
+Title = "{{ Title }}"
+Image = ""
+PublicationId = "{{ PublicationId }}"
+Authors = "{{ Authors }}"
+Journal = "{{ Journal }}"
+Year = "{{ PublicationYear }}"
+DOI = "{{ DOI }}"
+Abstract = "{{ Abstract }}"
++++
 
 ## {{ Title}}
 #### {{ AuthorsShort }} {{ PublicationYear }} {{ Journal }}

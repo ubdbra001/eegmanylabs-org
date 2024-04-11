@@ -1,13 +1,15 @@
----
-SequenceNumber: 3
++++
+SequenceNumber =  3
+Anchor: 
+Title: Errors Are Aversive: Defensive Motivation and the Error-Related Negativity
+Image: 
 StudyId: HajcakFoti2008
 LeadFullName: Amy Bland
 PersonId: abland
-Title: Errors Are Aversive: Defensive Motivation and the Error-Related Negativity
 Reference: Hajcak, G., & Foti, D. (2008). Errors Are Aversive: Defensive Motivation and the Error-Related Negativity. Psychological Science, 19(2), 103–108. https://doi.org/10.1111/j.1467-9280.2008.02053.x
 PsychConstruct: emotions
 SignupUrl: https://docs.google.com/forms/d/e/1FAIpQLSfQqYq7j5MwfTZLXzGSqstkLSN3_VddGYsCKNzKL29RUOYeSQ/viewform?usp=sf_link
----
++++
 
 
 ## <a name="HajcakFoti2008"> Errors Are Aversive: Defensive Motivation and the Error-Related Negativity

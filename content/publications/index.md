@@ -1,6 +1,6 @@
----
-SequenceNumber: 4
----
++++
+SequenceNumber = 4
++++
 
 # Publications
 

@@ -1,15 +1,15 @@
----
-SequenceNumber: {{ SequenceNumber }}
-Anchor: {{ PublicationId }}
-Title: {{ Title }}
-Image: 
-StudyId: {{ StudyId }}
-LeadFullName: {{ LeadFullName }}
-PersonId: {{ PersonId }}
-Reference: {{ Reference }}
-PsychConstruct: {{ PsychConstruct }}
-SignupUrl: {{ SignupUrl }}
----
++++
+SequenceNumber = "{{ SequenceNumber }}"
+Anchor = "{{ PublicationId }}"
+Title = "{{ Title }}"
+Image = ""
+StudyId = "{{ StudyId }}"
+LeadFullName = "{{ LeadFullName }}"
+PersonId = "{{ PersonId }}"
+Reference = "{{ Reference }}"
+PsychConstruct = "{{ PsychConstruct }}"
+SignupUrl = "{{ SignupUrl }}"
++++
 
 
 ## <a name="{{ StudyId }}"> {{ Title }}

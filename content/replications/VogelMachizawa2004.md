@@ -1,13 +1,15 @@
----
-SequenceNumber: 25
++++
+SequenceNumber =  25
+Anchor: 
+Title: Neural activity predicts individual differences in visual working memory capacity
+Image: 
 StudyId: VogelMachizawa2004
 LeadFullName: Nicolas Langer
 PersonId: nlanger
-Title: Neural activity predicts individual differences in visual working memory capacity
 Reference: Vogel, E. K., & Machizawa, M. G. (2004). Neural activity predicts individual differences in visual working memory capacity. Nature, 428(6984), 748–751. https://doi.org/10.1038/nature02447
 PsychConstruct: working memory
 SignupUrl: https://forms.gle/EkSKvQV9MBkfckag7
----
++++
 
 
 ## <a name="VogelMachizawa2004"> Neural activity predicts individual differences in visual working memory capacity

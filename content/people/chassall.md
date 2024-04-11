@@ -1,19 +1,13 @@
----
-SequenceNumber: 16
++++
+SequenceNumber =  16
+Anchor: chassall
+Title: Cameron Hassall
+Image: headshots/chassall.jpg
+Tags: [ "replicator", ]
+ScholarUrl: None
+UniUrl: None
+LabUrl: None
+StudyId: Vidal2000
 PersonId: chassall
 FullName: Cameron Hassall
-HeadShotFilename: chassall.jpg
-StudyId: Vidal2000
----
-<a name="chassall">
-![headshot of researcher](/assets/images/headshots/chassall.jpg "Cameron Hassall")
-
-## Cameron Hassall
-
-
-
-Leads [Vidal2000](/replications/#Vidal2000)
-
-
-
-[Replicator]("replicator") 
++++

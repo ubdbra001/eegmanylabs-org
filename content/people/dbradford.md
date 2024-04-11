@@ -1,19 +1,13 @@
----
-SequenceNumber: 9
++++
+SequenceNumber =  9
+Anchor: dbradford
+Title: Daniel Bradford
+Image: headshots/dbradford.jpg
+Tags: [ "replicator", ]
+ScholarUrl: None
+UniUrl: None
+LabUrl: None
+StudyId: HajcakFoti2008
 PersonId: dbradford
 FullName: Daniel Bradford
-HeadShotFilename: dbradford.jpg
-StudyId: HajcakFoti2008
----
-<a name="dbradford">
-![headshot of researcher](/assets/images/headshots/dbradford.jpg "Daniel Bradford")
-
-## Daniel Bradford
-
-
-
-Leads [HajcakFoti2008](/replications/#HajcakFoti2008)
-
-
-
-[Replicator]("replicator") 
++++

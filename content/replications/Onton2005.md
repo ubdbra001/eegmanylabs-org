@@ -1,13 +1,15 @@
----
-SequenceNumber: 23
++++
+SequenceNumber =  23
+Anchor: 
+Title: Frontal midline EEG dynamics during working memory
+Image: 
 StudyId: Onton2005
 LeadFullName: Samantha Gregory
 PersonId: sgregory
-Title: Frontal midline EEG dynamics during working memory
 Reference: Onton, J., Delorme, A., & Makeig, S. (2005). Frontal midline EEG dynamics during working memory. NeuroImage, 27(2), 341–356. https://doi.org/10.1016/j.neuroimage.2005.04.014
 PsychConstruct: working memory
 SignupUrl: https://forms.gle/AXGrX8fjWpa2kfdx7
----
++++
 
 
 ## <a name="Onton2005"> Frontal midline EEG dynamics during working memory

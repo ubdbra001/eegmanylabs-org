@@ -1,19 +1,13 @@
----
-SequenceNumber: 20
++++
+SequenceNumber =  20
+Anchor: nlanger
+Title: Nicolas Langer
+Image: headshots/nlanger.jpg
+Tags: [ "replicator", ]
+ScholarUrl: None
+UniUrl: None
+LabUrl: None
+StudyId: VogelMachizawa2004
 PersonId: nlanger
 FullName: Nicolas Langer
-HeadShotFilename: nlanger.jpg
-StudyId: VogelMachizawa2004
----
-<a name="nlanger">
-![headshot of researcher](/assets/images/headshots/nlanger.jpg "Nicolas Langer")
-
-## Nicolas Langer
-
-
-
-Leads [VogelMachizawa2004](/replications/#VogelMachizawa2004)
-
-
-
-[Replicator]("replicator") 
++++

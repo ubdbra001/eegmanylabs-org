@@ -1,19 +1,13 @@
----
-SequenceNumber: 19
++++
+SequenceNumber =  19
+Anchor: akeil
+Title: Andreas Keil
+Image: headshots/akeil.png
+Tags: [ "replicator", ]
+ScholarUrl: None
+UniUrl: None
+LabUrl: None
+StudyId: ClarkHillyard1996
 PersonId: akeil
 FullName: Andreas Keil
-HeadShotFilename: akeil.png
-StudyId: ClarkHillyard1996
----
-<a name="akeil">
-![headshot of researcher](/assets/images/headshots/akeil.png "Andreas Keil")
-
-## Andreas Keil
-
-
-
-Leads [ClarkHillyard1996](/replications/#ClarkHillyard1996)
-
-
-
-[Replicator]("replicator") 
++++

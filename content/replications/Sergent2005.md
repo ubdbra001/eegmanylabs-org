@@ -1,13 +1,15 @@
----
-SequenceNumber: 5
++++
+SequenceNumber =  5
+Anchor: 
+Title: Timing of the brain events underlying access to consciousness during the attentional blink
+Image: 
 StudyId: Sergent2005
 LeadFullName: Damian Cruse
 PersonId: dcruse
-Title: Timing of the brain events underlying access to consciousness during the attentional blink
 Reference: Sergent, C., Baillet, S., & Dehaene, S. (2005). Timing of the brain events underlying access to consciousness during the attentional blink. Nature Neuroscience, 8(10), 1391–1400. https://doi.org/10.1038/nn1549
 PsychConstruct: consciousness
 SignupUrl: https://docs.google.com/forms/d/e/1FAIpQLSdo9rk0V5OWYi0TB9T9JouxFQ1E91Xe9arUauX5legz2e1iUA/viewform
----
++++
 
 
 ## <a name="Sergent2005"> Timing of the brain events underlying access to consciousness during the attentional blink

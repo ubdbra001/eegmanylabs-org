@@ -1,6 +1,6 @@
----
-SequenceNumber: 5
----
++++
+SequenceNumber =  5
++++
 ## Prediction Markets
 
 ![bidding](/assets/images/figures/bidding.jpg 'Bidding')

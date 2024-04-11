@@ -1,6 +1,6 @@
----
-SequenceNumber: 2
----
++++
+SequenceNumber =  2
++++
 
 # Spin-offs
 

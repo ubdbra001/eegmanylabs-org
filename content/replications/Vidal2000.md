@@ -1,13 +1,15 @@
----
-SequenceNumber: 24
++++
+SequenceNumber =  24
+Anchor: 
+Title: Is the ‘error negativity’ specific to errors?
+Image: 
 StudyId: Vidal2000
 LeadFullName: Cameron Hassall
 PersonId: chassall
-Title: Is the ‘error negativity’ specific to errors?
 Reference: Vidal, F., Hasbroucq, T., Grapperon, J., & Bonnet, M. (2000). Is the ‘error negativity’ specific to errors? Biological Psychology, 51(2–3), 109–128. https://doi.org/10.1016/S0301-0511(99)00032-0
 PsychConstruct: action monitoring
 SignupUrl: https://forms.gle/CjJ76gTqLiSrpjhL6
----
++++
 
 
 ## <a name="Vidal2000"> Is the ‘error negativity’ specific to errors?

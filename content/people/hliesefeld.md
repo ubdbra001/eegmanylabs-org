@@ -1,19 +1,13 @@
----
-SequenceNumber: 21
++++
+SequenceNumber =  21
+Anchor: hliesefeld
+Title: Heinrich Liesefeld
+Image: headshots/hliesefeld.png
+Tags: [ "replicator", ]
+ScholarUrl: None
+UniUrl: None
+LabUrl: None
+StudyId: Eimer1996
 PersonId: hliesefeld
 FullName: Heinrich Liesefeld
-HeadShotFilename: hliesefeld.png
-StudyId: Eimer1996
----
-<a name="hliesefeld">
-![headshot of researcher](/assets/images/headshots/hliesefeld.png "Heinrich Liesefeld")
-
-## Heinrich Liesefeld
-
-
-
-Leads [Eimer1996](/replications/#Eimer1996)
-
-
-
-[Replicator]("replicator") 
++++

@@ -1,19 +1,13 @@
----
-SequenceNumber: 27
++++
+SequenceNumber =  27
+Anchor: msenderecka
+Title: Magdalena Senderecka
+Image: headshots/msenderecka.png
+Tags: [ "replicator", ]
+ScholarUrl: None
+UniUrl: None
+LabUrl: None
+StudyId: HajcakMoser2005
 PersonId: msenderecka
 FullName: Magdalena Senderecka
-HeadShotFilename: msenderecka.png
-StudyId: HajcakMoser2005
----
-<a name="msenderecka">
-![headshot of researcher](/assets/images/headshots/msenderecka.png "Magdalena Senderecka")
-
-## Magdalena Senderecka
-
-
-
-Leads [HajcakMoser2005](/replications/#HajcakMoser2005)
-
-
-
-[Replicator]("replicator") 
++++

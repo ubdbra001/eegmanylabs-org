@@ -1,19 +1,13 @@
----
-SequenceNumber: 10
++++
+SequenceNumber =  10
+Anchor: achatard
+Title: Armand Chatard
+Image: headshots/achatard.png
+Tags: [ "replicator", ]
+ScholarUrl: None
+UniUrl: None
+LabUrl: None
+StudyId: Frank2005
 PersonId: achatard
 FullName: Armand Chatard
-HeadShotFilename: achatard.png
-StudyId: Frank2005
----
-<a name="achatard">
-![headshot of researcher](/assets/images/headshots/achatard.png "Armand Chatard")
-
-## Armand Chatard
-
-
-
-Leads [Frank2005](/replications/#Frank2005)
-
-
-
-[Replicator]("replicator") 
++++
