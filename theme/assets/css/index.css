@@ -106,27 +106,7 @@ article {
 /*
     FRONT PAGE
 */
-sl-card {
-    max-width: 300px;
-}
-/*
 
-
-section#about {
-    max-width: 800px;
-    width: 80%;
-}
-
-section#contact {
-    max-width: 800px;
-    width: 80%;
-}
-
-section#funders {
-    max-width: 800px;
-    width: 80%;
-}
-*/
 
 #funders img {
     height: 40px;
@@ -174,15 +154,9 @@ section#funders {
     SECTION
 */
 
-/*
-section {
-    max-width: 500px;
-    padding: 20px;
-    background-color: white;
-    margin: 0 10px 10px 0;
-    border-radius: 5px;
+sl-card {
+    max-width: 300px;
 }
-*/
 
 sl-card img {
     height: 150px;

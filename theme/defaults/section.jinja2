@@ -1,3 +1,20 @@
 <sl-card id="{{ section.name }}">
-{{ section.content_html|safe }}
+
+
+  <div slot="header">
+    {{ section.front['Title'] }}
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/{{ section.front['Image'] }}"
+  />
+
+  {{ section.content_html|safe }}
+
+  {% for tag in section.front['Tags'] %}
+    <sl-tag size="medium" pill>{{ tag }}</sl-tag>
+  {% endfor %}
+
+  {# footer slot here #}
 </sl-card>
