@@ -1,5 +1,5 @@
 +++
-SequenceNumber = "32"
+SequenceNumber = "30"
 Anchor = "everona"
 Title = "Edelyn Verona"
 Image = "headshots/everona.png"
