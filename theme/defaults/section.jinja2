@@ -1,3 +1,5 @@
+{% import 'defaults/icon_button.jinja2' as IconButton %}
+
 <sl-card id="{{ section.name }}">
   
   <div slot="header">
@@ -15,25 +17,9 @@
     <sl-tag size="medium" pill>{{ tag }}</sl-tag>
   {% endfor %}
 
-  {# should move this to people-specific template and/or make a macro  #}
-  {% if section.front['ScholarUrl']|length > 5 %}
-    <sl-tooltip content="Google Scholar profile">
-        <sl-icon-button library="fa" name="fab-google-scholar" href="{{ section.front['ScholarUrl'] }}" target="_blank"></sl-icon-button>
-    </sl-tooltip>
-  {% endif %}
-  {% if section.front['UniUrl']|length > 5 %}
-    <sl-tooltip content="University profile page">
-        <sl-icon-button library="fa" name="fas-building-columns" href="{{ section.front['UniUrl'] }}" target="_blank"></sl-icon-button>
-    </sl-tooltip>
-  {% endif %}
-  {% if section.front['LabUrl']|length > 5 %}
-    <sl-tooltip content="Lab website">
-        <sl-icon-button library="fa" name="fas-flask" href="{{ section.front['LabUrl'] }}" target="_blank"></sl-icon-button>
-    </sl-tooltip>
-  {% endif %}
-  {% if section.front['DoiUrl']|length > 5 %}
-    <sl-tooltip content="Open Manuscript">
-        <sl-icon-button library="fa" name="fas-arrow-up-right-from-square" href="{{ section.front['DoiUrl'] }}" target="_blank"></sl-icon-button>
-    </sl-tooltip>
-  {% endif %}
+  {{ IconButton.render(section.front['ScholarUrl'], "Google Scholar profile", "fab-google-scholar") }}
+  {{ IconButton.render(section.front['UniUrl'], "University profile page", "fas-building-columns") }}
+  {{ IconButton.render(section.front['LabUrl'], "Lab website", "fas-flask") }}
+  {{ IconButton.render(section.front['DoiUrl'], "Open Manuscript", "fas-arrow-up-right-from-square") }}
+
 </sl-card>
