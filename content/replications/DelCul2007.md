@@ -1,13 +1,15 @@
----
-SequenceNumber: 10
-StudyId: DelCul2007
-LeadFullName: Kobe Desender 
-PersonId: kdesender
-Title: Brain Dynamics Underlying the Nonlinear Threshold for Access to Consciousness
-Reference: Del Cul, A., Baillet, S., & Dehaene, S. (2007). Brain Dynamics Underlying the Nonlinear Threshold for Access to Consciousness. PLoS Biology, 5(10), e260. https://doi.org/10.1371/journal.pbio.0050260
-PsychConstruct: consciousness
-SignupUrl: https://forms.gle/YtRkCBbMeK1tRh2G7
----
++++
+SequenceNumber = "10"
+Anchor = ""
+Title = "Brain Dynamics Underlying the Nonlinear Threshold for Access to Consciousness"
+Image = ""
+StudyId = "DelCul2007"
+LeadFullName = "Kobe Desender "
+PersonId = "kdesender"
+Reference = "Del Cul, A., Baillet, S., & Dehaene, S. (2007). Brain Dynamics Underlying the Nonlinear Threshold for Access to Consciousness. PLoS Biology, 5(10), e260. https://doi.org/10.1371/journal.pbio.0050260"
+PsychConstruct = "consciousness"
+SignupUrl = "https://forms.gle/YtRkCBbMeK1tRh2G7"
++++
 
 
 ## <a name="DelCul2007"> Brain Dynamics Underlying the Nonlinear Threshold for Access to Consciousness

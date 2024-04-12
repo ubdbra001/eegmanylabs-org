@@ -1,4 +1,4 @@
----
-SequenceNumber: 1
----
++++
+SequenceNumber = 1
++++
 # Replications

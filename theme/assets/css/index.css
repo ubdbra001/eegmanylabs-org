@@ -6,9 +6,11 @@ body {
     font-size: 16px;
 }
 
+/*
 img {
     height: 100px;
 }
+*/
 
 img#logo {
     height: 6vw;
@@ -28,7 +30,7 @@ hr {
     overflow: hidden; /* prevents child elements' margins from pushing this around  */
 }
 div#content {
-    width: 85%;
+    width: 90%;
     margin: auto;
 }
 nav#menu {
@@ -96,31 +98,29 @@ article {
     padding: 20px;
 }
 
-.section-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: left;
-    margin: auto;
+.section-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 300px);
+    grid-auto-rows: auto;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+/* finer grid for people */
+#people.section-grid {
+    grid-template-columns: repeat(auto-fit, 200px);
+}
+
+/* fix non-conforming headshots */
+#people.section-grid img {
+    object-fit: cover;
+    height: 200px;
 }
 
 /*
     FRONT PAGE
 */
 
-section#about {
-    max-width: 800px;
-    width: 80%;
-}
-
-section#contact {
-    max-width: 800px;
-    width: 80%;
-}
-
-section#funders {
-    max-width: 800px;
-    width: 80%;
-}
 
 #funders img {
     height: 40px;
@@ -168,22 +168,15 @@ section#funders {
     SECTION
 */
 
-section {
-    max-width: 500px;
-    padding: 20px;
-    background-color: white;
-    margin: 0 10px 10px 0;
-    border-radius: 5px;
-}
-
-section img {
+/*
+sl-card img {
     height: 150px;
     float: left;
     margin: 10px;
 }
-
+*/
 /* local links */
-section a[href^="/"] {
+sl-card a[href^="/"] {
     padding: 5px;
     border-radius: 3px;
     border: 1px solid teal;
@@ -198,7 +191,7 @@ section a[href^="/"] {
 */
 
 /* eeg100 link same as local links */
-section a[href^="https://eeg100"] {
+sl-card a[href^="https://eeg100"] {
     padding: 5px;
     border-radius: 3px;
     border: 1px solid teal;
@@ -234,18 +227,6 @@ section a[href^="https://eeg100"] {
 /*  
     PEOPLE SECTION
 */
-
-#people img {
-    height: 100px;
-}
-
-#people p {
-    line-height: 2em;
-}
-
-#people section {
-    width: 350px;
-}
 
 #people h2 {
     width: 350px;

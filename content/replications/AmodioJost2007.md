@@ -1,13 +1,15 @@
----
-SequenceNumber: 6
-StudyId: AmodioJost2007
-LeadFullName: Alexandre Schaefer
-PersonId: aschaefer
-Title: Neurocognitive correlates of liberalism and conservatism
-Reference: Amodio, D. M., Jost, J. T., Master, S. L., & Yee, C. M. (2007). Neurocognitive correlates of liberalism and conservatism. Nature Neuroscience, 10(10), 1246–1247. https://doi.org/10.1038/nn1979
-PsychConstruct: conflict monitoring
-SignupUrl: https://forms.gle/rdEG2i9K2u7173bp6
----
++++
+SequenceNumber = "6"
+Anchor = ""
+Title = "Neurocognitive correlates of liberalism and conservatism"
+Image = ""
+StudyId = "AmodioJost2007"
+LeadFullName = "Alexandre Schaefer"
+PersonId = "aschaefer"
+Reference = "Amodio, D. M., Jost, J. T., Master, S. L., & Yee, C. M. (2007). Neurocognitive correlates of liberalism and conservatism. Nature Neuroscience, 10(10), 1246–1247. https://doi.org/10.1038/nn1979"
+PsychConstruct = "conflict monitoring"
+SignupUrl = "https://forms.gle/rdEG2i9K2u7173bp6"
++++
 
 
 ## <a name="AmodioJost2007"> Neurocognitive correlates of liberalism and conservatism

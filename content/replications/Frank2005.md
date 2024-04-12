@@ -1,13 +1,15 @@
----
-SequenceNumber: 14
-StudyId: Frank2005
-LeadFullName: Armand Chatard
-PersonId: achatard
-Title: Error-Related Negativity Predicts Reinforcement Learning and Conflict Biases
-Reference: Frank, M. J., Woroch, B. S., & Curran, T. (2005). Error-Related Negativity Predicts Reinforcement Learning and Conflict Biases. Neuron, 47(4), 495–501. https://doi.org/10.1016/j.neuron.2005.06.020
-PsychConstruct: error processing
-SignupUrl: https://forms.gle/GY9JeGDpT2XQsNWc9
----
++++
+SequenceNumber = "14"
+Anchor = ""
+Title = "Error-Related Negativity Predicts Reinforcement Learning and Conflict Biases"
+Image = ""
+StudyId = "Frank2005"
+LeadFullName = "Armand Chatard"
+PersonId = "achatard"
+Reference = "Frank, M. J., Woroch, B. S., & Curran, T. (2005). Error-Related Negativity Predicts Reinforcement Learning and Conflict Biases. Neuron, 47(4), 495–501. https://doi.org/10.1016/j.neuron.2005.06.020"
+PsychConstruct = "error processing"
+SignupUrl = "https://forms.gle/GY9JeGDpT2XQsNWc9"
++++
 
 
 ## <a name="Frank2005"> Error-Related Negativity Predicts Reinforcement Learning and Conflict Biases

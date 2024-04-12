@@ -1,13 +1,15 @@
----
-SequenceNumber: 0
-StudyId: Boksem2006
-LeadFullName: Jakob Kaiser
-PersonId: jkaiser
-Title: Mental fatigue, motivation and action monitoring
-Reference: Boksem, M. A. S., Meijman, T. F., & Lorist, M. M. (2006). Mental fatigue, motivation and action monitoring. Biological Psychology, 72(2), 123–132. https://doi.org/10.1016/j.biopsycho.2005.08.007
-PsychConstruct: action monitoring
-SignupUrl: https://forms.gle/f5KHWhbnt8Uj8KLEA
----
++++
+SequenceNumber = "0"
+Anchor = ""
+Title = "Mental fatigue, motivation and action monitoring"
+Image = ""
+StudyId = "Boksem2006"
+LeadFullName = "Jakob Kaiser"
+PersonId = "jkaiser"
+Reference = "Boksem, M. A. S., Meijman, T. F., & Lorist, M. M. (2006). Mental fatigue, motivation and action monitoring. Biological Psychology, 72(2), 123–132. https://doi.org/10.1016/j.biopsycho.2005.08.007"
+PsychConstruct = "action monitoring"
+SignupUrl = "https://forms.gle/f5KHWhbnt8Uj8KLEA"
++++
 
 
 ## <a name="Boksem2006"> Mental fatigue, motivation and action monitoring

@@ -1,19 +1,13 @@
----
-SequenceNumber: 6
-PersonId: xhe
-FullName: Xun He
-HeadShotFilename: xhe.png
-StudyId: Eimer2003
----
-<a name="xhe">
-![headshot of researcher](/assets/images/headshots/xhe.png "Xun He")
-
-## Xun He
-
-
-
-Leads [Eimer2003](/replications/#Eimer2003)
-
-
-
-[Scholar](https://scholar.google.com/citations?user=08oketoAAAAJ&hl=en&oi=ao) [University](https://staffprofiles.bournemouth.ac.uk/display/xhe) [Steering Group]("steering") [Replicator]("replicator") 
++++
+SequenceNumber = "6"
+Anchor = "xhe"
+Title = "Xun He"
+Image = "headshots/xhe.png"
+Tags = [ "steering",  "replicator", ]
+ScholarUrl = "https://scholar.google.com/citations?user=08oketoAAAAJ&hl=en&oi=ao"
+UniUrl = "https://staffprofiles.bournemouth.ac.uk/display/xhe"
+LabUrl = "None"
+StudyId = "Eimer2003"
+PersonId = "xhe"
+FullName = "Xun He"
++++

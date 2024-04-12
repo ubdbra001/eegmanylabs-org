@@ -1,19 +1,13 @@
----
-SequenceNumber: 31
-PersonId: mvandermolen
-FullName: Melle van der Molen 
-HeadShotFilename: mvandermolen.jpg
-StudyId: Hajcak2006
----
-<a name="mvandermolen">
-![headshot of researcher](/assets/images/headshots/mvandermolen.jpg "Melle van der Molen ")
-
-## Melle van der Molen 
-
-
-
-Leads [Hajcak2006](/replications/#Hajcak2006)
-
-
-
-[Replicator]("replicator") 
++++
+SequenceNumber = "31"
+Anchor = "mvandermolen"
+Title = "Melle van der Molen "
+Image = "headshots/mvandermolen.jpg"
+Tags = [ "replicator", ]
+ScholarUrl = "None"
+UniUrl = "None"
+LabUrl = "None"
+StudyId = "Hajcak2006"
+PersonId = "mvandermolen"
+FullName = "Melle van der Molen "
++++

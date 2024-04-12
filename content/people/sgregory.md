@@ -1,19 +1,13 @@
----
-SequenceNumber: 15
-PersonId: sgregory
-FullName: Samantha Gregory
-HeadShotFilename: sgregory.jpg
-StudyId: Onton2005
----
-<a name="sgregory">
-![headshot of researcher](/assets/images/headshots/sgregory.jpg "Samantha Gregory")
-
-## Samantha Gregory
-
-
-
-Leads [Onton2005](/replications/#Onton2005)
-
-
-
-[Replicator]("replicator") 
++++
+SequenceNumber = "15"
+Anchor = "sgregory"
+Title = "Samantha Gregory"
+Image = "headshots/sgregory.jpg"
+Tags = [ "replicator", ]
+ScholarUrl = "None"
+UniUrl = "None"
+LabUrl = "None"
+StudyId = "Onton2005"
+PersonId = "sgregory"
+FullName = "Samantha Gregory"
++++

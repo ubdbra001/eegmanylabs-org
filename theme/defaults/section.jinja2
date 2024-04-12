@@ -1,3 +1,25 @@
-<section id="{{ section.name }}">
-{{ section.content_html|safe }}
-</section>
+{% import 'defaults/icon_button.jinja2' as IconButton %}
+
+<sl-card id="{{ section.name }}">
+  
+  <div slot="header">
+    {{ section.front['Title'] }}
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/{{ section.front['Image'] }}"
+  />
+
+  {{ section.content_html|safe }}
+
+  {% for tag in section.front['Tags'] %}
+    <sl-tag size="small" pill>{{ tag }}</sl-tag>
+  {% endfor %}
+
+  {{ IconButton.render(section.front['ScholarUrl'], "Google Scholar profile", "fab-google-scholar") }}
+  {{ IconButton.render(section.front['UniUrl'], "University profile page", "fas-building-columns") }}
+  {{ IconButton.render(section.front['LabUrl'], "Lab website", "fas-flask") }}
+  {{ IconButton.render(section.front['DoiUrl'], "Open Manuscript", "fas-arrow-up-right-from-square") }}
+
+</sl-card>

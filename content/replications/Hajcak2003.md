@@ -1,13 +1,15 @@
----
-SequenceNumber: 15
-StudyId: Hajcak2003
-LeadFullName: Edelyn Verona
-PersonId: everona
-Title: Anxiety and error-related brain activity
-Reference: Hajcak, G., McDonald, N., & Simons, R. F. (2003). Anxiety and error-related brain activity. Biological Psychology, 64(1–2), 77–90. https://doi.org/10.1016/S0301-0511(03)00103-0
-PsychConstruct: error processing
-SignupUrl: https://docs.google.com/forms/d/13KCi5Vt6cVZvvPHMcdW8D-wdpffBPl_pnn1NYgcdEOg/edit
----
++++
+SequenceNumber = "15"
+Anchor = ""
+Title = "Anxiety and error-related brain activity"
+Image = ""
+StudyId = "Hajcak2003"
+LeadFullName = "Edelyn Verona"
+PersonId = "everona"
+Reference = "Hajcak, G., McDonald, N., & Simons, R. F. (2003). Anxiety and error-related brain activity. Biological Psychology, 64(1–2), 77–90. https://doi.org/10.1016/S0301-0511(03)00103-0"
+PsychConstruct = "error processing"
+SignupUrl = "https://docs.google.com/forms/d/13KCi5Vt6cVZvvPHMcdW8D-wdpffBPl_pnn1NYgcdEOg/edit"
++++
 
 
 ## <a name="Hajcak2003"> Anxiety and error-related brain activity

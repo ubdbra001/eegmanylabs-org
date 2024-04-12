@@ -1,17 +1,17 @@
----
-SequenceNumber: 20231213
-PublicationId: Marzuki2023
-Authors: Marzuki AA,Gloy K,Kandler C,Phon-Amnuaisuk P,Jenkins M,Wong KY,Lim S,Yip WZ,Garrison K,Wahlers J,al. E
-Title: Error- and inhibitory-related brain activity associated with political ideology: A multi-site replication study
-Journal: Psyarxiv
-Year: 2023
-DOI: 10.31234/osf.io/39vqj
-Abstract: The relationship between political ideology and brain activity has captured the fascination of scientists and the public alike. Using approaches from cognitive neuroscience to provide insights into deeply held and personal beliefs requires careful navigation, with the application of robust methods that generate replicable results. A hallmark study in this area from Amodio et al. (2007) reported that brain components reflective of conflict monitoring and inhibition (namely the ERN [error-related negativity] and N2) are heightened in individuals who self-identify as liberal compared to conservative. While the study is highly influential and well-cited in the scientific literature, no direct replications of their findings exist and as such, this work was selected as a target replication for the #EEGManyLabs initiative. This cross-cultural multi-site study (N=320) will conduct a thorough replication of the Amodio et al. (2007) study, strictly adhering to the original protocol, namely by administering a Go/No-Go task with simultaneous EEG recording and a one-item scale asking participants to rate the extent to which they are liberal or conservative. We will supplement the original study with new measures that may better correspond to political identity in non-US contexts, such as religiosity, dogmatism, and traditionalism. In line with the original study, we will conduct correlational analyses between self-identified liberalism and ERN/N2 amplitudes. In addition, Bayesian linear regressions will be used to provide robust estimates of the strength of association between other components of political ideology and electrophysiological signals.
----
-
-## Error- and inhibitory-related brain activity associated with political ideology: A multi-site replication study
++++
+SequenceNumber = "20231213"
+Anchor = "Marzuki2023"
+Title = "Error- and inhibitory-related brain activity associated with political ideology: A multi-site replication study"
+Image = ""
+PublicationId = "Marzuki2023"
+Authors = "Marzuki AA,Gloy K,Kandler C,Phon-Amnuaisuk P,Jenkins M,Wong KY,Lim S,Yip WZ,Garrison K,Wahlers J,al. E"
+Journal = "Psyarxiv"
+Year = "2023"
+DOI = "10.31234/osf.io/39vqj"
+DoiUrl = "https://dx.doi.org/10.31234/osf.io/39vqj"
+Abstract = "The relationship between political ideology and brain activity has captured the fascination of scientists and the public alike. Using approaches from cognitive neuroscience to provide insights into deeply held and personal beliefs requires careful navigation, with the application of robust methods that generate replicable results. A hallmark study in this area from Amodio et al. (2007) reported that brain components reflective of conflict monitoring and inhibition (namely the ERN [error-related negativity] and N2) are heightened in individuals who self-identify as liberal compared to conservative. While the study is highly influential and well-cited in the scientific literature, no direct replications of their findings exist and as such, this work was selected as a target replication for the #EEGManyLabs initiative. This cross-cultural multi-site study (N=320) will conduct a thorough replication of the Amodio et al. (2007) study, strictly adhering to the original protocol, namely by administering a Go/No-Go task with simultaneous EEG recording and a one-item scale asking participants to rate the extent to which they are liberal or conservative. We will supplement the original study with new measures that may better correspond to political identity in non-US contexts, such as religiosity, dogmatism, and traditionalism. In line with the original study, we will conduct correlational analyses between self-identified liberalism and ERN/N2 amplitudes. In addition, Bayesian linear regressions will be used to provide robust estimates of the strength of association between other components of political ideology and electrophysiological signals."
+Tags = ["preregistration"]
++++
 #### Marzuki et al 2023 Psyarxiv
-
-[preregistration]("preregistration") [doi](https://dx.doi.org/10.31234/osf.io/39vqj)
 
 > The relationship between political ideology and brain activity has captured the fascination of scientists and the public alike. Using approaches from cognitive neuroscience to provide insights into deeply held and personal beliefs requires careful navigation, with the application of robust methods that generate replicable results. A hallmark study in this area from Amodio et al. (2007) reported that brain components reflective of conflict monitoring and inhibition (namely the ERN [error-related negativity] and N2) are heightened in individuals who self-identify as liberal compared to conservative. While the study is highly influential and well-cited in the scientific literature, no direct replications of their findings exist and as such, this work was selected as a target replication for the #EEGManyLabs initiative. This cross-cultural multi-site study (N=320) will conduct a thorough replication of the Amodio et al. (2007) study, strictly adhering to the original protocol, namely by administering a Go/No-Go task with simultaneous EEG recording and a one-item scale asking participants to rate the extent to which they are liberal or conservative. We will supplement the original study with new measures that may better correspond to political identity in non-US contexts, such as religiosity, dogmatism, and traditionalism. In line with the original study, we will conduct correlational analyses between self-identified liberalism and ERN/N2 amplitudes. In addition, Bayesian linear regressions will be used to provide robust estimates of the strength of association between other components of political ideology and electrophysiological signals.

@@ -4,8 +4,11 @@
     <meta charset=utf-8>
     <meta http-equiv=x-ua-compatible content="ie=edge">
     <meta name=viewport content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/themes/light.css" />
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/shoelace-autoloader.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono">
     <link rel="stylesheet" href="/assets/css/index.css">
+
     <title>eegmanylabs</title>
 </head>
 <body><nav id="menu">
@@ -29,335 +32,1262 @@
 
 
 <article>
-<hr />
 <h1>People</h1>
 </article>
 
-<div class="section-container" id="people"> 
+<div class="section-grid" id="people"> 
 
-    <section id="fmushtaq">
-<hr />
-<p><a name="fmushtaq">
-<img alt="headshot of researcher" src="/assets/images/headshots/fmushtaq.png" title="Faisal Mushtaq" /></p>
-<h2>Faisal Mushtaq</h2>
-<p>Leads <a href="/replications/#YeungSanfey2004">YeungSanfey2004</a></p>
-<p><a href="https://scholar.google.com/citations?user=bcjpWSwAAAAJ&amp;hl=en&amp;oi=ao">Scholar</a> <a href="https://medicinehealth.leeds.ac.uk/psychology/staff/632/dr-faisal-mushtaq">University</a> <a href="https://immersivecognition.com/people/faisal-mushtaq/">Lab</a> <a href="" title="coordinator">Coordinator</a> <a href="" title="replicator">Replicator</a> </p>
-</section>
     
 
-    <section id="ypavlov">
-<hr />
-<p><a name="ypavlov">
-<img alt="headshot of researcher" src="/assets/images/headshots/ypavlov.jpg" title="Yuri Pavlov" /></p>
-<h2>Yuri Pavlov</h2>
-<p><a href="https://scholar.google.com/citations?hl=en&amp;user=nSM_MxUAAAAJ">Scholar</a> <a href="https://www.medizin.uni-tuebingen.de/de/das-klinikum/mitarbeiter/profil/2191">University</a> <a href="https://yurigpavlov.com/">Lab</a> <a href="" title="coordinator">Coordinator</a> </p>
-</section>
+<sl-card id="fmushtaq">
+  
+  <div slot="header">
+    Faisal Mushtaq
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/fmushtaq.png"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>coordinator</sl-tag>
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+    <sl-tooltip content="Google Scholar profile">
+        <sl-icon-button library="fa" name="fab-google-scholar" href="https://scholar.google.com/citations?user=bcjpWSwAAAAJ&hl=en&oi=ao" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+    <sl-tooltip content="University profile page">
+        <sl-icon-button library="fa" name="fas-building-columns" href="https://medicinehealth.leeds.ac.uk/psychology/staff/632/dr-faisal-mushtaq" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+    <sl-tooltip content="Lab website">
+        <sl-icon-button library="fa" name="fas-flask" href="https://immersivecognition.com/people/faisal-mushtaq/" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+
+
+</sl-card>
     
 
-    <section id="dwelke">
-<hr />
-<p><a name="dwelke">
-<img alt="headshot of researcher" src="/assets/images/headshots/dwelke.jpg" title="Dominik Welke" /></p>
-<h2>Dominik Welke</h2>
-<p><a href="https://scholar.google.de/citations?user=B5xCyM0AAAAJ&amp;hl=de">Scholar</a> <a href="https://immersivecognition.com/people/">University</a> <a href="" title="coordinator">Coordinator</a> </p>
-</section>
     
 
-    <section id="jvandenbosch">
-<hr />
-<p><a name="jvandenbosch">
-<img alt="headshot of researcher" src="/assets/images/headshots/jvandenbosch.jpg" title="Jasper van den Bosch" /></p>
-<h2>Jasper van den Bosch</h2>
-<p><a href="https://scholar.google.com/citations?user=XQ3-JHgAAAAJ&amp;hl=en">Scholar</a> <a href="https://www.birmingham.ac.uk/staff/profiles/psychology/bosch-jasper-van-den.aspx">University</a> <a href="" title="coordinator">Coordinator</a> </p>
-</section>
+<sl-card id="ypavlov">
+  
+  <div slot="header">
+    Yuri Pavlov
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/ypavlov.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>coordinator</sl-tag>
+  
+
+  
+  
+    <sl-tooltip content="Google Scholar profile">
+        <sl-icon-button library="fa" name="fab-google-scholar" href="https://scholar.google.com/citations?hl=en&user=nSM_MxUAAAAJ" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+    <sl-tooltip content="University profile page">
+        <sl-icon-button library="fa" name="fas-building-columns" href="https://www.medizin.uni-tuebingen.de/de/das-klinikum/mitarbeiter/profil/2191" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+    <sl-tooltip content="Lab website">
+        <sl-icon-button library="fa" name="fas-flask" href="https://yurigpavlov.com/" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+
+
+</sl-card>
     
 
-    <section id="abland">
-<hr />
-<p><a name="abland">
-<img alt="headshot of researcher" src="/assets/images/headshots/abland.jpg" title="Amy Bland" /></p>
-<h2>Amy Bland</h2>
-<p>Leads <a href="/replications/#HajcakFoti2008">HajcakFoti2008</a></p>
-<p><a href="https://scholar.google.com/citations?user=nQl3r9kAAAAJ&amp;hl=en&amp;oi=ao">Scholar</a> <a href="https://www.mmu.ac.uk/staff/profile/dr-amy-bland">University</a> <a href="" title="steering">Steering Group</a> <a href="" title="replicator">Replicator</a> </p>
-</section>
     
 
-    <section id="marvaneh">
-<hr />
-<p><a name="marvaneh">
-<img alt="headshot of researcher" src="/assets/images/headshots/marvaneh.jpg" title="Mahnaz Arvaneh" /></p>
-<h2>Mahnaz Arvaneh</h2>
-<p><a href="https://scholar.google.com.sg/citations?user=HBxF7nAAAAAJ&amp;hl=en">Scholar</a> <a href="https://www.sheffield.ac.uk/acse/department/people/academic/mahnaz-arvaneh">University</a> <a href="" title="steering">Steering Group</a> </p>
-</section>
+<sl-card id="dwelke">
+  
+  <div slot="header">
+    Dominik Welke
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/dwelke.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>coordinator</sl-tag>
+  
+
+  
+  
+    <sl-tooltip content="Google Scholar profile">
+        <sl-icon-button library="fa" name="fab-google-scholar" href="https://scholar.google.de/citations?user=B5xCyM0AAAAJ&hl=de" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+    <sl-tooltip content="University profile page">
+        <sl-icon-button library="fa" name="fas-building-columns" href="https://immersivecognition.com/people/" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
     
 
-    <section id="xhe">
-<hr />
-<p><a name="xhe">
-<img alt="headshot of researcher" src="/assets/images/headshots/xhe.png" title="Xun He" /></p>
-<h2>Xun He</h2>
-<p>Leads <a href="/replications/#Eimer2003">Eimer2003</a></p>
-<p><a href="https://scholar.google.com/citations?user=08oketoAAAAJ&amp;hl=en&amp;oi=ao">Scholar</a> <a href="https://staffprofiles.bournemouth.ac.uk/display/xhe">University</a> <a href="" title="steering">Steering Group</a> <a href="" title="replicator">Replicator</a> </p>
-</section>
     
 
-    <section id="roostenveld">
-<hr />
-<p><a name="roostenveld">
-<img alt="headshot of researcher" src="/assets/images/headshots/roostenveld.jpg" title="Robert Oostenveld" /></p>
-<h2>Robert Oostenveld</h2>
-<p><a href="https://scholar.google.co.uk/citations?user=eEbaa0UAAAAJ&amp;hl=en">Scholar</a> <a href="https://www.ru.nl/en/people/oostenveld-r">University</a> <a href="" title="advisor">Advisory Board</a> </p>
-</section>
+<sl-card id="jvandenbosch">
+  
+  <div slot="header">
+    Jasper van den Bosch
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/jvandenbosch.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>coordinator</sl-tag>
+  
+
+  
+  
+    <sl-tooltip content="Google Scholar profile">
+        <sl-icon-button library="fa" name="fab-google-scholar" href="https://scholar.google.com/citations?user=XQ3-JHgAAAAJ&hl=en" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+    <sl-tooltip content="University profile page">
+        <sl-icon-button library="fa" name="fas-building-columns" href="https://www.birmingham.ac.uk/staff/profiles/psychology/bosch-jasper-van-den.aspx" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
     
 
-    <section id="nburra">
-<hr />
-<p><a name="nburra">
-<img alt="headshot of researcher" src="/assets/images/headshots/nburra.jpg" title="Nicolas Burra" /></p>
-<h2>Nicolas Burra</h2>
-<p>Leads <a href="/replications/#Carretie2004">Carretie2004</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
     
 
-    <section id="dbradford">
-<hr />
-<p><a name="dbradford">
-<img alt="headshot of researcher" src="/assets/images/headshots/dbradford.jpg" title="Daniel Bradford" /></p>
-<h2>Daniel Bradford</h2>
-<p>Leads <a href="/replications/#HajcakFoti2008">HajcakFoti2008</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
+<sl-card id="abland">
+  
+  <div slot="header">
+    Amy Bland
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/abland.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>steering</sl-tag>
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+    <sl-tooltip content="Google Scholar profile">
+        <sl-icon-button library="fa" name="fab-google-scholar" href="https://scholar.google.com/citations?user=nQl3r9kAAAAJ&hl=en&oi=ao" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+    <sl-tooltip content="University profile page">
+        <sl-icon-button library="fa" name="fas-building-columns" href="https://www.mmu.ac.uk/staff/profile/dr-amy-bland" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
     
 
-    <section id="achatard">
-<hr />
-<p><a name="achatard">
-<img alt="headshot of researcher" src="/assets/images/headshots/achatard.png" title="Armand Chatard" /></p>
-<h2>Armand Chatard</h2>
-<p>Leads <a href="/replications/#Frank2005">Frank2005</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
     
 
-    <section id="dcruse">
-<hr />
-<p><a name="dcruse">
-<img alt="headshot of researcher" src="/assets/images/headshots/dcruse.jpg" title="Damian Cruse" /></p>
-<h2>Damian Cruse</h2>
-<p>Leads <a href="/replications/#Sergent2005">Sergent2005</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
+<sl-card id="marvaneh">
+  
+  <div slot="header">
+    Mahnaz Arvaneh
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/marvaneh.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>steering</sl-tag>
+  
+
+  
+  
+    <sl-tooltip content="Google Scholar profile">
+        <sl-icon-button library="fa" name="fab-google-scholar" href="https://scholar.google.com.sg/citations?user=HBxF7nAAAAAJ&hl=en" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+    <sl-tooltip content="University profile page">
+        <sl-icon-button library="fa" name="fas-building-columns" href="https://www.sheffield.ac.uk/acse/department/people/academic/mahnaz-arvaneh" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
     
 
-    <section id="kdesender">
-<hr />
-<p><a name="kdesender">
-<img alt="headshot of researcher" src="/assets/images/headshots/kdesender.jpg" title="Kobe Desender" /></p>
-<h2>Kobe Desender</h2>
-<p>Leads <a href="/replications/#DelCul2007">DelCul2007</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
     
 
-    <section id="mgamer">
-<hr />
-<p><a name="mgamer">
-<img alt="headshot of researcher" src="/assets/images/headshots/mgamer.jpg" title="Matthias Gamer" /></p>
-<h2>Matthias Gamer</h2>
-<p>Leads <a href="/replications/#Miltner1999">Miltner1999</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
+<sl-card id="xhe">
+  
+  <div slot="header">
+    Xun He
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/xhe.png"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>steering</sl-tag>
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+    <sl-tooltip content="Google Scholar profile">
+        <sl-icon-button library="fa" name="fab-google-scholar" href="https://scholar.google.com/citations?user=08oketoAAAAJ&hl=en&oi=ao" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+    <sl-tooltip content="University profile page">
+        <sl-icon-button library="fa" name="fas-building-columns" href="https://staffprofiles.bournemouth.ac.uk/display/xhe" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
     
 
-    <section id="gganis">
-<hr />
-<p><a name="gganis">
-<img alt="headshot of researcher" src="/assets/images/headshots/gganis.jpg" title="Giorgio Ganis" /></p>
-<h2>Giorgio Ganis</h2>
-<p>Leads <a href="/replications/#Eimer1993">Eimer1993</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
     
 
-    <section id="sgregory">
-<hr />
-<p><a name="sgregory">
-<img alt="headshot of researcher" src="/assets/images/headshots/sgregory.jpg" title="Samantha Gregory" /></p>
-<h2>Samantha Gregory</h2>
-<p>Leads <a href="/replications/#Onton2005">Onton2005</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
+<sl-card id="roostenveld">
+  
+  <div slot="header">
+    Robert Oostenveld
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/roostenveld.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>advisor</sl-tag>
+  
+
+  
+  
+    <sl-tooltip content="Google Scholar profile">
+        <sl-icon-button library="fa" name="fab-google-scholar" href="https://scholar.google.co.uk/citations?user=eEbaa0UAAAAJ&hl=en" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+    <sl-tooltip content="University profile page">
+        <sl-icon-button library="fa" name="fas-building-columns" href="https://www.ru.nl/en/people/oostenveld-r" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
     
 
-    <section id="chassall">
-<hr />
-<p><a name="chassall">
-<img alt="headshot of researcher" src="/assets/images/headshots/chassall.jpg" title="Cameron Hassall" /></p>
-<h2>Cameron Hassall</h2>
-<p>Leads <a href="/replications/#Vidal2000">Vidal2000</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
     
 
-    <section id="kgloy">
-<hr />
-<p><a name="kgloy">
-<img alt="headshot of researcher" src="/assets/images/headshots/kgloy.jpg" title="Kilian Gloy" /></p>
-<h2>Kilian Gloy</h2>
-<p>Leads <a href="/replications/#AmodioMaster2008">AmodioMaster2008</a></p>
-<p><a href="https://www.uni-bremen.de/en/pppd/team/dr-kilian-gloy">University</a> <a href="" title="replicator">Replicator</a> </p>
-</section>
+<sl-card id="nburra">
+  
+  <div slot="header">
+    Nicolas Burra
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/nburra.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
     
 
-    <section id="jkaiser">
-<hr />
-<p><a name="jkaiser">
-<img alt="headshot of researcher" src="/assets/images/headshots/jkaiser.jpg" title="Jakob Kaiser" /></p>
-<h2>Jakob Kaiser</h2>
-<p>Leads <a href="/replications/#Boksem2006">Boksem2006</a></p>
-<p><a href="https://scholar.google.com/citations?user=lSBrwo4AAAAJ&amp;hl=en&amp;oi=sra">Scholar</a> <a href="https://www.psy.uni-muenchen.de/expneurocog/people/lab-members/jakob_kaiser/index.html">University</a> <a href="" title="replicator">Replicator</a> </p>
-</section>
     
 
-    <section id="akeil">
-<hr />
-<p><a name="akeil">
-<img alt="headshot of researcher" src="/assets/images/headshots/akeil.png" title="Andreas Keil" /></p>
-<h2>Andreas Keil</h2>
-<p>Leads <a href="/replications/#ClarkHillyard1996">ClarkHillyard1996</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
+<sl-card id="dbradford">
+  
+  <div slot="header">
+    Daniel Bradford
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/dbradford.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
     
 
-    <section id="nlanger">
-<hr />
-<p><a name="nlanger">
-<img alt="headshot of researcher" src="/assets/images/headshots/nlanger.jpg" title="Nicolas Langer" /></p>
-<h2>Nicolas Langer</h2>
-<p>Leads <a href="/replications/#VogelMachizawa2004">VogelMachizawa2004</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
     
 
-    <section id="hliesefeld">
-<hr />
-<p><a name="hliesefeld">
-<img alt="headshot of researcher" src="/assets/images/headshots/hliesefeld.png" title="Heinrich Liesefeld" /></p>
-<h2>Heinrich Liesefeld</h2>
-<p>Leads <a href="/replications/#Eimer1996">Eimer1996</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
+<sl-card id="achatard">
+  
+  <div slot="header">
+    Armand Chatard
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/achatard.png"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
     
 
-    <section id="amacnamara">
-<hr />
-<p><a name="amacnamara">
-<img alt="headshot of researcher" src="/assets/images/headshots/amacnamara.jpg" title="Annmarie MacNamara" /></p>
-<h2>Annmarie MacNamara</h2>
-<p>Leads <a href="/replications/#Inzlicht2009">Inzlicht2009</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
     
 
-    <section id="wmarinovic">
-<hr />
-<p><a name="wmarinovic">
-<img alt="headshot of researcher" src="/assets/images/headshots/wmarinovic.jpg" title="Welber Marinovic" /></p>
-<h2>Welber Marinovic</h2>
-<p>Leads <a href="/replications/#DonkersvanBoxtel2004">DonkersvanBoxtel2004</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
+<sl-card id="dcruse">
+  
+  <div slot="header">
+    Damian Cruse
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/dcruse.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
     
 
-    <section id="rnaar">
-<hr />
-<p><a name="rnaar">
-<img alt="headshot of researcher" src="/assets/images/headshots/rnaar.jpg" title="Richard Naar" /></p>
-<h2>Richard Naar</h2>
-<p>Leads <a href="/replications/#Muller2003">Muller2003</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
     
 
-    <section id="gniso">
-<hr />
-<p><a name="gniso">
-<img alt="headshot of researcher" src="/assets/images/headshots/gniso.png" title="Guiomar Niso" /></p>
-<h2>Guiomar Niso</h2>
-<p>Leads <a href="/replications/#Luck1996">Luck1996</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
+<sl-card id="kdesender">
+  
+  <div slot="header">
+    Kobe Desender 
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/kdesender.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
     
 
-    <section id="gpourtois">
-<hr />
-<p><a name="gpourtois">
-<img alt="headshot of researcher" src="/assets/images/headshots/gpourtois.png" title="Gilles Pourtois" /></p>
-<h2>Gilles Pourtois</h2>
-<p>Leads <a href="/replications/#HajcakHolroyd2005">HajcakHolroyd2005</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
     
 
-    <section id="msenderecka">
-<hr />
-<p><a name="msenderecka">
-<img alt="headshot of researcher" src="/assets/images/headshots/msenderecka.png" title="Magdalena Senderecka" /></p>
-<h2>Magdalena Senderecka</h2>
-<p>Leads <a href="/replications/#HajcakMoser2005">HajcakMoser2005</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
+<sl-card id="mgamer">
+  
+  <div slot="header">
+    Matthias Gamer
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/mgamer.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
     
 
-    <section id="mruzzoli">
-<hr />
-<p><a name="mruzzoli">
-<img alt="headshot of researcher" src="/assets/images/headshots/mruzzoli.jpg" title="Manuela Ruzzoli" /></p>
-<h2>Manuela Ruzzoli</h2>
-<p>Leads <a href="/replications/#Mathewson2009">Mathewson2009</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
     
 
-    <section id="aschaefer">
-<hr />
-<p><a name="aschaefer">
-<img alt="headshot of researcher" src="/assets/images/headshots/aschaefer.png" title="Alexandre Schaefer" /></p>
-<h2>Alexandre Schaefer</h2>
-<p>Leads <a href="/replications/#AmodioJost2007">AmodioJost2007 </a></p>
-<p><a href="https://scholar.google.com/citations?user=UUYnx4YAAAAJ&amp;hl=en">Scholar</a> <a href="https://sunwayuniversity.edu.my/school-of-medical-life-sciences/staff-profiles/professor-alexandre-schaefer">University</a> <a href="" title="replicator">Replicator</a> </p>
-</section>
+<sl-card id="gganis">
+  
+  <div slot="header">
+    Giorgio Ganis
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/gganis.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
     
 
-    <section id="nsrinivasan">
-<hr />
-<p><a name="nsrinivasan">
-<img alt="headshot of researcher" src="/assets/images/headshots/nsrinivasan.jpg" title="Narayanan Srinivasan" /></p>
-<h2>Narayanan Srinivasan</h2>
-<p>Leads <a href="/replications/#BuschVanRullen2010">BuschVanRullen2010</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
     
 
-    <section id="mvandermolen">
-<hr />
-<p><a name="mvandermolen">
-<img alt="headshot of researcher" src="/assets/images/headshots/mvandermolen.jpg" title="Melle van der Molen" /></p>
-<h2>Melle van der Molen</h2>
-<p>Leads <a href="/replications/#Hajcak2006">Hajcak2006</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
+<sl-card id="sgregory">
+  
+  <div slot="header">
+    Samantha Gregory
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/sgregory.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
     
 
-    <section id="everona">
-<hr />
-<p><a name="everona">
-<img alt="headshot of researcher" src="/assets/images/headshots/everona.png" title="Edelyn Verona" /></p>
-<h2>Edelyn Verona</h2>
-<p>Leads <a href="/replications/#Hajcak2003">Hajcak2003</a></p>
-<p><a href="" title="replicator">Replicator</a> </p>
-</section>
+    
+
+<sl-card id="chassall">
+  
+  <div slot="header">
+    Cameron Hassall
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/chassall.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
+    
+
+    
+
+<sl-card id="kgloy">
+  
+  <div slot="header">
+    Kilian Gloy
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/kgloy.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+    <sl-tooltip content="University profile page">
+        <sl-icon-button library="fa" name="fas-building-columns" href="https://www.uni-bremen.de/en/pppd/team/dr-kilian-gloy" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
+    
+
+    
+
+<sl-card id="jkaiser">
+  
+  <div slot="header">
+    Jakob Kaiser
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/jkaiser.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+    <sl-tooltip content="Google Scholar profile">
+        <sl-icon-button library="fa" name="fab-google-scholar" href="https://scholar.google.com/citations?user=lSBrwo4AAAAJ&hl=en&oi=sra" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+    <sl-tooltip content="University profile page">
+        <sl-icon-button library="fa" name="fas-building-columns" href="https://www.psy.uni-muenchen.de/expneurocog/people/lab-members/jakob_kaiser/index.html" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
+    
+
+    
+
+<sl-card id="akeil">
+  
+  <div slot="header">
+    Andreas Keil
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/akeil.png"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
+    
+
+    
+
+<sl-card id="nlanger">
+  
+  <div slot="header">
+    Nicolas Langer
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/nlanger.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
+    
+
+    
+
+<sl-card id="hliesefeld">
+  
+  <div slot="header">
+    Heinrich Liesefeld
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/hliesefeld.png"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
+    
+
+    
+
+<sl-card id="amacnamara">
+  
+  <div slot="header">
+    Annmarie MacNamara
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/amacnamara.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
+    
+
+    
+
+<sl-card id="wmarinovic">
+  
+  <div slot="header">
+    Welber Marinovic
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/wmarinovic.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
+    
+
+    
+
+<sl-card id="rnaar">
+  
+  <div slot="header">
+    Richard Naar
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/rnaar.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
+    
+
+    
+
+<sl-card id="gniso">
+  
+  <div slot="header">
+    Guiomar Niso
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/gniso.png"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
+    
+
+    
+
+<sl-card id="gpourtois">
+  
+  <div slot="header">
+    Gilles Pourtois
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/gpourtois.png"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
+    
+
+    
+
+<sl-card id="msenderecka">
+  
+  <div slot="header">
+    Magdalena Senderecka
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/msenderecka.png"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
+    
+
+    
+
+<sl-card id="mruzzoli">
+  
+  <div slot="header">
+    Manuela Ruzzoli
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/mruzzoli.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
+    
+
+    
+
+<sl-card id="aschaefer">
+  
+  <div slot="header">
+    Alexandre Schaefer
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/aschaefer.png"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+    <sl-tooltip content="Google Scholar profile">
+        <sl-icon-button library="fa" name="fab-google-scholar" href="https://scholar.google.com/citations?user=UUYnx4YAAAAJ&hl=en" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+    <sl-tooltip content="University profile page">
+        <sl-icon-button library="fa" name="fas-building-columns" href="https://sunwayuniversity.edu.my/school-of-medical-life-sciences/staff-profiles/professor-alexandre-schaefer" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
+    
+
+    
+
+<sl-card id="nsrinivasan">
+  
+  <div slot="header">
+    Narayanan Srinivasan
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/nsrinivasan.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
+    
+
+    
+
+<sl-card id="mvandermolen">
+  
+  <div slot="header">
+    Melle van der Molen 
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/mvandermolen.jpg"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
+    
+
+    
+
+<sl-card id="everona">
+  
+  <div slot="header">
+    Edelyn Verona
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/headshots/everona.png"
+  />
+
+  
+
+  
+    <sl-tag size="small" pill>replicator</sl-tag>
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+
+</sl-card>
     
 
 </div>
@@ -369,5 +1299,22 @@
 </div><footer>
     <span id="copyright-reference">&copy; 2024 eegmanylabs</span>
 </footer>
+
+
+<script type="module">
+  import { registerIconLibrary } from 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/utilities/icon-library.js';
+
+  registerIconLibrary('fa', {
+    resolver: name => {
+      const filename = name.replace(/^fa[rbs]-/, '');
+      let folder = 'regular';
+      if (name.substring(0, 4) === 'fas-') folder = 'solid';
+      if (name.substring(0, 4) === 'fab-') folder = 'brands';
+      return `https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/${folder}/${filename}.svg`;
+    },
+    mutator: svg => svg.setAttribute('fill', 'currentColor')
+  });
+</script>
+
 </body>
 </html>

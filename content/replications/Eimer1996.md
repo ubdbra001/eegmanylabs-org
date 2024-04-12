@@ -1,13 +1,15 @@
----
-SequenceNumber: 12
-StudyId: Eimer1996
-LeadFullName: Heinrich Liesefeld
-PersonId: hliesefeld
-Title: The N2pc component as an indicator of attentional selectivity. Electroencephalography and Clinical Neurophysiology
-Reference: Eimer, M. (1996). The N2pc component as an indicator of attentional selectivity. Electroencephalography and Clinical Neurophysiology, 99(3), 225–234. https://doi.org/10.1016/0013-4694(96)95711-9
-PsychConstruct: visual perception, attention
-SignupUrl: https://forms.gle/vpLfDVE4mxoENdQT6
----
++++
+SequenceNumber = "12"
+Anchor = ""
+Title = "The N2pc component as an indicator of attentional selectivity. Electroencephalography and Clinical Neurophysiology"
+Image = ""
+StudyId = "Eimer1996"
+LeadFullName = "Heinrich Liesefeld"
+PersonId = "hliesefeld"
+Reference = "Eimer, M. (1996). The N2pc component as an indicator of attentional selectivity. Electroencephalography and Clinical Neurophysiology, 99(3), 225–234. https://doi.org/10.1016/0013-4694(96)95711-9"
+PsychConstruct = "visual perception, attention"
+SignupUrl = "https://forms.gle/vpLfDVE4mxoENdQT6"
++++
 
 
 ## <a name="Eimer1996"> The N2pc component as an indicator of attentional selectivity. Electroencephalography and Clinical Neurophysiology

@@ -1,6 +1,6 @@
----
-SequenceNumber: 4
----
++++
+SequenceNumber = 4
++++
 ## Frontal alpha asymmetry and personality traits 
 
 ![matrix](/assets/images/figures/personality_matrix.png 'Personality Matrix')

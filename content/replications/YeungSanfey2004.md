@@ -1,13 +1,15 @@
----
-SequenceNumber: 26
-StudyId: YeungSanfey2004
-LeadFullName: Faisal Mushtaq
-PersonId: fmushtaq
-Title: Independent Coding of Reward Magnitude and Valence in the Human Brain
-Reference: Yeung, N. Sanfey, AG (2004). Independent Coding of Reward Magnitude and Valence in the Human Brain. Journal of Neuroscience, 24(28), 6258–6264. https://doi.org/10.1523/JNEUROSCI.4537-03.2004
-PsychConstruct: reward processing
-SignupUrl: https://forms.gle/Cs24L1D7tw8FULe79
----
++++
+SequenceNumber = "26"
+Anchor = ""
+Title = "Independent Coding of Reward Magnitude and Valence in the Human Brain"
+Image = ""
+StudyId = "YeungSanfey2004"
+LeadFullName = "Faisal Mushtaq"
+PersonId = "fmushtaq"
+Reference = "Yeung, N. Sanfey, AG (2004). Independent Coding of Reward Magnitude and Valence in the Human Brain. Journal of Neuroscience, 24(28), 6258–6264. https://doi.org/10.1523/JNEUROSCI.4537-03.2004"
+PsychConstruct = "reward processing"
+SignupUrl = "https://forms.gle/Cs24L1D7tw8FULe79"
++++
 
 
 ## <a name="YeungSanfey2004"> Independent Coding of Reward Magnitude and Valence in the Human Brain

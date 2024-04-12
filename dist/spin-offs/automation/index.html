@@ -4,8 +4,11 @@
     <meta charset=utf-8>
     <meta http-equiv=x-ua-compatible content="ie=edge">
     <meta name=viewport content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/themes/light.css" />
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/shoelace-autoloader.js"></script>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=JetBrains+Mono">
     <link rel="stylesheet" href="/assets/css/index.css">
+
     <title>eegmanylabs</title>
 </head>
 <body><nav id="menu">
@@ -29,14 +32,13 @@
 
 
 <article>
-<hr />
 <h2>Automation</h2>
 <p><img alt="processor" src="/assets/images/figures/processor.jpg" title="Processor Chip" /></p>
 <p>This team will implement automated analyses to investigate differences between manual and automated coding. Each Lead Replicating Lab will consider whether additional blinding is required during the analysis; <a href="https://www.sciencedirect.com/topics/psychology/fmri">e.g.</a>, by having manual analyses conducted by researchers who are blind with respect to the experimental conditions. Such blinded analyses will need to be reported as such in the replication attempt. The replicators will be expected to execute the previously agreed analysis script, which will provide an effect size for the meta-analysis. Preprocessed data will be provided to the Lead Replicating Lab for supplementary analyses of the aggregated dataset.</p>
 <p>Analysis conducted by Replication Labs followed the respective analysis protocols compared with the automatic analysis developed by a group of analysts. This will provide a test of how analytical decisions such as manual or algorithmic artifact removal, selection of regions of interest can affect reproducibility.</p>
 </article>
 
-<div class="section-container" id="automation"> 
+<div class="section-grid" id="automation"> 
 
 </div>
 
@@ -47,5 +49,22 @@
 </div><footer>
     <span id="copyright-reference">&copy; 2024 eegmanylabs</span>
 </footer>
+
+
+<script type="module">
+  import { registerIconLibrary } from 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/utilities/icon-library.js';
+
+  registerIconLibrary('fa', {
+    resolver: name => {
+      const filename = name.replace(/^fa[rbs]-/, '');
+      let folder = 'regular';
+      if (name.substring(0, 4) === 'fas-') folder = 'solid';
+      if (name.substring(0, 4) === 'fab-') folder = 'brands';
+      return `https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/${folder}/${filename}.svg`;
+    },
+    mutator: svg => svg.setAttribute('fill', 'currentColor')
+  });
+</script>
+
 </body>
 </html>

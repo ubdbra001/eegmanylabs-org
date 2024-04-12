@@ -1,17 +1,13 @@
----
-SequenceNumber: 5
-PersonId: marvaneh
-FullName: Mahnaz Arvaneh
-HeadShotFilename: marvaneh.jpg
-StudyId: None
----
-<a name="marvaneh">
-![headshot of researcher](/assets/images/headshots/marvaneh.jpg "Mahnaz Arvaneh")
-
-## Mahnaz Arvaneh
-
-
-
-
-
-[Scholar](https://scholar.google.com.sg/citations?user=HBxF7nAAAAAJ&hl=en) [University](https://www.sheffield.ac.uk/acse/department/people/academic/mahnaz-arvaneh) [Steering Group]("steering") 
++++
+SequenceNumber = "5"
+Anchor = "marvaneh"
+Title = "Mahnaz Arvaneh"
+Image = "headshots/marvaneh.jpg"
+Tags = [ "steering", ]
+ScholarUrl = "https://scholar.google.com.sg/citations?user=HBxF7nAAAAAJ&hl=en"
+UniUrl = "https://www.sheffield.ac.uk/acse/department/people/academic/mahnaz-arvaneh"
+LabUrl = "None"
+StudyId = "None"
+PersonId = "marvaneh"
+FullName = "Mahnaz Arvaneh"
++++
