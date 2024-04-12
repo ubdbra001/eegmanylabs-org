@@ -8,12 +8,10 @@ Authors = "Pavlov YG,Adamian N,Appelhoff S,Arvaneh M,et al."
 Journal = "Cortex"
 Year = "2021"
 DOI = "10.1016/j.cortex.2021.03.013"
+DoiUrl = "https://dx.doi.org/10.1016/j.cortex.2021.03.013"
 Abstract = "There is growing awareness across the neuroscience community that the replicability of findings about the relationship between brain activity and cognitive phenomena can be …"
+Tags = ["published"]
 +++
-
-## # EEGManyLabs: Investigating the replicability of influential EEG experiments
 #### Pavlov et al 2021 Cortex
-
-[published]("published") [doi](https://dx.doi.org/10.1016/j.cortex.2021.03.013)
 
 > There is growing awareness across the neuroscience community that the replicability of findings about the relationship between brain activity and cognitive phenomena can be …

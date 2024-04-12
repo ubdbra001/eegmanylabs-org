@@ -98,16 +98,21 @@ article {
     padding: 20px;
 }
 
-.section-container {
+.section-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, 200px);
+    grid-template-columns: repeat(auto-fit, 300px);
     grid-auto-rows: auto;
     column-gap: 10px;
     row-gap: 10px;
 }
 
+/* finer grid for people */
+#people.section-grid {
+    grid-template-columns: repeat(auto-fit, 200px);
+}
+
 /* fix non-conforming headshots */
-.section-container img {
+#people.section-grid img {
     object-fit: cover;
     height: 200px;
 }

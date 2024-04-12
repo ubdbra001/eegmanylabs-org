@@ -36,9 +36,11 @@
 <p>EEGManyLabs has inspired a number of spin-off projects</p>
 </article>
 
-<div class="section-container" id="spin-offs"> 
+<div class="section-grid" id="spin-offs"> 
 
-    <sl-card id="eeg100">
+    
+
+<sl-card id="eeg100">
   
   <div slot="header">
     100 years of EEG (1924-2024)
@@ -57,12 +59,23 @@ Much has happened since then and in light of ongoing developments on hardware, s
 
   
   
+
   
   
+
+  
+  
+
+  
+  
+
+
 </sl-card>
     
 
-    <sl-card id="automation">
+    
+
+<sl-card id="automation">
   
   <div slot="header">
     Automation
@@ -80,12 +93,23 @@ Much has happened since then and in light of ongoing developments on hardware, s
 
   
   
+
   
   
+
+  
+  
+
+  
+  
+
+
 </sl-card>
     
 
-    <sl-card id="resting-state">
+    
+
+<sl-card id="resting-state">
   
   <div slot="header">
     Resting State
@@ -103,12 +127,23 @@ Much has happened since then and in light of ongoing developments on hardware, s
 
   
   
+
   
   
+
+  
+  
+
+  
+  
+
+
 </sl-card>
     
 
-    <sl-card id="asymmetry">
+    
+
+<sl-card id="asymmetry">
   
   <div slot="header">
     Asymmetry and personality traits
@@ -126,12 +161,23 @@ Much has happened since then and in light of ongoing developments on hardware, s
 
   
   
+
   
   
+
+  
+  
+
+  
+  
+
+
 </sl-card>
     
 
-    <sl-card id="prediction-markets">
+    
+
+<sl-card id="prediction-markets">
   
   <div slot="header">
     Prediction Markets
@@ -149,8 +195,17 @@ Much has happened since then and in light of ongoing developments on hardware, s
 
   
   
+
   
   
+
+  
+  
+
+  
+  
+
+
 </sl-card>
     
 
@@ -163,5 +218,22 @@ Much has happened since then and in light of ongoing developments on hardware, s
 </div><footer>
     <span id="copyright-reference">&copy; 2024 eegmanylabs</span>
 </footer>
+
+
+<script type="module">
+  import { registerIconLibrary } from 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/utilities/icon-library.js';
+
+  registerIconLibrary('fa', {
+    resolver: name => {
+      const filename = name.replace(/^fa[rbs]-/, '');
+      let folder = 'regular';
+      if (name.substring(0, 4) === 'fas-') folder = 'solid';
+      if (name.substring(0, 4) === 'fab-') folder = 'brands';
+      return `https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/${folder}/${filename}.svg`;
+    },
+    mutator: svg => svg.setAttribute('fill', 'currentColor')
+  });
+</script>
+
 </body>
 </html>

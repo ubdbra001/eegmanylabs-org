@@ -35,9 +35,11 @@
 
 </article>
 
-<div class="section-container" id=""> 
+<div class="section-grid" id=""> 
 
-    <sl-card id="about">
+    
+
+<sl-card id="about">
   
   <div slot="header">
     
@@ -57,12 +59,23 @@
 
   
   
+
   
   
+
+  
+  
+
+  
+  
+
+
 </sl-card>
     
 
-    <sl-card id="contact">
+    
+
+<sl-card id="contact">
   
   <div slot="header">
     
@@ -85,12 +98,23 @@
 
   
   
+
   
   
+
+  
+  
+
+  
+  
+
+
 </sl-card>
     
 
-    <sl-card id="funders">
+    
+
+<sl-card id="funders">
   
   <div slot="header">
     
@@ -108,8 +132,17 @@
 
   
   
+
   
   
+
+  
+  
+
+  
+  
+
+
 </sl-card>
     
 
@@ -122,5 +155,22 @@
 </div><footer>
     <span id="copyright-reference">&copy; 2024 eegmanylabs</span>
 </footer>
+
+
+<script type="module">
+  import { registerIconLibrary } from 'https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/utilities/icon-library.js';
+
+  registerIconLibrary('fa', {
+    resolver: name => {
+      const filename = name.replace(/^fa[rbs]-/, '');
+      let folder = 'regular';
+      if (name.substring(0, 4) === 'fas-') folder = 'solid';
+      if (name.substring(0, 4) === 'fab-') folder = 'brands';
+      return `https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/svgs/${folder}/${filename}.svg`;
+    },
+    mutator: svg => svg.setAttribute('fill', 'currentColor')
+  });
+</script>
+
 </body>
 </html>
