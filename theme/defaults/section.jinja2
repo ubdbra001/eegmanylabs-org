@@ -15,7 +15,7 @@
     <sl-tag size="medium" pill>{{ tag }}</sl-tag>
   {% endfor %}
 
-  {# should move this to people-specific template  #}
+  {# should move this to people-specific template and/or make a macro  #}
   {% if section.front['ScholarUrl']|length > 5 %}
     <sl-tooltip content="Google Scholar profile">
         <sl-icon-button library="fa" name="fab-google-scholar" href="{{ section.front['ScholarUrl'] }}" target="_blank"></sl-icon-button>
@@ -29,6 +29,11 @@
   {% if section.front['LabUrl']|length > 5 %}
     <sl-tooltip content="Lab website">
         <sl-icon-button library="fa" name="fas-flask" href="{{ section.front['LabUrl'] }}" target="_blank"></sl-icon-button>
+    </sl-tooltip>
+  {% endif %}
+  {% if section.front['DoiUrl']|length > 5 %}
+    <sl-tooltip content="Open Manuscript">
+        <sl-icon-button library="fa" name="fas-arrow-up-right-from-square" href="{{ section.front['DoiUrl'] }}" target="_blank"></sl-icon-button>
     </sl-tooltip>
   {% endif %}
 </sl-card>

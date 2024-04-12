@@ -8,12 +8,10 @@ Authors = "{{ Authors }}"
 Journal = "{{ Journal }}"
 Year = "{{ PublicationYear }}"
 DOI = "{{ DOI }}"
+DoiUrl = "https://dx.doi.org/{{ DOI }}"
 Abstract = "{{ Abstract }}"
+Tags = ["{{ Status }}"]
 +++
-
-## {{ Title}}
 #### {{ AuthorsShort }} {{ PublicationYear }} {{ Journal }}
-
-[{{ Status }}]("{{ Status }}") [doi](https://dx.doi.org/{{ DOI }})
 
 > {{ Abstract }}
