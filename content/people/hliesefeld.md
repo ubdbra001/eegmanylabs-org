@@ -1,5 +1,5 @@
 +++
-SequenceNumber = "21"
+SequenceNumber = "19"
 Anchor = "hliesefeld"
 Title = "Heinrich Liesefeld"
 Image = "headshots/hliesefeld.png"

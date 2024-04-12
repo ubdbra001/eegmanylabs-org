@@ -1,34 +1,36 @@
-PersonId	FullName	HeadShotFilename	StudyId	ReplicatorRole	CoordinatorRole	AdvisorRole	SteeringRole	ScholarUrl	UniUrl	LabUrl
-fmushtaq	Faisal Mushtaq	fmushtaq.png	YeungSanfey2004	1	1	0	0	https://scholar.google.com/citations?user=bcjpWSwAAAAJ&hl=en&oi=ao	https://medicinehealth.leeds.ac.uk/psychology/staff/632/dr-faisal-mushtaq	https://immersivecognition.com/people/faisal-mushtaq/
-ypavlov	Yuri Pavlov	ypavlov.jpg		0	1	0	0	https://scholar.google.com/citations?hl=en&user=nSM_MxUAAAAJ	https://www.medizin.uni-tuebingen.de/de/das-klinikum/mitarbeiter/profil/2191	https://yurigpavlov.com/
-dwelke	Dominik Welke	dwelke.jpg		0	1	0	0	https://scholar.google.de/citations?user=B5xCyM0AAAAJ&hl=de	https://immersivecognition.com/people/	
-jvandenbosch	Jasper van den Bosch	jvandenbosch.jpg		0	1	0	0	https://scholar.google.com/citations?user=XQ3-JHgAAAAJ&hl=en	https://www.birmingham.ac.uk/staff/profiles/psychology/bosch-jasper-van-den.aspx	
-abland	Amy Bland	abland.jpg	HajcakFoti2008	1	0	0	1	https://scholar.google.com/citations?user=nQl3r9kAAAAJ&hl=en&oi=ao	https://www.mmu.ac.uk/staff/profile/dr-amy-bland	
-marvaneh	Mahnaz Arvaneh	marvaneh.jpg		0	0	0	1	https://scholar.google.com.sg/citations?user=HBxF7nAAAAAJ&hl=en	https://www.sheffield.ac.uk/acse/department/people/academic/mahnaz-arvaneh	
-xhe	Xun He	xhe.png	Eimer2003	1	0	0	1	https://scholar.google.com/citations?user=08oketoAAAAJ&hl=en&oi=ao	https://staffprofiles.bournemouth.ac.uk/display/xhe	
-roostenveld	Robert Oostenveld	roostenveld.jpg		0	0	1	0	https://scholar.google.co.uk/citations?user=eEbaa0UAAAAJ&hl=en	https://www.ru.nl/en/people/oostenveld-r	
-nburra	Nicolas Burra	nburra.jpg	Carretie2004	1	0	0	0			
-dbradford	Daniel Bradford	dbradford.jpg	HajcakFoti2008	1	0	0	0			
-achatard	Armand Chatard	achatard.png	Frank2005	1	0	0	0			
-dcruse	Damian Cruse	dcruse.jpg	Sergent2005	1	0	0	0			
-kdesender	Kobe Desender 	kdesender.jpg	DelCul2007	1	0	0	0			
-mgamer	Matthias Gamer	mgamer.jpg	Miltner1999	1	0	0	0			
-gganis	Giorgio Ganis	gganis.jpg	Eimer1993	1	0	0	0			
-sgregory	Samantha Gregory	sgregory.jpg	Onton2005	1	0	0	0			
-chassall	Cameron Hassall	chassall.jpg	Vidal2000	1	0	0	0			
-kgloy	Kilian Gloy	kgloy.jpg	AmodioMaster2008	1	0	0	0		https://www.uni-bremen.de/en/pppd/team/dr-kilian-gloy	
-jkaiser	Jakob Kaiser	jkaiser.jpg	Boksem2006	1	0	0	0	https://scholar.google.com/citations?user=lSBrwo4AAAAJ&hl=en&oi=sra	https://www.psy.uni-muenchen.de/expneurocog/people/lab-members/jakob_kaiser/index.html	
-akeil	Andreas Keil	akeil.png	ClarkHillyard1996	1	0	0	0			
-nlanger	Nicolas Langer	nlanger.jpg	VogelMachizawa2004	1	0	0	0			
-hliesefeld	Heinrich Liesefeld	hliesefeld.png	Eimer1996	1	0	0	0			
-amacnamara	Annmarie MacNamara	amacnamara.jpg	Inzlicht2009	1	0	0	0			
-wmarinovic	Welber Marinovic	wmarinovic.jpg	DonkersvanBoxtel2004	1	0	0	0			
-rnaar	Richard Naar	rnaar.jpg	Muller2003	1	0	0	0			
-gniso	Guiomar Niso	gniso.png	Luck1996	1	0	0	0			
-gpourtois	Gilles Pourtois	gpourtois.png	HajcakHolroyd2005	1	0	0	0			
-msenderecka	Magdalena Senderecka	msenderecka.png	HajcakMoser2005	1	0	0	0			
-mruzzoli	Manuela Ruzzoli	mruzzoli.jpg	Mathewson2009	1	0	0	0			
-aschaefer	Alexandre Schaefer	aschaefer.png	AmodioJost2007 	1	0	0	0	https://scholar.google.com/citations?user=UUYnx4YAAAAJ&hl=en	https://sunwayuniversity.edu.my/school-of-medical-life-sciences/staff-profiles/professor-alexandre-schaefer	
-nsrinivasan	Narayanan Srinivasan	nsrinivasan.jpg	BuschVanRullen2010	1	0	0	0			
-mvandermolen	Melle van der Molen 	mvandermolen.jpg	Hajcak2006	1	0	0	0			
-everona	Edelyn Verona	everona.png	Hajcak2003	1	0	0	0			
+PersonId	FullName	HeadShotFilename	StudyId	SpinOffId	ReplicatorRole	SpinOffRole	CoordinatorRole	AdvisorRole	SteeringRole	ScholarUrl	UniUrl	LabUrl
+fmushtaq	Faisal Mushtaq	fmushtaq.png	YeungSanfey2004		1	0	1	0	0	https://scholar.google.com/citations?user=bcjpWSwAAAAJ&hl=en&oi=ao	https://medicinehealth.leeds.ac.uk/psychology/staff/632/dr-faisal-mushtaq	https://immersivecognition.com/people/faisal-mushtaq/
+ypavlov	Yuri Pavlov	ypavlov.jpg			0	0	1	0	0	https://scholar.google.com/citations?hl=en&user=nSM_MxUAAAAJ	https://www.medizin.uni-tuebingen.de/de/das-klinikum/mitarbeiter/profil/2191	https://yurigpavlov.com/
+dwelke	Dominik Welke	dwelke.jpg			0	0	1	0	0	https://scholar.google.de/citations?user=B5xCyM0AAAAJ&hl=de	https://immersivecognition.com/people/	
+jvandenbosch	Jasper van den Bosch	jvandenbosch.jpg			0	0	1	0	0	https://scholar.google.com/citations?user=XQ3-JHgAAAAJ&hl=en	https://www.birmingham.ac.uk/staff/profiles/psychology/bosch-jasper-van-den.aspx	
+abland	Amy Bland	abland.jpg	HajcakFoti2008		1	0	0	0	1	https://scholar.google.com/citations?user=nQl3r9kAAAAJ&hl=en&oi=ao	https://www.mmu.ac.uk/staff/profile/dr-amy-bland	
+marvaneh	Mahnaz Arvaneh	marvaneh.jpg			0	0	0	0	1	https://scholar.google.com.sg/citations?user=HBxF7nAAAAAJ&hl=en	https://www.sheffield.ac.uk/acse/department/people/academic/mahnaz-arvaneh	
+xhe	Xun He	xhe.png	Eimer2003		1	0	0	0	1	https://scholar.google.com/citations?user=08oketoAAAAJ&hl=en&oi=ao	https://staffprofiles.bournemouth.ac.uk/display/xhe	
+roostenveld	Robert Oostenveld	roostenveld.jpg			0	0	0	1	0	https://scholar.google.co.uk/citations?user=eEbaa0UAAAAJ&hl=en	https://www.ru.nl/en/people/oostenveld-r	
+dbradford	Daniel Bradford	dbradford.jpg	HajcakFoti2008		1	0	0	0	0			
+achatard	Armand Chatard	achatard.png	Frank2005		1	0	0	0	0			
+dcruse	Damian Cruse	dcruse.jpg	Sergent2005		1	0	0	0	0			
+mgamer	Matthias Gamer	mgamer.jpg	Miltner1999		1	0	0	0	0			
+gganis	Giorgio Ganis	gganis.jpg	Eimer1993		1	0	0	0	0			
+sgregory	Samantha Gregory	sgregory.jpg	Onton2005		1	0	0	0	0			
+chassall	Cameron Hassall	chassall.jpg	Vidal2000		1	0	0	0	0			
+kgloy	Kilian Gloy	kgloy.jpg	AmodioMaster2008		1	0	0	0	0		https://www.uni-bremen.de/en/pppd/team/dr-kilian-gloy	
+jkaiser	Jakob Kaiser	jkaiser.jpg	Boksem2006		1	0	0	0	0	https://scholar.google.com/citations?user=lSBrwo4AAAAJ&hl=en&oi=sra	https://www.psy.uni-muenchen.de/expneurocog/people/lab-members/jakob_kaiser/index.html	
+akeil	Andreas Keil	akeil.png	ClarkHillyard1996		1	0	0	0	0			
+nlanger	Nicolas Langer	nlanger.jpg	VogelMachizawa2004		1	0	0	0	0			
+hliesefeld	Heinrich Liesefeld	hliesefeld.png	Eimer1996		1	0	0	0	0			
+amacnamara	Annmarie MacNamara	amacnamara.jpg	Inzlicht2009		1	0	0	0	0			
+wmarinovic	Welber Marinovic	wmarinovic.jpg	DonkersvanBoxtel2004		1	0	0	0	0			
+rnaar	Richard Naar	rnaar.jpg	Muller2003		1	0	0	0	0			
+gniso	Guiomar Niso	gniso.png	Luck1996		1	0	0	0	0			
+gpourtois	Gilles Pourtois	gpourtois.png	HajcakHolroyd2005		1	0	0	0	0			
+msenderecka	Magdalena Senderecka	msenderecka.png	HajcakMoser2005		1	0	0	0	0			
+mruzzoli	Manuela Ruzzoli	mruzzoli.jpg	Mathewson2009		1	0	0	0	0			
+aschaefer	Alexandre Schaefer	aschaefer.png	AmodioJost2007 		1	0	0	0	0	https://scholar.google.com/citations?user=UUYnx4YAAAAJ&hl=en	https://sunwayuniversity.edu.my/school-of-medical-life-sciences/staff-profiles/professor-alexandre-schaefer	
+nsrinivasan	Narayanan Srinivasan	nsrinivasan.jpg	BuschVanRullen2010		1	0	0	0	0			
+mvandermolen	Melle van der Molen 	mvandermolen.jpg	Hajcak2006		1	0	0	0	0			
+everona	Edelyn Verona	everona.png	Hajcak2003		1	0	0	0	0			
+socklenburg	Sebastian Ocklenburg	socklenburg.jpg		asymmetry	0	1	0	0	0	https://scholar.google.de/citations?user=E0IRSXQAAAAJ&hl=de	https://www.medicalschool-hamburg.de/hochschule/unser-team/team-fakultaet-humanwissenschaften-universitaet/professoren/sebastian-ocklenburg/	
+cpernet	Cyril Pernet	cpernet.jpg			0	1	0	0	1	https://scholar.google.co.uk/citations?user=yz6s_e8AAAAJ&hl=en	https://nru.dk/index.php/about-us/staff-list/124-senior-researchers/318-cyril-pernet	https://cpernet.github.io
+rbendall	Robert Bendall	rbendall.jpg	Carretie2004		1	0	0	0	0	https://scholar.google.co.uk/citations?user=Z_934nkAAAAJ&hl=en	https://www.salford.ac.uk/our-staff/robert-bendall	https://hub.salford.ac.uk/appliedcognition/people/
+mrausch	Manuel Rausch	mrausch.jpg	DelCul2007		1	0	0	0	0	https://scholar.google.de/citations?user=QFdVCFEAAAAJ&hl=en		https://manuelrausch.github.io/

@@ -1,5 +1,5 @@
 +++
-SequenceNumber = "25"
+SequenceNumber = "23"
 Anchor = "gniso"
 Title = "Guiomar Niso"
 Image = "headshots/gniso.png"

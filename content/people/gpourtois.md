@@ -1,5 +1,5 @@
 +++
-SequenceNumber = "26"
+SequenceNumber = "24"
 Anchor = "gpourtois"
 Title = "Gilles Pourtois"
 Image = "headshots/gpourtois.png"

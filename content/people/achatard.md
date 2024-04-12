@@ -1,5 +1,5 @@
 +++
-SequenceNumber = "10"
+SequenceNumber = "9"
 Anchor = "achatard"
 Title = "Armand Chatard"
 Image = "headshots/achatard.png"
