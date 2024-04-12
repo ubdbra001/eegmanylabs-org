@@ -1,14 +1,14 @@
 +++
-SequenceNumber =  11
-Anchor: 
-Title: Effects of attention and stimulus probability on ERPs in a Go/Nogo task
-Image: 
-StudyId: Eimer1993
-LeadFullName: Giorgio Ganis
-PersonId: gganis
-Reference: Eimer, M. (1993). Effects of attention and stimulus probability on ERPs in a Go/Nogo task. Biological Psychology, 35(2), 123–138. https://doi.org/10.1016/0301-0511(93)90009-W
-PsychConstruct: attention
-SignupUrl: https://docs.google.com/forms/d/e/1FAIpQLSewP38BiWwYDAiqOKNHxBJKHRAAKE4ZS7fJZr9cwjJzuYXPRg/viewform
+SequenceNumber = "11"
+Anchor = ""
+Title = "Effects of attention and stimulus probability on ERPs in a Go/Nogo task"
+Image = ""
+StudyId = "Eimer1993"
+LeadFullName = "Giorgio Ganis"
+PersonId = "gganis"
+Reference = "Eimer, M. (1993). Effects of attention and stimulus probability on ERPs in a Go/Nogo task. Biological Psychology, 35(2), 123–138. https://doi.org/10.1016/0301-0511(93)90009-W"
+PsychConstruct = "attention"
+SignupUrl = "https://docs.google.com/forms/d/e/1FAIpQLSewP38BiWwYDAiqOKNHxBJKHRAAKE4ZS7fJZr9cwjJzuYXPRg/viewform"
 +++
 
 

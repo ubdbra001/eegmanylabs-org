@@ -1,14 +1,14 @@
 +++
-SequenceNumber =  18
-Anchor: 
-Title: On the ERN and the significance of errors
-Image: 
-StudyId: HajcakMoser2005
-LeadFullName: Magdalena Senderecka
-PersonId: msenderecka
-Reference: Hajcak, G., Moser, J. S., Yeung, N., & Simons, R. F. (2005). On the ERN and the significance of errors. Psychophysiology, 42(2), 151–160. https://doi.org/10.1111/j.1469-8986.2005.00270.x
-PsychConstruct: error processing
-SignupUrl: https://forms.gle/CwePVpV6MtkeovENA
+SequenceNumber = "18"
+Anchor = ""
+Title = "On the ERN and the significance of errors"
+Image = ""
+StudyId = "HajcakMoser2005"
+LeadFullName = "Magdalena Senderecka"
+PersonId = "msenderecka"
+Reference = "Hajcak, G., Moser, J. S., Yeung, N., & Simons, R. F. (2005). On the ERN and the significance of errors. Psychophysiology, 42(2), 151–160. https://doi.org/10.1111/j.1469-8986.2005.00270.x"
+PsychConstruct = "error processing"
+SignupUrl = "https://forms.gle/CwePVpV6MtkeovENA"
 +++
 
 
