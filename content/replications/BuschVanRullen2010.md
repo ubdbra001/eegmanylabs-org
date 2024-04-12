@@ -1,14 +1,14 @@
 +++
-SequenceNumber =  8
-Anchor: 
-Title: Spontaneous EEG oscillations reveal periodic sampling of visual attention
-Image: 
-StudyId: BuschVanRullen2010
-LeadFullName: Narayanan Srinivasan
-PersonId: nsrinivasan
-Reference: Busch, N. A., & VanRullen, R. (2010). Spontaneous EEG oscillations reveal periodic sampling of visual attention. Proceedings of the National Academy of Sciences, 107(37), 16048–16053. https://doi.org/10.1073/pnas.1004801107
-PsychConstruct: attention
-SignupUrl: https://forms.gle/qWcg9UqMah3MT3S27
+SequenceNumber = "8"
+Anchor = ""
+Title = "Spontaneous EEG oscillations reveal periodic sampling of visual attention"
+Image = ""
+StudyId = "BuschVanRullen2010"
+LeadFullName = "Narayanan Srinivasan"
+PersonId = "nsrinivasan"
+Reference = "Busch, N. A., & VanRullen, R. (2010). Spontaneous EEG oscillations reveal periodic sampling of visual attention. Proceedings of the National Academy of Sciences, 107(37), 16048–16053. https://doi.org/10.1073/pnas.1004801107"
+PsychConstruct = "attention"
+SignupUrl = "https://forms.gle/qWcg9UqMah3MT3S27"
 +++
 
 

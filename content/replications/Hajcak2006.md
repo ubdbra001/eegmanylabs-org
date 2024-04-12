@@ -1,14 +1,14 @@
 +++
-SequenceNumber =  16
-Anchor: 
-Title: The feedback-related negativity reflects the binary evaluation of good versus bad outcomes
-Image: 
-StudyId: Hajcak2006
-LeadFullName: Melle van der Molen 
-PersonId: mvandermolen
-Reference: Hajcak, G., Moser, J. S., Holroyd, C. B., & Simons, R. F. (2006). The feedback-related negativity reflects the binary evaluation of good versus bad outcomes. Biological Psychology, 71(2), 148–154. https://doi.org/10.1016/j.biopsycho.2005.04.001
-PsychConstruct: reward processing, feedback, outcome monitoring, emotions
-SignupUrl: https://forms.gle/Qx87BSa5f5AFcJaD7
+SequenceNumber = "16"
+Anchor = ""
+Title = "The feedback-related negativity reflects the binary evaluation of good versus bad outcomes"
+Image = ""
+StudyId = "Hajcak2006"
+LeadFullName = "Melle van der Molen "
+PersonId = "mvandermolen"
+Reference = "Hajcak, G., Moser, J. S., Holroyd, C. B., & Simons, R. F. (2006). The feedback-related negativity reflects the binary evaluation of good versus bad outcomes. Biological Psychology, 71(2), 148–154. https://doi.org/10.1016/j.biopsycho.2005.04.001"
+PsychConstruct = "reward processing, feedback, outcome monitoring, emotions"
+SignupUrl = "https://forms.gle/Qx87BSa5f5AFcJaD7"
 +++
 
 
