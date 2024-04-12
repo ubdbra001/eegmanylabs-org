@@ -14,7 +14,7 @@
   {{ section.content_html|safe }}
 
   {% for tag in section.front['Tags'] %}
-    <sl-tag size="medium" pill>{{ tag }}</sl-tag>
+    <sl-tag size="small" pill>{{ tag }}</sl-tag>
   {% endfor %}
 
   {{ IconButton.render(section.front['ScholarUrl'], "Google Scholar profile", "fab-google-scholar") }}
