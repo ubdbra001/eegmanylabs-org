@@ -1,17 +1,14 @@
 +++
 SequenceNumber = "{{ DatePublishedNumber }}"
 Anchor = "{{ PublicationId }}"
-Title = "{{ Title }}"
-Image = ""
+Title = "{{ AuthorsShort }} ({{ PublicationYear }}) {{ Title|truncate(50) }}"
+Image = "previews/{{ PublicationId }}.pdf.png"
 PublicationId = "{{ PublicationId }}"
 Authors = "{{ Authors }}"
 Journal = "{{ Journal }}"
 Year = "{{ PublicationYear }}"
 DOI = "{{ DOI }}"
 DoiUrl = "https://dx.doi.org/{{ DOI }}"
-Abstract = "{{ Abstract }}"
+Pdf = "/assets/pdfs/{{ PublicationId }}.pdf"
 Tags = ["{{ Status }}"]
 +++
-#### {{ AuthorsShort }} {{ PublicationYear }} {{ Journal }}
-
-> {{ Abstract }}
