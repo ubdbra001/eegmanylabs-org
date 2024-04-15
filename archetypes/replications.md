@@ -1,8 +1,8 @@
 +++
 SequenceNumber = "{{ SequenceNumber }}"
-Anchor = "{{ PublicationId }}"
+Anchor = "{{ StudyId }}"
 Title = "{{ Title|truncate(70) }}"
-Image = ""
+Image = "figures/{{ StudyId }}.png"
 StudyId = "{{ StudyId }}"
 LeadFullName = "{{ LeadFullName }}"
 PersonId = "{{ PersonId }}"
