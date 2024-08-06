@@ -1,7 +1,7 @@
 +++
 SequenceNumber = "{{ SequenceNumber }}"
 Anchor = "{{ StudyId }}"
-Title = "{{ Title|truncate(50, True) }}"
+Title = "{{ Title|truncate(60, True) }}"
 Image = "figures/{{ StudyId }}.png"
 StudyId = "{{ StudyId }}"
 LeadFullName = "{{ LeadFullName }}"
@@ -16,4 +16,4 @@ DoiUrl = "https://dx.doi.org/{{ DOI }}"
 
 Lead by [{{ LeadFullName }}](/people/#{{ PersonId }})
 
-> {{ Abstract|truncate(200, True) }}
+{{ Abstract|truncate(200, True) }}

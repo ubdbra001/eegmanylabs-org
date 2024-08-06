@@ -208,6 +208,11 @@ sl-card a[href^="https://eeg100"] {
     min-height: 3.5em;
 }
 
+/* Selects the second li element in a list */
+#replications p:nth-of-type(2) {
+    min-height: 8em;
+}
+
 #replications blockquote {
     max-height: 200px;
     overflow: hidden;
