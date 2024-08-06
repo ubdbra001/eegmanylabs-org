@@ -185,6 +185,10 @@ sl-card a[href^="/"] {
     color: teal;
 }
 
+img[slot="image"] {
+    padding: 10px;
+}
+
 
 /*
     SPIN-OFFS PAGE
