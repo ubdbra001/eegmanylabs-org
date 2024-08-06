@@ -15,8 +15,5 @@ DoiUrl = "https://dx.doi.org/{{ DOI }}"
 +++
 
 Lead by [{{ LeadFullName }}](/people/#{{ PersonId }})
-{% if NeedsMoreLabs %}
-[Sign-up form]({{ SignupUrl }})
-{% endif %}
 
 > {{ Abstract|truncate(200, True) }}

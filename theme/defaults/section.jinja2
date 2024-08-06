@@ -1,4 +1,6 @@
 {% import 'defaults/icon_button.jinja2' as IconButton %}
+{% import 'defaults/action_button.jinja2' as ActionButton %}
+
 
 <sl-card id="{{ section.name }}">
   
@@ -12,6 +14,9 @@
   />
 
   {{ section.content_html|safe }}
+
+  {{ ActionButton.render(section.front['SignupUrl'], "Sign up as participating lab", "fas-user-plus") }}
+    <br>
 
   {% for tag in section.front['Tags'] %}
     <sl-tag size="small" pill>{{ tag }}</sl-tag>

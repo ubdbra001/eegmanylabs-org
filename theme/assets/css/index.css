@@ -168,13 +168,7 @@ article {
     SECTION
 */
 
-/*
-sl-card img {
-    height: 150px;
-    float: left;
-    margin: 10px;
-}
-*/
+
 /* local links */
 sl-card a[href^="/"] {
     padding: 5px;
