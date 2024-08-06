@@ -202,10 +202,10 @@ sl-card a[href^="https://eeg100"] {
     REPLICATION PAGE
 */
 
-div[slot="header"] {
+#replications div[slot="header"] {
     font-weight: bolder;
     font-size: larger;
-    min-height: 3em;
+    min-height: 3.5em;
 }
 
 #replications blockquote {
