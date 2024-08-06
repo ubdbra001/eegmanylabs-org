@@ -1,14 +1,14 @@
 +++
 SequenceNumber = "7"
 Anchor = "AmodioMaster2008"
-Title = "Neurocognitive components of the behavioral inh..."
+Title = "Neurocognitive components of the behavioral inhibition an..."
 Image = "figures/AmodioMaster2008.png"
 StudyId = "AmodioMaster2008"
 LeadFullName = "Kilian Gloy"
 PersonId = "kgloy"
 Reference = "Amodio, D. M., Master, S. L., Yee, C. M., & Taylor, S. E. (2008). Neurocognitive components of the behavioral inhibition and activation systems: Implications for theories of self-regulation. Psychophysiology, 45(1), 11–19. https://doi.org/10.1111/j.1469-8986.2007.00609.x"
 PsychConstruct = "conflict monitoring"
-SignupUrl = "https://forms.gle/jmY4vkLoVRdyde9P6"
+SignupUrl = "done"
 Tags = ["Review", "Conflict"]
 DOI = "10.1111/j.1469-8986.2007.00609.x"
 DoiUrl = "https://dx.doi.org/"
@@ -16,5 +16,4 @@ DoiUrl = "https://dx.doi.org/"
 
 Lead by [Kilian Gloy](/people/#kgloy)
 
-
-> We examined the neurocognitive correlates of the Behavioral Inhibition and Behavioral Activation Systems (BIS/BAS) in an effort to clarify ambiguities concerning interpretations of BIS as reflectin...
+We examined the neurocognitive correlates of the Behavioral Inhibition and Behavioral Activation Systems (BIS/BAS) in an effort to clarify ambiguities concerning interpretations of BIS as reflectin...

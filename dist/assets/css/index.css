@@ -168,13 +168,7 @@ article {
     SECTION
 */
 
-/*
-sl-card img {
-    height: 150px;
-    float: left;
-    margin: 10px;
-}
-*/
+
 /* local links */
 sl-card a[href^="/"] {
     padding: 5px;
@@ -208,9 +202,15 @@ sl-card a[href^="https://eeg100"] {
     REPLICATION PAGE
 */
 
-div[slot="header"] {
+#replications div[slot="header"] {
     font-weight: bolder;
     font-size: larger;
+    min-height: 3.5em;
+}
+
+/* Selects the second li element in a list */
+#replications p:nth-of-type(2) {
+    min-height: 8em;
 }
 
 #replications blockquote {

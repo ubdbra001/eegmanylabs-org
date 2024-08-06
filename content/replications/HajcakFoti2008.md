@@ -1,7 +1,7 @@
 +++
 SequenceNumber = "2"
 Anchor = "HajcakFoti2008"
-Title = "Errors Are Aversive: Defensive Motivation and t..."
+Title = "Errors Are Aversive: Defensive Motivation and the Error-R..."
 Image = "figures/HajcakFoti2008.png"
 StudyId = "HajcakFoti2008"
 LeadFullName = "Amy Bland"
@@ -16,7 +16,4 @@ DoiUrl = "https://dx.doi.org/"
 
 Lead by [Amy Bland](/people/#abland)
 
-[Sign-up form](mailto:a.bland@mmu.ac.uk)
-
-
-> The error-related negativity (ERN) is a negative deflection in the event-related potential that is maximal approximately 50 ms after the commission of an error. The ERN is generated in the anterior...
+The error-related negativity (ERN) is a negative deflection in the event-related potential that is maximal approximately 50 ms after the commission of an error. The ERN is generated in the anterior...

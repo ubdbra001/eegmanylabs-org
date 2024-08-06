@@ -1,7 +1,7 @@
 +++
 SequenceNumber = "1"
 Anchor = "Carretie2004"
-Title = "Spatial Selective Attention Affects Early Extra..."
+Title = "Spatial Selective Attention Affects Early Extrastriate Bu..."
 Image = "figures/Carretie2004.png"
 StudyId = "Carretie2004"
 LeadFullName = "Robert Bendall"
@@ -16,7 +16,4 @@ DoiUrl = "https://dx.doi.org/"
 
 Lead by [Robert Bendall](/people/#rbendall)
 
-[Sign-up form](https://forms.gle/CuEbtTJH9PUGJbND8)
-
-
-> We investigated the capability of emotional and nonemotional visual stimulation to capture automatic attention, an aspect of the interaction between cognitive and emotional processes that has recei...
+We investigated the capability of emotional and nonemotional visual stimulation to capture automatic attention, an aspect of the interaction between cognitive and emotional processes that has recei...

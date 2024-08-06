@@ -8,7 +8,7 @@ LeadFullName = "Annmarie MacNamara"
 PersonId = "amacnamara"
 Reference = "Inzlicht, M., McGregor, I., Hirsh, J. B., & Nash, K. (2009). Neural Markers of Religious Conviction. Psychological Science, 20(3), 385–392. https://doi.org/10.1111/j.1467-9280.2009.02305.x"
 PsychConstruct = "personality"
-SignupUrl = "https://docs.google.com/forms/d/e/1FAIpQLSf-1WI2kgXsOOYN8POhNKVcpeSGmTqJQqXF--e8QCLxTRGUiA/viewform?usp=sf_link"
+SignupUrl = "done"
 Tags = ["Registration", "Personality"]
 DOI = "10.1111/j.1467-9280.2009.02305.x"
 DoiUrl = "https://dx.doi.org/"
@@ -16,5 +16,4 @@ DoiUrl = "https://dx.doi.org/"
 
 Lead by [Annmarie MacNamara](/people/#amacnamara)
 
-
-> Many people derive peace of mind and purpose in life from their belief in God. For others, however, religion provides unsatisfying answers. Are there brain differences between believers and nonbeli...
+Many people derive peace of mind and purpose in life from their belief in God. For others, however, religion provides unsatisfying answers. Are there brain differences between believers and nonbeli...

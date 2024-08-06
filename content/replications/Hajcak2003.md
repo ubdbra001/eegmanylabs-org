@@ -8,7 +8,7 @@ LeadFullName = "Edelyn Verona"
 PersonId = "everona"
 Reference = "Hajcak, G., McDonald, N., & Simons, R. F. (2003). Anxiety and error-related brain activity. Biological Psychology, 64(1–2), 77–90. https://doi.org/10.1016/S0301-0511(03)00103-0"
 PsychConstruct = "error processing"
-SignupUrl = "https://docs.google.com/forms/d/13KCi5Vt6cVZvvPHMcdW8D-wdpffBPl_pnn1NYgcdEOg/edit"
+SignupUrl = "done"
 Tags = ["Recording", "Error"]
 DOI = "10.1016/S0301-0511(03)00103-0"
 DoiUrl = "https://dx.doi.org/"
@@ -16,5 +16,4 @@ DoiUrl = "https://dx.doi.org/"
 
 Lead by [Edelyn Verona](/people/#everona)
 
-
-> Error-related negativity (ERN/Ne) is a component of the event-related brain potential (ERP) associated with monitoring action and detecting errors. It is a sharp negative deflection that generally ...
+Error-related negativity (ERN/Ne) is a component of the event-related brain potential (ERP) associated with monitoring action and detecting errors. It is a sharp negative deflection that generally ...

@@ -8,7 +8,7 @@ LeadFullName = "Richard Naar"
 PersonId = "rnaar"
 Reference = "Müller, M. M., Malinowski, P., Gruber, T., & Hillyard, S. A. (2003). Sustained division of the attentional spotlight. Nature, 424(6946), 309–312. https://doi.org/10.1038/nature01812"
 PsychConstruct = "attention"
-SignupUrl = "https://forms.gle/TWogjDdstfJUH92m7"
+SignupUrl = "done"
 Tags = ["Recruiting", "Attention"]
 DOI = "10.1038/nature01812"
 DoiUrl = "https://dx.doi.org/"
@@ -16,5 +16,4 @@ DoiUrl = "https://dx.doi.org/"
 
 Lead by [Richard Naar](/people/#rnaar)
 
-
-> By voluntarily directing attention to a specific region of a visual scene, we can improve our perception of stimuli at that location(1). This ability to focus attention upon specific zones of the v...
+By voluntarily directing attention to a specific region of a visual scene, we can improve our perception of stimuli at that location(1). This ability to focus attention upon specific zones of the v...

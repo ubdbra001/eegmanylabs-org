@@ -1,7 +1,7 @@
 +++
 SequenceNumber = "4"
 Anchor = "Sergent2005"
-Title = "Timing of the brain events underlying access to..."
+Title = "Timing of the brain events underlying access to conscious..."
 Image = "figures/Sergent2005.png"
 StudyId = "Sergent2005"
 LeadFullName = "Damian Cruse"
@@ -16,7 +16,4 @@ DoiUrl = "https://dx.doi.org/"
 
 Lead by [Damian Cruse](/people/#dcruse)
 
-[Sign-up form](https://docs.google.com/forms/d/e/1FAIpQLSdo9rk0V5OWYi0TB9T9JouxFQ1E91Xe9arUauX5legz2e1iUA/viewform)
-
-
-> In the phenomenon of attentional blink, identical visual stimuli are sometimes fully perceived and sometimes not detected at all. This phenomenon thus provides an optimal situation to study the fat...
+In the phenomenon of attentional blink, identical visual stimuli are sometimes fully perceived and sometimes not detected at all. This phenomenon thus provides an optimal situation to study the fat...

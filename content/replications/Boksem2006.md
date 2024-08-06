@@ -16,7 +16,4 @@ DoiUrl = "https://dx.doi.org/"
 
 Lead by [Jakob Kaiser](/people/#jkaiser)
 
-[Sign-up form](https://forms.gle/f5KHWhbnt8Uj8KLEA)
-
-
-> In this study we examined whether the effects of mental fatigue on behaviour are due to reduced action monitoring as indexed by the error related negativity (Ne/ERN), N2 and contingent negative var...
+In this study we examined whether the effects of mental fatigue on behaviour are due to reduced action monitoring as indexed by the error related negativity (Ne/ERN), N2 and contingent negative var...
