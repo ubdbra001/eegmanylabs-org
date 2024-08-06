@@ -185,6 +185,10 @@ sl-card a[href^="/"] {
     color: teal;
 }
 
+img[slot="image"] {
+    padding: 10px;
+}
+
 
 /*
     SPIN-OFFS PAGE
@@ -203,6 +207,11 @@ sl-card a[href^="https://eeg100"] {
 /*  
     REPLICATION PAGE
 */
+
+div[slot="header"] {
+    font-weight: bolder;
+    font-size: larger;
+}
 
 #replications blockquote {
     max-height: 200px;

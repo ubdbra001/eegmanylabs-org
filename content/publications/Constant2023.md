@@ -1,7 +1,7 @@
 +++
 SequenceNumber = "20230512"
 Anchor = "Constant2023"
-Title = "Constant et al (2023) A multilab investigation into the N2pc as an..."
+Title = "Constant et al (2023) A multilab investigation into the N2pc as an in..."
 Image = "previews/Constant2023.pdf.png"
 PublicationId = "Constant2023"
 Authors = "Constant M,Mandal A,Asanowicz D,Yamaguchi M,et al."

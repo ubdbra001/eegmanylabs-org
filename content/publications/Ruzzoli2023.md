@@ -1,7 +1,7 @@
 +++
 SequenceNumber = "20231212"
 Anchor = "Ruzzoli2023"
-Title = "Ruzzoli et al (2023) An #EEGManyLabs study to test the role of the..."
+Title = "Ruzzoli et al (2023) An #EEGManyLabs study to test the role of the a..."
 Image = "previews/Ruzzoli2023.pdf.png"
 PublicationId = "Ruzzoli2023"
 Authors = "Ruzzoli M,Molinaro N,Benwell C,Berkowitz DH,et al."
