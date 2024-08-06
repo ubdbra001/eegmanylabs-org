@@ -1,23 +1,19 @@
 +++
 SequenceNumber = "{{ SequenceNumber }}"
-Anchor = "{{ PublicationId }}"
-Title = "{{ Title }}"
-Image = ""
+Anchor = "{{ StudyId }}"
+Title = "{{ Title|truncate(60, True) }}"
+Image = "figures/{{ StudyId }}.png"
 StudyId = "{{ StudyId }}"
 LeadFullName = "{{ LeadFullName }}"
 PersonId = "{{ PersonId }}"
 Reference = "{{ Reference }}"
 PsychConstruct = "{{ PsychConstruct }}"
 SignupUrl = "{{ SignupUrl }}"
+Tags = ["{{ StageName|title }}", "{{ Theme }}"]
+DOI = "{{ Doi }}"
+DoiUrl = "https://dx.doi.org/{{ DOI }}"
 +++
 
-
-## <a name="{{ StudyId }}"> {{ Title }}
-
-
 Lead by [{{ LeadFullName }}](/people/#{{ PersonId }})
-{% if NeedsMoreLabs %}
-[Sign-up form]({{ SignupUrl }})
-{% endif %}
 
-> {{ Abstract }}
+{{ Abstract|truncate(200, True) }}

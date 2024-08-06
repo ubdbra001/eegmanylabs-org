@@ -1,0 +1,12 @@
+{% macro render(url, tooltip, icon) %}
+  {% if url %}
+    <sl-tooltip content="{{ tooltip }}">
+        <sl-button href="{{ url }}" target="_blank"
+        {% if url|length < 5 %}disabled{% endif %}
+        >
+            <sl-icon slot="prefix" library="fa" name="{{ icon }}"></sl-icon>
+            Sign Up
+        </sl-button>
+    </sl-tooltip>
+  {% endif %}
+{% endmacro %}
