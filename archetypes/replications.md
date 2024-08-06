@@ -1,7 +1,7 @@
 +++
 SequenceNumber = "{{ SequenceNumber }}"
 Anchor = "{{ StudyId }}"
-Title = "{{ Title|truncate(70) }}"
+Title = "{{ Title|truncate(50, True) }}"
 Image = "figures/{{ StudyId }}.png"
 StudyId = "{{ StudyId }}"
 LeadFullName = "{{ LeadFullName }}"
@@ -17,4 +17,4 @@ Lead by [{{ LeadFullName }}](/people/#{{ PersonId }})
 [Sign-up form]({{ SignupUrl }})
 {% endif %}
 
-> {{ Abstract|truncate(200) }}
+> {{ Abstract|truncate(200, True) }}
