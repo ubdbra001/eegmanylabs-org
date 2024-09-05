@@ -5,18 +5,12 @@
 <article>
 {{ index.content_html|safe }}
 </article>
-
-<div class="section-grid" id="{{ index.name }}"> {# ideally move this one container up#}
+ {# ideally move INDEX one container up, but need appropriate encompassing tag #}
+<div class="section-grid" id="{{ index.name }}">
 {% for section in index.sections %}
     {% include 'defaults/section.jinja2' %}
-    {#{{ IF SECTION HAS CORRESPONDING FOLDER, RENDER IT HERE? }}#}
 {% endfor %}
 </div>
 
-{#
-{% for folder in index.folders %}
-    {{ theme.formatFolder(folder) }}
-{% endfor %}
-#}
 
 {% endblock %}
