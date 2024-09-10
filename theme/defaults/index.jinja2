@@ -7,7 +7,7 @@
 </article>
  {# ideally move INDEX one container up, but need appropriate encompassing tag #}
 <div class="section-grid" id="{{ index.name }}">
-{% for section in index.sections %}
+{% for section in index.leaves %}
     {% include 'defaults/section.jinja2' %}
 {% endfor %}
 </div>
