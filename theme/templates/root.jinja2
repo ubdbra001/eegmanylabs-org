@@ -12,6 +12,10 @@
         {% include 'section.jinja2' %}
     {% endfor %}
 
+    {% for branch in index.leaves %}
+        {% include 'section.jinja2' %}
+    {% endfor %}
+
 </article>
 
 {% endblock %}

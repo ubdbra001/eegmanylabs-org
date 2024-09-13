@@ -3,6 +3,10 @@
 
     <h2>{{ branch.name }}</h2>
 
+    <p>
+        {{ branch.content_html|safe }}
+    </p>
+
     <div class="card-grid">
     {% for leaf in branch.leaves[:3] %}
         {% include 'card.jinja2' %}
