@@ -93,12 +93,12 @@ footer {
     INDEX
 */
 
-article {
+article > p {
     max-width: 600px;
     padding: 20px;
 }
 
-.section-grid {
+.card-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, 300px);
     grid-auto-rows: auto;
@@ -107,12 +107,12 @@ article {
 }
 
 /* finer grid for people */
-#people.section-grid {
+#people .card-grid {
     grid-template-columns: repeat(auto-fit, 200px);
 }
 
 /* fix non-conforming headshots */
-#people.section-grid img {
+#people .card-grid img {
     object-fit: cover;
     height: 200px;
 }
