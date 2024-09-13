@@ -15,8 +15,8 @@
 <body><nav id="menu">
     <a id="logo" href="/"><img id="logo" src="/assets/images/logo.png"></a>
     <ul class="collapsed">
-    {% for folder in root.branches %}
-       <li><a href="/{{ folder.name }}/">{{ folder.name }}</a></li>
+    {% for branch in root.branches %}
+       <li><a href="/{{ branch.name }}/">{{ branch.name }}</a></li>
     {% endfor %}
     </ul>
     <a id="main-hamburger">

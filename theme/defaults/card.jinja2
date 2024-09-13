@@ -1,0 +1,31 @@
+{% import 'macros/icon_button.jinja2' as IconButton %}
+{% import 'macros/action_button.jinja2' as ActionButton %}
+
+
+<sl-card id="{{ leaf.name }}">
+  
+  <div slot="header">
+    {{ leaf.front['Title'] }}
+  </div>
+
+  <img
+    slot="image"
+    src="/assets/images/{{ leaf.front['Image'] }}"
+  />
+
+  {{ leaf.content_html|safe }}
+
+  {{ ActionButton.render(leaf.front['SignupUrl'], "Sign up as participating lab", "fas-user-plus") }}
+    <br>
+
+  {% for tag in leaf.front['Tags'] %}
+    <sl-tag size="small" pill>{{ tag }}</sl-tag>
+  {% endfor %}
+
+  {{ IconButton.render(leaf.front['ScholarUrl'], "Google Scholar profile", "fab-google-scholar") }}
+  {{ IconButton.render(leaf.front['UniUrl'], "University profile page", "fas-building-columns") }}
+  {{ IconButton.render(leaf.front['LabUrl'], "Lab website", "fas-flask") }}
+  {{ IconButton.render(leaf.front['DoiUrl'], "Open Manuscript", "fas-arrow-up-right-from-square") }}
+  {{ IconButton.render(leaf.front['Pdf'], "Open PDF", "far-file-pdf") }}
+
+</sl-card>

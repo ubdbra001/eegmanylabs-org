@@ -2,15 +2,18 @@
 
 {% block main %}
 
-<article>
-{{ index.content_html|safe }}
-</article>
- {# ideally move INDEX one container up, but need appropriate encompassing tag #}
-<div class="section-grid" id="{{ index.name }}">
-{% for section in index.leaves %}
-    {% include 'defaults/section.jinja2' %}
-{% endfor %}
-</div>
+<article id="{{ index.name }}">
 
+    <p>
+        {{ index.content_html|safe }}
+    </p>
+
+    <div class="card-grid">
+    {% for leaf in index.leaves %}
+        {% include 'defaults/card.jinja2' %}
+    {% endfor %}
+    </div>
+
+</article>
 
 {% endblock %}
