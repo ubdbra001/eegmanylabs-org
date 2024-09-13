@@ -4,7 +4,7 @@
     <h2>{{ branch.name }}</h2>
 
     <div class="card-grid">
-    {% for leaf in branch.leaves %}
+    {% for leaf in branch.leaves[:3] %}
         {% include 'card.jinja2' %}
     {% endfor %}
     </div>
