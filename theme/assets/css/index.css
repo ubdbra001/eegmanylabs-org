@@ -106,6 +106,14 @@ article > p {
     row-gap: 10px;
 }
 
+.preview-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 180px);
+    grid-auto-rows: auto;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
 /* finer grid for people */
 #people .card-grid {
     grid-template-columns: repeat(auto-fit, 200px);

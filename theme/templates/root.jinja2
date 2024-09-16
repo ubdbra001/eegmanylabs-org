@@ -9,11 +9,11 @@
     </p>
 
     {% for branch in index.branches %}
-        {% include 'section.jinja2' %}
+        {% include 'section_branch.jinja2' %}
     {% endfor %}
 
-    {% for branch in index.leaves %}
-        {% include 'section.jinja2' %}
+    {% for leaf in index.leaves %}
+        {% include 'section_leaf.jinja2' %}
     {% endfor %}
 
 </article>
