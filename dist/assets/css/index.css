@@ -106,6 +106,14 @@ article > p {
     row-gap: 10px;
 }
 
+.preview-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 180px);
+    grid-auto-rows: auto;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
 /* finer grid for people */
 #people .card-grid {
     grid-template-columns: repeat(auto-fit, 200px);
@@ -121,27 +129,12 @@ article > p {
     FRONT PAGE
 */
 
-
-#funders img {
-    height: 40px;
-    display: inline-block;
-}
-
-/*  
-    CONTACT SECTION
-*/
-
-#contact ul {
+#contact ul, #funders ul {
     list-style-type: none;
     text-align: justify;
 }
 
-#contact ul {
-    list-style-type: none;
-    text-align: justify;
-}
-
-#contact li {
+#contact li, #funders li {
     display: inline-block;
     text-align: center;
     padding: 10px;
@@ -149,20 +142,17 @@ article > p {
     color: rgb(49, 49, 49);
 }
 
+#contact img, #funders img {
+    height: 40px;
+    display: block;
+    margin: auto;
+}
+
 #contact a {
     color: black;
     text-decoration: none;
 }
 
-#contact a:hover {
-    text-decoration: underline;
-}
-
-#contact img {
-    height: 40px;
-    display: block;
-    margin: auto;
-}
 
 /*  
     SECTION
