@@ -5,9 +5,13 @@
     {{ leaf.front['Title'] }}
   </div>
 
-  <img
-    slot="image"
-    src="/assets/images/{{ leaf.front['Image'] }}"
-  />
+    {% if 'Image' inleaf.front %}
+        <img
+            slot="image"
+            src="/assets/images/{{ leaf.front['Image'] }}"
+        />
+  {% else %}
+    {{ leaf.content_html|safe }}
+  {% endif %}
 
 </sl-card>
