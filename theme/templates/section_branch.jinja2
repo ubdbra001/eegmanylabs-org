@@ -1,14 +1,15 @@
 
 <section>
 
-    <h2>{{ branch.name }}</h2>
+    <h2>{{ branch.name|title }}</h2>
 
     <div class="preview-grid">
     {% for leaf in branch.leaves[:3] %}
         {% include 'card_preview.jinja2' %}
     {% endfor %}
     </div>
+    {% if branch.leaves|length > 3 %}
     <a href="/{{ branch.name }}">See all {{ branch.leaves|length }} {{ branch.name }}</a>
-
+    {% endif %}
 </section>
 
