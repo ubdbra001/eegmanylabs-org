@@ -1,17 +1,25 @@
 
 <sl-card id="{{ leaf.name }}" class="preview">
   
-  <div slot="header">
     {{ leaf.front['Title'] }}
-  </div>
 
     {% if 'Image' in leaf.front %}
+
         <img
             slot="image"
             src="/assets/images/{{ leaf.front['Image'] }}"
         />
-  {% else %}
-    {{ leaf.content_html|safe }}
+
+    {% else %}
+
+        {# body slot https://shoelace.style/components/card 
+        .preview::part(body) {
+                background: var(--sl-color-neutral-0);
+                border: solid 1px tomato;
+            }
+        #}
+        {{ leaf.content_html|safe }}
+
   {% endif %}
 
 </sl-card>
