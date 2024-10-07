@@ -114,6 +114,11 @@ article > p {
     row-gap: 10px;
 }
 
+.preview h3 {
+    font-size: inherit;
+    font-weight: inherit;
+}
+
 /* finer grid for people */
 #people .card-grid {
     grid-template-columns: repeat(auto-fit, 200px);
