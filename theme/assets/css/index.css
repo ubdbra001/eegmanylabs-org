@@ -144,6 +144,17 @@ article > p {
     min-height: 3.5em;
 }
 
+a.see-all {
+    white-space: nowrap;
+    padding: 5px;
+    border-radius: 3px;
+    color:teal;
+    border: 1px solid teal;
+    margin: 2px;
+    text-decoration: none;
+    background-color: white;
+}
+
 #contact ul, #funders ul {
     list-style-type: none;
     text-align: justify;
@@ -213,7 +224,8 @@ sl-card a[href^="https://eeg100"] {
     min-height: 3.5em;
 }
 
-/* Selects the second li element in a list */
+/* Selects the second p element in a list */
+/* currently also affects paragraph at top */
 #replications p:nth-of-type(2) {
     min-height: 8em;
 }
