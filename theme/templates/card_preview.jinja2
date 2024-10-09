@@ -1,7 +1,7 @@
 
 <sl-card id="{{ leaf.name }}" class="preview">
   
-    <h3>{{ leaf.front['Title'] }}</h3> {# could wrap in h3 #}
+    <h3>{{ leaf.front['Title'] }}</h3>
 
     {% if 'Image' in leaf.front %}
 
@@ -12,12 +12,6 @@
 
     {% else %}
 
-        {# body slot https://shoelace.style/components/card 
-        .preview::part(body) {
-                background: var(--sl-color-neutral-0);
-                border: solid 1px tomato;
-            }
-        #}
         {{ leaf.content_html|safe }}
 
   {% endif %}

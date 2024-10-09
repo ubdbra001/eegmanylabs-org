@@ -108,7 +108,7 @@ article > p {
 
 .preview-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, 180px);
+    grid-template-columns: repeat(auto-fit, 300px);
     grid-auto-rows: auto;
     column-gap: 10px;
     row-gap: 10px;
@@ -133,6 +133,16 @@ article > p {
 /*
     FRONT PAGE
 */
+
+/* fix non-conforming headshots */
+#front img[slot="image"] {
+    object-fit: cover;
+    height: 300px;
+}
+
+#front h3 {
+    min-height: 3.5em;
+}
 
 #contact ul, #funders ul {
     list-style-type: none;
