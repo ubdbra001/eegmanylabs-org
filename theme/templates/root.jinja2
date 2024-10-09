@@ -1,0 +1,21 @@
+{% extends 'master.jinja2' %}
+
+{% block main %}
+
+<article id="front">
+
+    <p>
+        {{ index.content_html|safe }}
+    </p>
+
+    {% for branch in index.branches %}
+        {% include 'section_branch.jinja2' %}
+    {% endfor %}
+
+    {% for leaf in index.leaves %}
+        {% include 'section_leaf.jinja2' %}
+    {% endfor %}
+
+</article>
+
+{% endblock %}

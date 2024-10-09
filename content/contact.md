@@ -1,8 +1,6 @@
 +++
-SequenceNumber = 2
+SequenceNumber = 50
 +++
-
-## Contact
 
 * [![Discord](/assets/images/discord_logo.png 'Discord Server') Discord Server](https://discord.gg/kKNtue4AW7)
 * [![Email](/assets/images/email_logo.png 'Email us') contact@eegmanylabs.org](mailto:contact@eegmanylabs.org)

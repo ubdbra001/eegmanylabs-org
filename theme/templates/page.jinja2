@@ -1,0 +1,19 @@
+{% extends 'master.jinja2' %}
+
+{% block main %}
+
+<article id="{{ index.name }}">
+
+    <p>
+        {{ index.content_html|safe }}
+    </p>
+
+    <div class="card-grid">
+    {% for leaf in index.leaves %}
+        {% include 'card_full.jinja2' %}
+    {% endfor %}
+    </div>
+
+</article>
+
+{% endblock %}
