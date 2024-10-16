@@ -119,6 +119,10 @@ article > p {
     font-weight: inherit;
 }
 
+sl-tag::part(base):hover {
+    background: rgb(186, 186, 186);
+}
+
 /* finer grid for people */
 #people .card-grid {
     grid-template-columns: repeat(auto-fit, 200px);
