@@ -254,12 +254,27 @@ sl-card a[href^="https://eeg100"] {
     color: teal;
 }
 
+
+sl-card::part(footer) {
+    border-top: none;
+}
+
 /*  
     PEOPLE SECTION
 */
 
 #people h2 {
     width: 350px;
+}
+
+#people sl-card::part(body) {
+    padding: var(--sl-spacing-small) var(--padding);
+    height: 48px;
+}
+
+#people sl-card::part(footer) {
+    padding: var(--sl-spacing-small) var(--padding);
+    height: 56px;
 }
 
 #people a[href^="http"] {
