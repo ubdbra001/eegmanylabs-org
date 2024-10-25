@@ -26,6 +26,7 @@ hr {
 
 #body-container {
     margin-top: 100px;
+    margin-bottom: 15px;
     min-height: calc(100vh - 80px); /* push footer down. 80px = header+footer */
     overflow: hidden; /* prevents child elements' margins from pushing this around  */
 }
@@ -104,6 +105,7 @@ article > p {
     grid-auto-rows: auto;
     column-gap: 10px;
     row-gap: 10px;
+    justify-content: space-evenly;
 }
 
 .preview-grid {
@@ -125,7 +127,7 @@ sl-tag::part(base):hover {
 
 /* finer grid for people */
 #people .card-grid {
-    grid-template-columns: repeat(auto-fit, 200px);
+    grid-template-columns: repeat(auto-fit, 220px);
 }
 
 /* fix non-conforming headshots */
