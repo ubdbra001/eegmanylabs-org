@@ -230,7 +230,7 @@ sl-card a[href^="https://eeg100"] {
 
 /* Selects the second p element in a list */
 /* currently also affects paragraph at top */
-#replications p:nth-of-type(2) {
+#replications sl-card p:nth-of-type(2) {
     min-height: 8em;
 }
 
