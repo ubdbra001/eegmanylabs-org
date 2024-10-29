@@ -125,6 +125,14 @@ sl-tag::part(base):hover {
     background: rgb(186, 186, 186);
 }
 
+sl-menu-item::part(label) {
+    text-transform: capitalize;
+}
+
+.card-filter {
+    margin-bottom: 20px;
+}
+
 /* finer grid for people */
 #people .card-grid {
     grid-template-columns: repeat(auto-fit, 220px);
