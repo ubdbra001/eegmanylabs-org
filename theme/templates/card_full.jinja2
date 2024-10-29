@@ -17,7 +17,7 @@
 
 
   {% for tag in leaf.front['Tags'] %}
-    <sl-tag size="small" pill>{{ tag }}</sl-tag>
+    <sl-tag size="small" pill class={{tag}}>{{ tag }}</sl-tag>
   {% endfor %}
 
   <div slot="footer">
