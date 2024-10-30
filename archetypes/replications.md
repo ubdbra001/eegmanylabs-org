@@ -11,7 +11,7 @@ PsychConstruct = "{{ PsychConstruct }}"
 SignupUrl = "{{ SignupUrl }}"
 Tags = ["{{ StageName|title }}", "{{ Theme }}"]
 DOI = "{{ Doi }}"
-DoiUrl = "https://dx.doi.org/{{ DOI }}"
+DoiUrl = "https://dx.doi.org/{{ Doi }}"
 +++
 
 Lead by [{{ LeadFullName }}](/people/#{{ PersonId }})
