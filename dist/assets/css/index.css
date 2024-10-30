@@ -26,6 +26,7 @@ hr {
 
 #body-container {
     margin-top: 100px;
+    margin-bottom: 15px;
     min-height: calc(100vh - 80px); /* push footer down. 80px = header+footer */
     overflow: hidden; /* prevents child elements' margins from pushing this around  */
 }
@@ -104,6 +105,7 @@ article > p {
     grid-auto-rows: auto;
     column-gap: 10px;
     row-gap: 10px;
+    justify-content: space-evenly;
 }
 
 .preview-grid {
@@ -125,7 +127,7 @@ sl-tag::part(base):hover {
 
 /* finer grid for people */
 #people .card-grid {
-    grid-template-columns: repeat(auto-fit, 200px);
+    grid-template-columns: repeat(auto-fit, 220px);
 }
 
 /* fix non-conforming headshots */
@@ -200,7 +202,8 @@ sl-card a[href^="/"] {
 }
 
 img[slot="image"] {
-    padding: 10px;
+    padding: 5%;
+    max-width: 90%;
 }
 
 
@@ -230,7 +233,7 @@ sl-card a[href^="https://eeg100"] {
 
 /* Selects the second p element in a list */
 /* currently also affects paragraph at top */
-#replications p:nth-of-type(2) {
+#replications sl-card p:nth-of-type(2) {
     min-height: 8em;
 }
 
@@ -254,12 +257,27 @@ sl-card a[href^="https://eeg100"] {
     color: teal;
 }
 
+
+sl-card::part(footer) {
+    border-top: none;
+}
+
 /*  
     PEOPLE SECTION
 */
 
 #people h2 {
     width: 350px;
+}
+
+#people sl-card::part(body) {
+    padding: var(--sl-spacing-small) var(--padding);
+    height: 48px;
+}
+
+#people sl-card::part(footer) {
+    padding: var(--sl-spacing-small) var(--padding);
+    height: 56px;
 }
 
 #people a[href^="http"] {
@@ -271,45 +289,28 @@ sl-card a[href^="https://eeg100"] {
     color: teal;
 }
 
-#people a[title="replicator"] {
-    white-space: nowrap;
-    padding: 5px;
+#people sl-tag::part(base), #publications sl-tag::part(base) {
     border-radius: 3px;
     color:white;
-    background-color:deepskyblue;
-    margin: 2px;
-    text-decoration: none;
+    font-weight: bold;
 }
 
-#people a[title="coordinator"] {
-    white-space: nowrap;
-    padding: 5px;
-    border-radius: 3px;
-    color:white;
+#people sl-tag.coordinator::part(base) {
     background-color: teal;
-    margin: 2px;
-    text-decoration: none;
 }
 
-#people a[title="steering"] {
-    white-space: nowrap;
-    padding: 5px;
-    border-radius: 3px;
-    color:white;
+#people sl-tag.replicator::part(base) {
+    background-color: deepskyblue;
+}
+
+#people sl-tag.steering::part(base) {
     background-color: rgb(163, 106, 0);
-    margin: 2px;
-    text-decoration: none;
 }
 
-#people a[title="advisor"] {
-    white-space: nowrap;
-    padding: 5px;
-    border-radius: 3px;
-    color:white;
+#people sl-tag.advisor::part(base) {
     background-color: rgb(128, 0, 122);
-    margin: 2px;
-    text-decoration: none;
 }
+
 
 /*
     PUBLICATIONS PAGE
@@ -344,29 +345,14 @@ a[href^="https://scholar.google.com/citations?user=ueMcfOcAAAAJ"] {
     overflow-y: scroll;
 }
 
-#publications a[title="preprint"] {
-    padding: 5px;
-    border-radius: 3px;
-    color:white;
+#publications sl-tag.preprint::part(base) {
     background-color: rgb(69, 183, 209);
-    margin: 2px;
-    text-decoration: none;
 }
 
-#publications a[title="preregistration"] {
-    padding: 5px;
-    border-radius: 3px;
-    color:white;
+#publications sl-tag.preregistration::part(base) {
     background-color: rgb(210, 199, 72);
-    margin: 2px;
-    text-decoration: none;
 }
 
-#publications a[title="published"] {
-    padding: 5px;
-    border-radius: 3px;
-    color:white;
+#publications sl-tag.published::part(base) {
     background-color: rgb(81, 187, 160);
-    margin: 2px;
-    text-decoration: none;
 }
