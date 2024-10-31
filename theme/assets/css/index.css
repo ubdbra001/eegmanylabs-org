@@ -30,10 +30,12 @@ hr {
     min-height: calc(100vh - 80px); /* push footer down. 80px = header+footer */
     overflow: hidden; /* prevents child elements' margins from pushing this around  */
 }
+
 div#content {
     width: 90%;
     margin: auto;
 }
+
 nav#menu {
     min-height: 40px;
     width:100%;
@@ -185,11 +187,40 @@ a.see-all {
     text-decoration: none;
 }
 
-
 /*  
     SECTION
 */
 
+/* 
+    CARD RULES
+*/
+
+sl-card {
+    display: grid;
+}
+
+sl-card::part(header) {
+    display: flex;
+    flex-grow: 1;
+}
+
+div#card-header {
+    display: flex;
+    flex-direction: column;
+}
+
+div#title {
+    flex-grow: 1;
+    margin-bottom: 20px;
+}
+
+div#authors {
+    font-size: 14px;
+}
+
+sl-card::part(footer) {
+    border-top: none;
+}
 
 /* local links */
 sl-card a[href^="/"] {
@@ -255,11 +286,6 @@ sl-card a[href^="https://eeg100"] {
     margin: 2px;
     text-decoration: none;
     color: teal;
-}
-
-
-sl-card::part(footer) {
-    border-top: none;
 }
 
 /*  
