@@ -18,7 +18,15 @@
     src="/assets/images/{{ leaf.front['Image'] }}"
   />
 
-  {{ leaf.content_html|safe }}
+  <div id="leadLink">
+  {% if leaf.front['LeadFullName'] is defined %}
+    <p>Lead by <a href="/people/#{{ leaf.front['PersonId'] }}">{{ leaf.front['LeadFullName'] }}</a></p>
+  {% endif %}
+  </div> 
+
+  <div id="cardContent">
+    {{ leaf.content_html|safe }}
+  </div>
 
 
   {% for tag in leaf.front['Tags'] %}

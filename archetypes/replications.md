@@ -16,6 +16,4 @@ DOI = "{{ Doi }}"
 DoiUrl = "https://dx.doi.org/{{ DOI }}"
 +++
 
-Lead by [{{ LeadFullName }}](/people/#{{ PersonId }})
-
-{{ Abstract|truncate(200, True) }}
+{{ Abstract }}
