@@ -11,7 +11,7 @@ PsychConstruct = "personality"
 SignupUrl = "done"
 Tags = ["Registration", "Personality"]
 DOI = "10.1111/j.1467-9280.2009.02305.x"
-DoiUrl = "https://dx.doi.org/"
+DoiUrl = "https://dx.doi.org/10.1111/j.1467-9280.2009.02305.x"
 +++
 
 Lead by [Annmarie MacNamara](/people/#amacnamara)

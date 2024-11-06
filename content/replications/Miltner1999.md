@@ -11,7 +11,7 @@ PsychConstruct = "learning, memory"
 SignupUrl = "done"
 Tags = ["Registration", "Learning"]
 DOI = "10.1038/17126"
-DoiUrl = "https://dx.doi.org/"
+DoiUrl = "https://dx.doi.org/10.1038/17126"
 +++
 
 Lead by [Matthias Gamer](/people/#mgamer)

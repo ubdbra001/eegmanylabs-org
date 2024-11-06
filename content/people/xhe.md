@@ -3,7 +3,7 @@ SequenceNumber = "6"
 Anchor = "xhe"
 Title = "Xun He"
 Image = "headshots/xhe.png"
-Tags = [ "steering",  "replicator", ]
+Tags = [ "co-investigator",  "replicator", ]
 ScholarUrl = "https://scholar.google.com/citations?user=08oketoAAAAJ&hl=en&oi=ao"
 UniUrl = "https://staffprofiles.bournemouth.ac.uk/display/xhe"
 LabUrl = "None"

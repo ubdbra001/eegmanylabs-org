@@ -9,6 +9,7 @@ Journal = "OSF"
 Year = "2022"
 DOI = "10.31219/osf.io/g8udv"
 DoiUrl = "https://dx.doi.org/10.31219/osf.io/g8udv"
+OsfUrl = "None"
 Pdf = "/assets/pdfs/Shuermann2022.pdf"
 Tags = ["preprint"]
 +++

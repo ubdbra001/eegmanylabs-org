@@ -11,7 +11,7 @@ PsychConstruct = "error processing"
 SignupUrl = "done"
 Tags = ["Recruiting", "Error"]
 DOI = "10.1111/j.1469-8986.2005.00270.x"
-DoiUrl = "https://dx.doi.org/"
+DoiUrl = "https://dx.doi.org/10.1111/j.1469-8986.2005.00270.x"
 +++
 
 Lead by [Magdalena Senderecka](/people/#msenderecka)

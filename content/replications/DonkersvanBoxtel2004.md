@@ -11,7 +11,7 @@ PsychConstruct = "conflict monitoring"
 SignupUrl = "https://docs.google.com/forms/d/e/1FAIpQLSdo9rk0V5OWYi0TB9T9JouxFQ1E91Xe9arUauX5legz2e1iUA/viewform"
 Tags = ["Recruiting", "Conflict"]
 DOI = "10.1016/j.bandc.2004.04.005"
-DoiUrl = "https://dx.doi.org/"
+DoiUrl = "https://dx.doi.org/10.1016/j.bandc.2004.04.005"
 +++
 
 Lead by [Welber Marinovic](/people/#wmarinovic)

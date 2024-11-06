@@ -11,7 +11,7 @@ PsychConstruct = "consciousness"
 SignupUrl = "https://docs.google.com/forms/d/e/1FAIpQLSdo9rk0V5OWYi0TB9T9JouxFQ1E91Xe9arUauX5legz2e1iUA/viewform"
 Tags = ["Registration", "Consciousness"]
 DOI = "10.1038/nn1549"
-DoiUrl = "https://dx.doi.org/"
+DoiUrl = "https://dx.doi.org/10.1038/nn1549"
 +++
 
 Lead by [Damian Cruse](/people/#dcruse)
