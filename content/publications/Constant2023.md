@@ -11,5 +11,5 @@ DOI = "10.31234/osf.io/3472y"
 DoiUrl = "https://dx.doi.org/10.31234/osf.io/3472y"
 OsfUrl = "None"
 Pdf = "/assets/pdfs/Constant2023.pdf"
-Tags = ["preregistration"]
+Tags = ["pre-registered"]
 +++

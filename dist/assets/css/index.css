@@ -349,7 +349,7 @@ a[href^="https://scholar.google.com/citations?user=ueMcfOcAAAAJ"] {
     background-color: rgb(69, 183, 209);
 }
 
-#publications sl-tag.preregistration::part(base) {
+#publications sl-tag.pre-registered::part(base) {
     background-color: rgb(210, 199, 72);
 }
 

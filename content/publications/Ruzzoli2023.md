@@ -11,5 +11,5 @@ DOI = "10.31234/osf.io/3dhpx"
 DoiUrl = "https://dx.doi.org/10.31234/osf.io/3dhpx"
 OsfUrl = "None"
 Pdf = "/assets/pdfs/Ruzzoli2023.pdf"
-Tags = ["preregistration"]
+Tags = ["pre-registered"]
 +++

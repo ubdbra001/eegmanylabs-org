@@ -11,5 +11,5 @@ DOI = "10.31234/osf.io/39vqj"
 DoiUrl = "https://dx.doi.org/10.31234/osf.io/39vqj"
 OsfUrl = "https://osf.io/dc437/"
 Pdf = "/assets/pdfs/Marzuki2023.pdf"
-Tags = ["preregistration"]
+Tags = ["pre-registered"]
 +++

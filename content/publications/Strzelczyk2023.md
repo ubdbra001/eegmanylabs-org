@@ -11,5 +11,5 @@ DOI = "10.31234/osf.io/shdea"
 DoiUrl = "https://dx.doi.org/10.31234/osf.io/shdea"
 OsfUrl = "https://osf.io/pbr8c/"
 Pdf = "/assets/pdfs/Strzelczyk2023.pdf"
-Tags = ["preregistration"]
+Tags = ["pre-registered"]
 +++
