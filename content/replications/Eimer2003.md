@@ -11,7 +11,7 @@ PsychConstruct = "attention, emotions"
 SignupUrl = "done"
 Tags = ["Registration", "Emotion"]
 DOI = "10.3758/CABN.3.2.97"
-DoiUrl = "https://dx.doi.org/"
+DoiUrl = "https://dx.doi.org/10.3758/CABN.3.2.97"
 +++
 
 Lead by [Xun He](/people/#xhe)

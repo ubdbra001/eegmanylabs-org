@@ -11,7 +11,7 @@ PsychConstruct = "reward processing"
 SignupUrl = "done"
 Tags = ["Recruiting", "Feedback"]
 DOI = "10.1523/JNEUROSCI.4537-03.2004"
-DoiUrl = "https://dx.doi.org/"
+DoiUrl = "https://dx.doi.org/10.1523/JNEUROSCI.4537-03.2004"
 +++
 
 Lead by [Faisal Mushtaq](/people/#fmushtaq)

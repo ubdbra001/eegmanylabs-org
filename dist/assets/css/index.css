@@ -303,7 +303,7 @@ sl-card::part(footer) {
     background-color: deepskyblue;
 }
 
-#people sl-tag.steering::part(base) {
+#people sl-tag.co-investigator::part(base) {
     background-color: rgb(163, 106, 0);
 }
 
@@ -349,7 +349,7 @@ a[href^="https://scholar.google.com/citations?user=ueMcfOcAAAAJ"] {
     background-color: rgb(69, 183, 209);
 }
 
-#publications sl-tag.preregistration::part(base) {
+#publications sl-tag.pre-registered::part(base) {
     background-color: rgb(210, 199, 72);
 }
 

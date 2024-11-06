@@ -9,6 +9,7 @@ Journal = "{{ Journal }}"
 Year = "{{ PublicationYear }}"
 DOI = "{{ DOI }}"
 DoiUrl = "https://dx.doi.org/{{ DOI }}"
+OsfUrl = "{{ OSF }}"
 Pdf = "/assets/pdfs/{{ PublicationId }}.pdf"
 Tags = ["{{ Status }}"]
 +++

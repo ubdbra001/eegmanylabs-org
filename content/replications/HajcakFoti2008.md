@@ -11,7 +11,7 @@ PsychConstruct = "emotions"
 SignupUrl = "mailto:a.bland@mmu.ac.uk"
 Tags = ["Recruiting", "Emotion"]
 DOI = "10.1111/j.1467-9280.2008.02053.x"
-DoiUrl = "https://dx.doi.org/"
+DoiUrl = "https://dx.doi.org/10.1111/j.1467-9280.2008.02053.x"
 +++
 
 Lead by [Amy Bland](/people/#abland)

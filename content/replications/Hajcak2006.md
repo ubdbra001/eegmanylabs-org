@@ -11,7 +11,7 @@ PsychConstruct = "reward processing, feedback, outcome monitoring, emotions"
 SignupUrl = "done"
 Tags = ["Recruiting", "Feedback"]
 DOI = "10.1016/j.biopsycho.2005.04.001"
-DoiUrl = "https://dx.doi.org/"
+DoiUrl = "https://dx.doi.org/10.1016/j.biopsycho.2005.04.001"
 +++
 
 Lead by [Melle van der Molen ](/people/#mvandermolen)

@@ -6,7 +6,7 @@ Image = "headshots/{{ HeadShotFilename }}"
 Tags = [
 {%- if CoordinatorRole %} "coordinator", {% endif -%}
 {%- if AdvisorRole %} "advisor", {% endif -%}
-{%- if SteeringRole %} "steering", {% endif -%}
+{%- if CoInvestigatorRole %} "co-investigator", {% endif -%}
 {%- if ReplicatorRole %} "replicator", {% endif -%} 
 ]
 ScholarUrl = "{{ ScholarUrl }}"
