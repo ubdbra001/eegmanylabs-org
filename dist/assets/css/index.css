@@ -303,7 +303,7 @@ sl-card::part(footer) {
     background-color: deepskyblue;
 }
 
-#people sl-tag.steering::part(base) {
+#people sl-tag.co-investigator::part(base) {
     background-color: rgb(163, 106, 0);
 }
 
