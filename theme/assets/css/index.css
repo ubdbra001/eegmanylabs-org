@@ -105,7 +105,7 @@ article > p {
     grid-auto-rows: auto;
     column-gap: 10px;
     row-gap: 10px;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 .preview-grid {
