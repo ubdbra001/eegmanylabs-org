@@ -14,7 +14,9 @@ img {
 
 img#logo {
     height: 6vw;
+    min-height: 40px;
     max-height: 60px;
+    padding: 8px;
 }
 
 /* these sometimes appear in html from markdown */
@@ -37,7 +39,6 @@ div#content {
 nav#menu {
     min-height: 40px;
     width:100%;
-    padding: 8px;
     overflow: visible; /* if the floating menu wraps around, extend this nav */
     z-index: 1;     /* always on top */
     position: fixed;  /* attached to the top */
@@ -46,6 +47,7 @@ nav#menu {
     font-weight: normal;
     background-color: #F7F7F7;;
 }
+
 nav#menu a {
     color: #666666;
     text-decoration: none;
