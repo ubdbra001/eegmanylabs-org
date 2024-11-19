@@ -356,6 +356,16 @@ a[href^="https://scholar.google.com/citations?user=ueMcfOcAAAAJ"] {
 #publications sl-tag.published::part(base) {
     background-color: rgb(81, 187, 160);
 }
+
+#publications img {
+    height: 300px;
+}
+
+#publications #authors{
+    padding-top: 20px;
+    font-size: 14px;
+}
+
 /* CSS for equal sized but reactive cards */
 
 sl-card {
