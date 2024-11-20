@@ -105,7 +105,7 @@ article > p {
     grid-auto-rows: auto;
     column-gap: 10px;
     row-gap: 10px;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 .preview-grid {
@@ -123,6 +123,14 @@ article > p {
 
 sl-tag::part(base):hover {
     background: rgb(186, 186, 186);
+}
+
+sl-menu-item::part(label) {
+    text-transform: capitalize;
+}
+
+.card-filter {
+    margin-bottom: 20px;
 }
 
 /* finer grid for people */
