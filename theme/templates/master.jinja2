@@ -16,6 +16,17 @@
     <title>eegmanylabs</title>
 </head>
 <body>
+  <div class="colourPickers" style="position:fixed;left:20px;top:100px;padding:5px;border:solid 1px black;background-color:white;">
+    <div style="display:flex; align-items:center;">
+      <sl-color-picker label="Select a color" style="padding: 5px" class="navPicker"></sl-color-picker> Nav-bar colour
+    </div>
+    <div style="display:flex; align-items:center;">
+      <sl-color-picker label="Select a color" style="padding: 5px" class="bgPicker"></sl-color-picker> Background colour
+    </div>
+    <div style="display:flex; align-items:center;">
+      <sl-color-picker label="Select a color" style="padding: 5px" class="footPicker"></sl-color-picker> Footer colour
+    </div>
+  </div>
   <nav id="menu">
     <a id="logo" href="/"><img id="logo" src="/assets/images/logo.png"></a>
     <a href="javascript:void(0);" class="icon" onclick="showResponsiveMenu()">
@@ -82,7 +93,36 @@ function showResponsiveMenu() {
   // Remove the class, showing the page content
   document.documentElement.classList.remove('reduce-fouce');
 </script>
+<script>
+  function changeColour(value, elSelector) {
+    el = document.querySelector(elSelector)
+    el.style.backgroundColor = value
+  }
 
+  function addChangeColour(elFrom, elTo) {
+    el = document.querySelector(elFrom)
+    el.addEventListener(
+      "sl-change",
+      function(e) { changeColour(e.currentTarget.value, elTo) }
+    )
+  }
+
+  function setInitialCol(pickerEl, pageEl) {
+    picker = document.querySelector(pickerEl)
+    el = document.querySelector(pageEl)
+
+    picker.value = window.getComputedStyle(el).backgroundColor
+  }
+
+  function setupPickers(pickerEl, pageEl) {
+    setInitialCol(pickerEl, pageEl)
+    addChangeColour(pickerEl, pageEl)
+  }
+
+  setupPickers(".navPicker", "nav#menu")
+  setupPickers(".bgPicker", "body")
+  setupPickers(".footPicker", "footer")
+</script>
 
 </body>
 </html>
