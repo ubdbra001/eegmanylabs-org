@@ -4,7 +4,10 @@
     <meta charset=utf-8>
     <meta http-equiv=x-ua-compatible content="ie=edge">
     <meta name=viewport content="width=device-width,initial-scale=1">
-    <meta syrinx-environment="{{ index.meta.environment }}" syrinx-timestamp="{{ index.meta.timestamp.isoformat() }}" />
+    <meta
+        syrinx-environment="{{ index.meta.environment }}"
+        syrinx-timestamp="{{ index.meta.timestamp.isoformat() }}"
+        syrinx-version="{{ index.meta.syrinx_version }}"/>
     {% if index.meta.environment != 'production' %}
       <meta name="robots" content="noindex, nofollow">
     {% endif %}
@@ -12,6 +15,8 @@
     <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.15.0/cdn/shoelace-autoloader.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="canonical" href="{{ index.address }}">
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml">
     <link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/assets/css/index.css">
     <script src="/assets/js/card_control.js" defer></script>
