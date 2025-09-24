@@ -1,6 +1,7 @@
 +++
 SequenceNumber = 2
 image = "assets/images/replications.png"
+LastModified = 2025-08-20T09:00:00+00:00
 +++
 # Replications
 

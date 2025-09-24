@@ -4,6 +4,7 @@ image = "assets/images/publications.png"
 scholar_link = "https://scholar.google.com/citations?user=ueMcfOcAAAAJ"
 osf_link = "https://osf.io/yb3pq/"
 gnode_link = "https://gin.g-node.org/EEGManyLabs"
+LastModified = 2025-08-20T09:00:00+00:00
 +++
 # Publications
 
