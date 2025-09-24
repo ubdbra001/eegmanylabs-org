@@ -1,5 +1,6 @@
 +++
 SequenceNumber = 4
+LastModified = 2025-08-20T09:00:00+00:00
 +++
 ## Frontal alpha asymmetry and personality traits 
 
