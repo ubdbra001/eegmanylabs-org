@@ -1,6 +1,5 @@
 +++
 SequenceNumber =  1
-LastModified = 2025-07-08T16:56:00+00:00
 +++
 # About
 

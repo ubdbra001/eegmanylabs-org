@@ -1,6 +1,5 @@
 +++
 SequenceNumber = 6
-LastModified = 2025-08-29T20:22:00+00:00
 +++
 ## MNE-BIDS beginner tutorial
 

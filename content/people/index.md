@@ -1,7 +1,6 @@
 +++
 SequenceNumber =  3
 image = "assets/images/people.png"
-LastModified = 2025-08-20T09:00:00+00:00
 +++
 # People
 
